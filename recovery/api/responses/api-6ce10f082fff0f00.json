@@ -1,0 +1,1 @@
+{"@context":"\/api\/contexts\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"No route found for \u0022GET http:\/\/backend.acetech.cloud\/api\/\u0022"}

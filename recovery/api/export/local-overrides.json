@@ -1,0 +1,5612 @@
+[
+  {
+    "statId": 510,
+    "itemId": 2,
+    "level": 8,
+    "overrides": {
+      "damage": 1453,
+      "damage_radius": 49
+    }
+  },
+  {
+    "statId": 514,
+    "itemId": 2,
+    "level": 12,
+    "overrides": {
+      "damage": 2206,
+      "damage_radius": 49
+    }
+  },
+  {
+    "statId": 520,
+    "itemId": 2,
+    "level": 16,
+    "overrides": {
+      "damage": 3349,
+      "damage_radius": 49
+    }
+  },
+  {
+    "statId": 522,
+    "itemId": 2,
+    "level": 18,
+    "overrides": {
+      "damage": 4127,
+      "damage_radius": 49
+    }
+  },
+  {
+    "statId": 529,
+    "itemId": 2,
+    "level": 22,
+    "overrides": {
+      "damage": 6264,
+      "damage_radius": 49
+    }
+  },
+  {
+    "statId": 541,
+    "itemId": 3,
+    "level": 5,
+    "overrides": {
+      "damage": 278,
+      "capacity": 15,
+      "damage_radius": 149,
+      "effect_radius": 300
+    }
+  },
+  {
+    "statId": 545,
+    "itemId": 3,
+    "level": 9,
+    "overrides": {
+      "damage": 407,
+      "capacity": 15,
+      "damage_radius": 149,
+      "effect_radius": 300
+    }
+  },
+  {
+    "statId": 549,
+    "itemId": 3,
+    "level": 12,
+    "overrides": {
+      "damage": 542,
+      "capacity": 15,
+      "damage_radius": 149,
+      "effect_radius": 300
+    }
+  },
+  {
+    "statId": 552,
+    "itemId": 3,
+    "level": 15,
+    "overrides": {
+      "damage": 722,
+      "capacity": 15,
+      "damage_radius": 149,
+      "effect_radius": 300
+    }
+  },
+  {
+    "statId": 556,
+    "itemId": 3,
+    "level": 18,
+    "overrides": {
+      "damage": 960,
+      "capacity": 15,
+      "damage_radius": 149,
+      "effect_radius": 300
+    }
+  },
+  {
+    "statId": 566,
+    "itemId": 4,
+    "level": 1,
+    "overrides": {
+      "count": 6,
+      "speed": 400,
+      "health": 400,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 567,
+    "itemId": 4,
+    "level": 2,
+    "overrides": {
+      "count": 7,
+      "speed": 400,
+      "health": 400,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 570,
+    "itemId": 4,
+    "level": 4,
+    "overrides": {
+      "count": 9,
+      "speed": 400,
+      "health": 400,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 571,
+    "itemId": 4,
+    "level": 5,
+    "overrides": {
+      "count": 10,
+      "speed": 400,
+      "health": 400,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 573,
+    "itemId": 4,
+    "level": 7,
+    "overrides": {
+      "count": 12,
+      "speed": 400,
+      "health": 400,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 601,
+    "itemId": 5,
+    "level": 16,
+    "overrides": {
+      "damage": 260,
+      "speed_boost": -75,
+      "effect_radius": 800,
+      "freeze_duration": 10000
+    }
+  },
+  {
+    "statId": 621,
+    "itemId": 6,
+    "level": 8,
+    "overrides": {
+      "heal": 450,
+      "count": 6,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150
+    }
+  },
+  {
+    "statId": 623,
+    "itemId": 6,
+    "level": 10,
+    "overrides": {
+      "heal": 450,
+      "count": 7,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150
+    }
+  },
+  {
+    "statId": 625,
+    "itemId": 6,
+    "level": 12,
+    "overrides": {
+      "heal": 450,
+      "count": 7,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150
+    }
+  },
+  {
+    "statId": 627,
+    "itemId": 6,
+    "level": 14,
+    "overrides": {
+      "heal": 450,
+      "count": 8,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150
+    }
+  },
+  {
+    "statId": 629,
+    "itemId": 6,
+    "level": 16,
+    "overrides": {
+      "heal": 450,
+      "count": 9,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150
+    }
+  },
+  {
+    "statId": 646,
+    "itemId": 7,
+    "level": 8,
+    "overrides": {
+      "health": 275,
+      "duration": 8000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 650,
+    "itemId": 7,
+    "level": 10,
+    "overrides": {
+      "health": 325,
+      "duration": 8000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 652,
+    "itemId": 7,
+    "level": 12,
+    "overrides": {
+      "health": 375,
+      "duration": 8000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 654,
+    "itemId": 7,
+    "level": 14,
+    "overrides": {
+      "health": 425,
+      "duration": 8000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 656,
+    "itemId": 7,
+    "level": 16,
+    "overrides": {
+      "health": 475,
+      "duration": 8000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 673,
+    "itemId": 8,
+    "level": 8,
+    "overrides": {
+      "health": 10970,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 273
+    }
+  },
+  {
+    "statId": 675,
+    "itemId": 8,
+    "level": 10,
+    "overrides": {
+      "health": 13030,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 330
+    }
+  },
+  {
+    "statId": 677,
+    "itemId": 8,
+    "level": 12,
+    "overrides": {
+      "health": 15480,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 399
+    }
+  },
+  {
+    "statId": 679,
+    "itemId": 8,
+    "level": 14,
+    "overrides": {
+      "health": 18390,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 483
+    }
+  },
+  {
+    "statId": 682,
+    "itemId": 8,
+    "level": 16,
+    "overrides": {
+      "health": 21750,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 585
+    }
+  },
+  {
+    "statId": 697,
+    "itemId": 9,
+    "level": 8,
+    "overrides": {
+      "count": 5,
+      "speed": 400,
+      "damage": 974,
+      "health": 190,
+      "damage_radius": 100,
+      "trigger_delay": 2000
+    }
+  },
+  {
+    "statId": 699,
+    "itemId": 9,
+    "level": 10,
+    "overrides": {
+      "count": 5,
+      "speed": 400,
+      "damage": 1179,
+      "health": 240,
+      "damage_radius": 100,
+      "trigger_delay": 2000
+    }
+  },
+  {
+    "statId": 702,
+    "itemId": 9,
+    "level": 12,
+    "overrides": {
+      "count": 5,
+      "speed": 400,
+      "damage": 1427,
+      "health": 290,
+      "damage_radius": 100,
+      "trigger_delay": 2000
+    }
+  },
+  {
+    "statId": 704,
+    "itemId": 9,
+    "level": 14,
+    "overrides": {
+      "count": 5,
+      "speed": 400,
+      "damage": 1726,
+      "health": 350,
+      "damage_radius": 100,
+      "trigger_delay": 2000
+    }
+  },
+  {
+    "statId": 706,
+    "itemId": 9,
+    "level": 16,
+    "overrides": {
+      "count": 5,
+      "speed": 400,
+      "damage": 2083,
+      "health": 410,
+      "damage_radius": 100,
+      "trigger_delay": 2000
+    }
+  },
+  {
+    "statId": 715,
+    "itemId": 10,
+    "level": 1,
+    "overrides": {
+      "duration": 6
+    }
+  },
+  {
+    "statId": 718,
+    "itemId": 10,
+    "level": 2,
+    "overrides": {
+      "duration": 8
+    }
+  },
+  {
+    "statId": 719,
+    "itemId": 10,
+    "level": 3,
+    "overrides": {
+      "duration": 11
+    }
+  },
+  {
+    "statId": 721,
+    "itemId": 10,
+    "level": 5,
+    "overrides": {
+      "duration": 20
+    }
+  },
+  {
+    "statId": 723,
+    "itemId": 10,
+    "level": 7,
+    "overrides": {
+      "duration": 30
+    }
+  },
+  {
+    "statId": 734,
+    "itemId": 11,
+    "level": 8,
+    "overrides": {
+      "heal": 350,
+      "capacity": 25,
+      "duration": 7500,
+      "effect_radius": 350
+    }
+  },
+  {
+    "statId": 738,
+    "itemId": 11,
+    "level": 12,
+    "overrides": {
+      "heal": 475,
+      "capacity": 25,
+      "duration": 7500,
+      "effect_radius": 350
+    }
+  },
+  {
+    "statId": 743,
+    "itemId": 11,
+    "level": 16,
+    "overrides": {
+      "heal": 675,
+      "capacity": 25,
+      "duration": 7500,
+      "effect_radius": 350
+    }
+  },
+  {
+    "statId": 745,
+    "itemId": 11,
+    "level": 18,
+    "overrides": {
+      "heal": 775,
+      "capacity": 25,
+      "duration": 7500,
+      "effect_radius": 350
+    }
+  },
+  {
+    "statId": 750,
+    "itemId": 11,
+    "level": 22,
+    "overrides": {
+      "heal": 1075,
+      "capacity": 25,
+      "duration": 7500,
+      "effect_radius": 350
+    }
+  },
+  {
+    "statId": 769,
+    "itemId": 12,
+    "level": 8,
+    "overrides": {
+      "housing_space": 13
+    }
+  },
+  {
+    "statId": 773,
+    "itemId": 12,
+    "level": 10,
+    "overrides": {
+      "housing_space": 15
+    }
+  },
+  {
+    "statId": 775,
+    "itemId": 12,
+    "level": 12,
+    "overrides": {
+      "housing_space": 17
+    }
+  },
+  {
+    "statId": 777,
+    "itemId": 12,
+    "level": 14,
+    "overrides": {
+      "housing_space": 19
+    }
+  },
+  {
+    "statId": 780,
+    "itemId": 12,
+    "level": 16,
+    "overrides": {
+      "housing_space": 21
+    }
+  },
+  {
+    "statId": 800,
+    "itemId": 13,
+    "level": 8,
+    "overrides": {
+      "duration": 11500
+    }
+  },
+  {
+    "statId": 805,
+    "itemId": 13,
+    "level": 10,
+    "overrides": {
+      "duration": 12500
+    }
+  },
+  {
+    "statId": 807,
+    "itemId": 13,
+    "level": 12,
+    "overrides": {
+      "duration": 13500
+    }
+  },
+  {
+    "statId": 810,
+    "itemId": 13,
+    "level": 14,
+    "overrides": {
+      "duration": 14500
+    }
+  },
+  {
+    "statId": 812,
+    "itemId": 13,
+    "level": 16,
+    "overrides": {
+      "duration": 15500
+    }
+  },
+  {
+    "statId": 821,
+    "itemId": 14,
+    "level": 2,
+    "overrides": {
+      "effect_radius": 320,
+      "shock_duration": 6000
+    }
+  },
+  {
+    "statId": 808,
+    "itemId": 14,
+    "level": 3,
+    "overrides": {
+      "effect_radius": 320,
+      "shock_duration": 7000
+    }
+  },
+  {
+    "statId": 813,
+    "itemId": 14,
+    "level": 4,
+    "overrides": {
+      "effect_radius": 320,
+      "shock_duration": 8000
+    }
+  },
+  {
+    "statId": 823,
+    "itemId": 14,
+    "level": 5,
+    "overrides": {
+      "effect_radius": 320,
+      "shock_duration": 9000
+    }
+  },
+  {
+    "statId": 824,
+    "itemId": 14,
+    "level": 6,
+    "overrides": {
+      "effect_radius": 320,
+      "shock_duration": 10000
+    }
+  },
+  {
+    "statId": 827,
+    "itemId": 15,
+    "level": 1,
+    "overrides": {
+      "duration": 8000,
+      "effect_radius": 430
+    }
+  },
+  {
+    "statId": 829,
+    "itemId": 15,
+    "level": 2,
+    "overrides": {
+      "duration": 9000,
+      "effect_radius": 430
+    }
+  },
+  {
+    "statId": 831,
+    "itemId": 15,
+    "level": 4,
+    "overrides": {
+      "duration": 11000,
+      "effect_radius": 430
+    }
+  },
+  {
+    "statId": 832,
+    "itemId": 15,
+    "level": 5,
+    "overrides": {
+      "duration": 12000,
+      "effect_radius": 430
+    }
+  },
+  {
+    "statId": 833,
+    "itemId": 15,
+    "level": 6,
+    "overrides": {
+      "duration": 13000,
+      "effect_radius": 430
+    }
+  },
+  {
+    "statId": 853,
+    "itemId": 16,
+    "level": 16,
+    "overrides": {
+      "duration": 10000,
+      "speed_boost": 300,
+      "effect_radius": 800,
+      "damage_increase": -50
+    }
+  },
+  {
+    "statId": 868,
+    "itemId": 17,
+    "level": 8,
+    "overrides": {
+      "heal": 360,
+      "speed": 400,
+      "health": 7790,
+      "attack_rate": 800,
+      "speed_boost": -50,
+      "freeze_duration": 5000,
+      "attack_range_max": 90,
+      "damage_per_second": 1092
+    }
+  },
+  {
+    "statId": 870,
+    "itemId": 17,
+    "level": 10,
+    "overrides": {
+      "heal": 420,
+      "speed": 400,
+      "health": 9430,
+      "attack_rate": 800,
+      "speed_boost": -50,
+      "freeze_duration": 5000,
+      "attack_range_max": 90,
+      "damage_per_second": 1250
+    }
+  },
+  {
+    "statId": 873,
+    "itemId": 17,
+    "level": 12,
+    "overrides": {
+      "heal": 480,
+      "speed": 400,
+      "health": 11410,
+      "attack_rate": 800,
+      "speed_boost": -50,
+      "freeze_duration": 5000,
+      "attack_range_max": 90,
+      "damage_per_second": 1431
+    }
+  },
+  {
+    "statId": 875,
+    "itemId": 17,
+    "level": 14,
+    "overrides": {
+      "heal": 550,
+      "speed": 400,
+      "health": 13810,
+      "attack_rate": 800,
+      "speed_boost": -50,
+      "freeze_duration": 5000,
+      "attack_range_max": 90,
+      "damage_per_second": 1639
+    }
+  },
+  {
+    "statId": 878,
+    "itemId": 17,
+    "level": 16,
+    "overrides": {
+      "heal": 610,
+      "speed": 400,
+      "health": 16690,
+      "attack_rate": 800,
+      "speed_boost": -50,
+      "freeze_duration": 5000,
+      "attack_range_max": 90,
+      "damage_per_second": 1874
+    }
+  },
+  {
+    "statId": 895,
+    "itemId": 18,
+    "level": 8,
+    "overrides": {
+      "shock_duration": 30000
+    }
+  },
+  {
+    "statId": 803,
+    "itemId": 24,
+    "level": 8,
+    "overrides": {
+      "health": 6800,
+      "attack_rate": 4000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1400,
+      "damage_per_second": 565
+    }
+  },
+  {
+    "statId": 851,
+    "itemId": 24,
+    "level": 10,
+    "overrides": {
+      "health": 8300,
+      "attack_rate": 4000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1400,
+      "damage_per_second": 684
+    }
+  },
+  {
+    "statId": 899,
+    "itemId": 24,
+    "level": 12,
+    "overrides": {
+      "health": 10000,
+      "attack_rate": 4000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1400,
+      "damage_per_second": 827
+    }
+  },
+  {
+    "statId": 916,
+    "itemId": 24,
+    "level": 14,
+    "overrides": {
+      "health": 12100,
+      "attack_rate": 4000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1400,
+      "damage_per_second": 1000
+    }
+  },
+  {
+    "statId": 517,
+    "itemId": 24,
+    "level": 16,
+    "overrides": {
+      "health": 14630,
+      "attack_rate": 4000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1400,
+      "damage_per_second": 1210
+    }
+  },
+  {
+    "statId": 612,
+    "itemId": 25,
+    "level": 1,
+    "overrides": {
+      "damage": 1000,
+      "health": 15000,
+      "capacity": 2,
+      "attack_rate": 250,
+      "damage_type": "single",
+      "reload_time": 1500,
+      "targets_air": true,
+      "attack_range_max": 900
+    }
+  },
+  {
+    "statId": 647,
+    "itemId": 26,
+    "level": 1,
+    "overrides": {
+      "damage": 1500,
+      "health": 20000,
+      "capacity": 2,
+      "attack_rate": 250,
+      "damage_type": "single",
+      "reload_time": 1500,
+      "targets_air": true,
+      "attack_range_max": 900
+    }
+  },
+  {
+    "statId": 661,
+    "itemId": 27,
+    "level": 1,
+    "overrides": {
+      "damage": 2000,
+      "health": 25000,
+      "capacity": 2,
+      "attack_rate": 250,
+      "damage_type": "single",
+      "reload_time": 1500,
+      "targets_air": true,
+      "attack_range_max": 900
+    }
+  },
+  {
+    "statId": 724,
+    "itemId": 28,
+    "level": 6,
+    "overrides": {
+      "health": 3000,
+      "attack_rate": 3000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1000,
+      "damage_per_second": 225
+    }
+  },
+  {
+    "statId": 753,
+    "itemId": 28,
+    "level": 10,
+    "overrides": {
+      "health": 4300,
+      "attack_rate": 3000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1000,
+      "damage_per_second": 330
+    }
+  },
+  {
+    "statId": 778,
+    "itemId": 28,
+    "level": 14,
+    "overrides": {
+      "health": 6000,
+      "attack_rate": 3000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1000,
+      "damage_per_second": 483
+    }
+  },
+  {
+    "statId": 640,
+    "itemId": 28,
+    "level": 18,
+    "overrides": {
+      "health": 8400,
+      "attack_rate": 3000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1000,
+      "damage_per_second": 708
+    }
+  },
+  {
+    "statId": 920,
+    "itemId": 28,
+    "level": 22,
+    "overrides": {
+      "health": 11880,
+      "attack_rate": 3000,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1000,
+      "damage_per_second": 1036
+    }
+  },
+  {
+    "statId": 932,
+    "itemId": 29,
+    "level": 5,
+    "overrides": {
+      "health": 7200,
+      "attack_rate": 2000,
+      "damage_type": "critter",
+      "targets_air": false,
+      "damage_radius": 100,
+      "attack_range_max": 1000,
+      "attack_range_min": 300,
+      "damage_per_second": 54
+    }
+  },
+  {
+    "statId": 934,
+    "itemId": 29,
+    "level": 7,
+    "overrides": {
+      "health": 8200,
+      "attack_rate": 2000,
+      "damage_type": "critter",
+      "targets_air": false,
+      "damage_radius": 100,
+      "attack_range_max": 1000,
+      "attack_range_min": 300,
+      "damage_per_second": 66
+    }
+  },
+  {
+    "statId": 936,
+    "itemId": 29,
+    "level": 9,
+    "overrides": {
+      "health": 9200,
+      "attack_rate": 2000,
+      "damage_type": "critter",
+      "targets_air": false,
+      "damage_radius": 100,
+      "attack_range_max": 1000,
+      "attack_range_min": 300,
+      "damage_per_second": 80
+    }
+  },
+  {
+    "statId": 937,
+    "itemId": 29,
+    "level": 10,
+    "overrides": {
+      "health": 9700,
+      "attack_rate": 2000,
+      "damage_type": "critter",
+      "targets_air": false,
+      "damage_radius": 100,
+      "attack_range_max": 1000,
+      "attack_range_min": 300,
+      "damage_per_second": 87
+    }
+  },
+  {
+    "statId": 938,
+    "itemId": 29,
+    "level": 11,
+    "overrides": {
+      "health": 10200,
+      "attack_rate": 2000,
+      "damage_type": "critter",
+      "targets_air": false,
+      "damage_radius": 100,
+      "attack_range_max": 1000,
+      "attack_range_min": 300,
+      "damage_per_second": 96
+    }
+  },
+  {
+    "statId": 948,
+    "itemId": 30,
+    "level": 1,
+    "overrides": {
+      "health": 20000,
+      "damage_increase": 50,
+      "attack_range_max": 760
+    }
+  },
+  {
+    "statId": 949,
+    "itemId": 31,
+    "level": 1,
+    "overrides": {
+      "health": 27500,
+      "damage_increase": 75,
+      "attack_range_max": 760
+    }
+  },
+  {
+    "statId": 950,
+    "itemId": 32,
+    "level": 1,
+    "overrides": {
+      "health": 35000,
+      "damage_increase": 100,
+      "attack_range_max": 760
+    }
+  },
+  {
+    "statId": 951,
+    "itemId": 33,
+    "level": 1,
+    "overrides": {
+      "damage": 5250,
+      "health": 15000,
+      "attack_rate": 3500,
+      "damage_type": "splash",
+      "reload_time": 3500,
+      "targets_air": true,
+      "damage_radius": 75,
+      "attack_range_max": 1800
+    }
+  },
+  {
+    "statId": 952,
+    "itemId": 34,
+    "level": 1,
+    "overrides": {
+      "damage": 8750,
+      "health": 20000,
+      "attack_rate": 3500,
+      "damage_type": "splash",
+      "reload_time": 3500,
+      "targets_air": true,
+      "damage_radius": 75,
+      "attack_range_max": 1800
+    }
+  },
+  {
+    "statId": 953,
+    "itemId": 35,
+    "level": 1,
+    "overrides": {
+      "damage": 15750,
+      "health": 25000,
+      "attack_rate": 3500,
+      "damage_type": "splash",
+      "reload_time": 3500,
+      "targets_air": true,
+      "damage_radius": 75,
+      "attack_range_max": 1800
+    }
+  },
+  {
+    "statId": 954,
+    "itemId": 36,
+    "level": 1,
+    "overrides": {
+      "health": 10000
+    }
+  },
+  {
+    "statId": 955,
+    "itemId": 36,
+    "level": 2,
+    "overrides": {
+      "health": 20000
+    }
+  },
+  {
+    "statId": 956,
+    "itemId": 36,
+    "level": 3,
+    "overrides": {
+      "health": 30000
+    }
+  },
+  {
+    "statId": 957,
+    "itemId": 36,
+    "level": 4,
+    "overrides": {
+      "health": 40000
+    }
+  },
+  {
+    "statId": 958,
+    "itemId": 36,
+    "level": 5,
+    "overrides": {
+      "health": 50000
+    }
+  },
+  {
+    "statId": 973,
+    "itemId": 37,
+    "level": 6,
+    "overrides": {
+      "health": 3500,
+      "capacity": 12,
+      "attack_rate": 150,
+      "burn_damage": 16,
+      "damage_type": "splash",
+      "reload_time": 100,
+      "targets_air": false,
+      "burn_duration": 5000,
+      "damage_radius": 100,
+      "attack_range_max": 650,
+      "damage_per_second": 97
+    }
+  },
+  {
+    "statId": 963,
+    "itemId": 37,
+    "level": 9,
+    "overrides": {
+      "health": 4500,
+      "capacity": 12,
+      "attack_rate": 150,
+      "burn_damage": 21,
+      "damage_type": "splash",
+      "reload_time": 100,
+      "targets_air": false,
+      "burn_duration": 5000,
+      "damage_radius": 100,
+      "attack_range_max": 650,
+      "damage_per_second": 129
+    }
+  },
+  {
+    "statId": 976,
+    "itemId": 37,
+    "level": 12,
+    "overrides": {
+      "health": 5800,
+      "capacity": 12,
+      "attack_rate": 150,
+      "burn_damage": 28,
+      "damage_type": "splash",
+      "reload_time": 100,
+      "targets_air": false,
+      "burn_duration": 5000,
+      "damage_radius": 100,
+      "attack_range_max": 650,
+      "damage_per_second": 171
+    }
+  },
+  {
+    "statId": 980,
+    "itemId": 37,
+    "level": 16,
+    "overrides": {
+      "health": 8200,
+      "capacity": 12,
+      "attack_rate": 150,
+      "burn_damage": 41,
+      "damage_type": "splash",
+      "reload_time": 100,
+      "targets_air": false,
+      "burn_duration": 5000,
+      "damage_radius": 100,
+      "attack_range_max": 650,
+      "damage_per_second": 251
+    }
+  },
+  {
+    "statId": 983,
+    "itemId": 37,
+    "level": 19,
+    "overrides": {
+      "health": 10560,
+      "capacity": 12,
+      "attack_rate": 150,
+      "burn_damage": 55,
+      "damage_type": "splash",
+      "reload_time": 100,
+      "targets_air": false,
+      "burn_duration": 5000,
+      "damage_radius": 100,
+      "attack_range_max": 650,
+      "damage_per_second": 333
+    }
+  },
+  {
+    "statId": 992,
+    "itemId": 38,
+    "level": 1,
+    "overrides": {
+      "damage": 500,
+      "health": 15000,
+      "attack_rate": 1000,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 100,
+      "destruct_damage": 2000,
+      "attack_range_max": 1000,
+      "attack_range_min": 230
+    }
+  },
+  {
+    "statId": 993,
+    "itemId": 39,
+    "level": 1,
+    "overrides": {
+      "damage": 650,
+      "health": 20000,
+      "attack_rate": 1000,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 100,
+      "destruct_damage": 2400,
+      "attack_range_max": 1000,
+      "attack_range_min": 230
+    }
+  },
+  {
+    "statId": 994,
+    "itemId": 40,
+    "level": 1,
+    "overrides": {
+      "damage": 800,
+      "health": 25000,
+      "attack_rate": 1000,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 100,
+      "destruct_damage": 3000,
+      "attack_range_max": 1000,
+      "attack_range_min": 230
+    }
+  },
+  {
+    "statId": 995,
+    "itemId": 41,
+    "level": 1,
+    "overrides": {
+      "damage": 120,
+      "health": 20000,
+      "attack_rate": 5000,
+      "damage_type": "single",
+      "targets_air": false,
+      "attack_range_max": 2500,
+      "attack_range_min": 800
+    }
+  },
+  {
+    "statId": 996,
+    "itemId": 42,
+    "level": 1,
+    "overrides": {
+      "damage": 120,
+      "health": 25000,
+      "attack_rate": 4000,
+      "damage_type": "single",
+      "targets_air": false,
+      "attack_range_max": 2500,
+      "attack_range_min": 800
+    }
+  },
+  {
+    "statId": 997,
+    "itemId": 43,
+    "level": 1,
+    "overrides": {
+      "damage": 120,
+      "health": 30000,
+      "attack_rate": 3000,
+      "damage_type": "single",
+      "targets_air": false,
+      "attack_range_max": 2500,
+      "attack_range_min": 800
+    }
+  },
+  {
+    "statId": 1001,
+    "itemId": 44,
+    "level": 11,
+    "overrides": {
+      "count": 32
+    }
+  },
+  {
+    "statId": 1005,
+    "itemId": 44,
+    "level": 15,
+    "overrides": {
+      "count": 40
+    }
+  },
+  {
+    "statId": 1008,
+    "itemId": 44,
+    "level": 18,
+    "overrides": {
+      "count": 46
+    }
+  },
+  {
+    "statId": 1010,
+    "itemId": 44,
+    "level": 20,
+    "overrides": {
+      "count": 50
+    }
+  },
+  {
+    "statId": 1012,
+    "itemId": 44,
+    "level": 22,
+    "overrides": {
+      "count": 52
+    }
+  },
+  {
+    "statId": 1019,
+    "itemId": 45,
+    "level": 1,
+    "overrides": {
+      "health": 10000,
+      "attack_rate": 150,
+      "burn_damage": 83,
+      "damage_type": "splash",
+      "targets_air": false,
+      "burn_duration": 5000,
+      "damage_radius": 200,
+      "attack_range_max": 850,
+      "damage_per_second": 500
+    }
+  },
+  {
+    "statId": 1020,
+    "itemId": 46,
+    "level": 1,
+    "overrides": {
+      "health": 15000,
+      "attack_rate": 150,
+      "burn_damage": 141,
+      "damage_type": "splash",
+      "targets_air": false,
+      "burn_duration": 5000,
+      "damage_radius": 200,
+      "attack_range_max": 850,
+      "damage_per_second": 850
+    }
+  },
+  {
+    "statId": 1021,
+    "itemId": 47,
+    "level": 1,
+    "overrides": {
+      "health": 20000,
+      "attack_rate": 150,
+      "burn_damage": 200,
+      "damage_type": "splash",
+      "targets_air": false,
+      "burn_duration": 5000,
+      "damage_radius": 200,
+      "attack_range_max": 850,
+      "damage_per_second": 1200
+    }
+  },
+  {
+    "statId": 1036,
+    "itemId": 48,
+    "level": 10,
+    "overrides": {
+      "housing_space": 14
+    }
+  },
+  {
+    "statId": 1044,
+    "itemId": 48,
+    "level": 12,
+    "overrides": {
+      "housing_space": 16
+    }
+  },
+  {
+    "statId": 1046,
+    "itemId": 48,
+    "level": 14,
+    "overrides": {
+      "housing_space": 18
+    }
+  },
+  {
+    "statId": 1056,
+    "itemId": 48,
+    "level": 18,
+    "overrides": {
+      "housing_space": 22
+    }
+  },
+  {
+    "statId": 1066,
+    "itemId": 48,
+    "level": 22,
+    "overrides": {
+      "housing_space": 26
+    }
+  },
+  {
+    "statId": 1078,
+    "itemId": 49,
+    "level": 1,
+    "overrides": {
+      "damage": 128,
+      "health": 15000,
+      "attack_rate": 4000,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 100,
+      "attack_range_max": 1800
+    }
+  },
+  {
+    "statId": 1079,
+    "itemId": 50,
+    "level": 1,
+    "overrides": {
+      "damage": 256,
+      "health": 20000,
+      "attack_rate": 4000,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 100,
+      "attack_range_max": 1800
+    }
+  },
+  {
+    "statId": 1080,
+    "itemId": 51,
+    "level": 1,
+    "overrides": {
+      "damage": 512,
+      "health": 25000,
+      "attack_rate": 4000,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 100,
+      "attack_range_max": 1800
+    }
+  },
+  {
+    "statId": 1038,
+    "itemId": 52,
+    "level": 10,
+    "overrides": {
+      "damage": 258,
+      "health": 3400,
+      "attack_rate": 100,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 900,
+      "attack_range_min": 250,
+      "damage_per_second": 36
+    }
+  },
+  {
+    "statId": 1040,
+    "itemId": 52,
+    "level": 12,
+    "overrides": {
+      "damage": 329,
+      "health": 4000,
+      "attack_rate": 100,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 900,
+      "attack_range_min": 250,
+      "damage_per_second": 47
+    }
+  },
+  {
+    "statId": 1049,
+    "itemId": 52,
+    "level": 16,
+    "overrides": {
+      "damage": 532,
+      "health": 5700,
+      "attack_rate": 100,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 900,
+      "attack_range_min": 250,
+      "damage_per_second": 76
+    }
+  },
+  {
+    "statId": 1051,
+    "itemId": 52,
+    "level": 18,
+    "overrides": {
+      "damage": 676,
+      "health": 6700,
+      "attack_rate": 100,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 900,
+      "attack_range_min": 250,
+      "damage_per_second": 96
+    }
+  },
+  {
+    "statId": 1059,
+    "itemId": 52,
+    "level": 22,
+    "overrides": {
+      "damage": 1093,
+      "health": 9460,
+      "attack_rate": 100,
+      "damage_type": "splash",
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 900,
+      "attack_range_min": 250,
+      "damage_per_second": 156
+    }
+  },
+  {
+    "statId": 1071,
+    "itemId": 53,
+    "level": 1,
+    "overrides": {
+      "health": 30000,
+      "attack_rate": 200,
+      "damage_type": "range",
+      "targets_air": false,
+      "attack_range_max": 700,
+      "damage_per_second": 300
+    }
+  },
+  {
+    "statId": 1072,
+    "itemId": 54,
+    "level": 1,
+    "overrides": {
+      "health": 25000,
+      "attack_rate": 200,
+      "damage_type": "range",
+      "targets_air": false,
+      "attack_range_max": 700,
+      "damage_per_second": 500
+    }
+  },
+  {
+    "statId": 1073,
+    "itemId": 55,
+    "level": 1,
+    "overrides": {
+      "health": 30000,
+      "attack_rate": 200,
+      "damage_type": "range",
+      "targets_air": false,
+      "attack_range_max": 700,
+      "damage_per_second": 700
+    }
+  },
+  {
+    "statId": 1092,
+    "itemId": 56,
+    "level": 9,
+    "overrides": {
+      "health": 3900,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 120,
+      "attack_range_max": 1200,
+      "attack_range_min": 400,
+      "damage_per_second": 28
+    }
+  },
+  {
+    "statId": 1095,
+    "itemId": 56,
+    "level": 12,
+    "overrides": {
+      "health": 5100,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 120,
+      "attack_range_max": 1200,
+      "attack_range_min": 400,
+      "damage_per_second": 37
+    }
+  },
+  {
+    "statId": 1100,
+    "itemId": 56,
+    "level": 17,
+    "overrides": {
+      "health": 7700,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 120,
+      "attack_range_max": 1200,
+      "attack_range_min": 400,
+      "damage_per_second": 60
+    }
+  },
+  {
+    "statId": 1103,
+    "itemId": 56,
+    "level": 20,
+    "overrides": {
+      "health": 9900,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 120,
+      "attack_range_max": 1200,
+      "attack_range_min": 400,
+      "damage_per_second": 80
+    }
+  },
+  {
+    "statId": 1105,
+    "itemId": 56,
+    "level": 22,
+    "overrides": {
+      "health": 11880,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 120,
+      "attack_range_max": 1200,
+      "attack_range_min": 400,
+      "damage_per_second": 96
+    }
+  },
+  {
+    "statId": 1120,
+    "itemId": 57,
+    "level": 6,
+    "overrides": {
+      "health": 6300,
+      "capacity": 6,
+      "attack_rate": 350,
+      "damage_type": "splash",
+      "reload_time": 5000,
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 2500,
+      "attack_range_min": 800,
+      "damage_per_second": 32
+    }
+  },
+  {
+    "statId": 1122,
+    "itemId": 57,
+    "level": 8,
+    "overrides": {
+      "health": 7500,
+      "capacity": 6,
+      "attack_rate": 350,
+      "damage_type": "splash",
+      "reload_time": 5000,
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 2500,
+      "attack_range_min": 800,
+      "damage_per_second": 39
+    }
+  },
+  {
+    "statId": 1124,
+    "itemId": 57,
+    "level": 10,
+    "overrides": {
+      "health": 9000,
+      "capacity": 6,
+      "attack_rate": 350,
+      "damage_type": "splash",
+      "reload_time": 5000,
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 2500,
+      "attack_range_min": 800,
+      "damage_per_second": 47
+    }
+  },
+  {
+    "statId": 1126,
+    "itemId": 57,
+    "level": 12,
+    "overrides": {
+      "health": 10700,
+      "capacity": 6,
+      "attack_rate": 350,
+      "damage_type": "splash",
+      "reload_time": 5000,
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 2500,
+      "attack_range_min": 800,
+      "damage_per_second": 57
+    }
+  },
+  {
+    "statId": 1128,
+    "itemId": 57,
+    "level": 14,
+    "overrides": {
+      "health": 12980,
+      "capacity": 6,
+      "attack_rate": 350,
+      "damage_type": "splash",
+      "reload_time": 5000,
+      "targets_air": true,
+      "damage_radius": 60,
+      "attack_range_max": 2500,
+      "attack_range_min": 800,
+      "damage_per_second": 69
+    }
+  },
+  {
+    "statId": 1136,
+    "itemId": 58,
+    "level": 1,
+    "overrides": {
+      "health": 20000,
+      "health_increase": 50
+    }
+  },
+  {
+    "statId": 1137,
+    "itemId": 59,
+    "level": 1,
+    "overrides": {
+      "health": 27500,
+      "health_increase": 100
+    }
+  },
+  {
+    "statId": 1138,
+    "itemId": 60,
+    "level": 1,
+    "overrides": {
+      "health": 35000,
+      "health_increase": 150
+    }
+  },
+  {
+    "statId": 1139,
+    "itemId": 61,
+    "level": 1,
+    "overrides": {
+      "damage": 800,
+      "health": 15000,
+      "capacity": 30,
+      "attack_rate": 80,
+      "damage_type": "single",
+      "reload_time": 2500,
+      "targets_air": true,
+      "shock_duration": 600,
+      "attack_range_max": 1800,
+      "damage_per_second": 398
+    }
+  },
+  {
+    "statId": 1140,
+    "itemId": 62,
+    "level": 1,
+    "overrides": {
+      "damage": 1300,
+      "health": 20000,
+      "capacity": 30,
+      "attack_rate": 80,
+      "damage_type": "single",
+      "reload_time": 2500,
+      "targets_air": true,
+      "shock_duration": 800,
+      "attack_range_max": 1800,
+      "damage_per_second": 647
+    }
+  },
+  {
+    "statId": 1141,
+    "itemId": 63,
+    "level": 1,
+    "overrides": {
+      "damage": 1800,
+      "health": 25000,
+      "capacity": 30,
+      "attack_rate": 80,
+      "damage_type": "single",
+      "reload_time": 2500,
+      "targets_air": true,
+      "shock_duration": 1000,
+      "attack_range_max": 1800,
+      "damage_per_second": 896
+    }
+  },
+  {
+    "statId": 1143,
+    "itemId": 64,
+    "level": 2,
+    "overrides": {
+      "health": 7700,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 300,
+      "shock_duration": 1600,
+      "attack_range_max": 1800,
+      "attack_range_min": 400,
+      "damage_per_second": 13
+    }
+  },
+  {
+    "statId": 1145,
+    "itemId": 64,
+    "level": 4,
+    "overrides": {
+      "health": 9300,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 300,
+      "shock_duration": 2000,
+      "attack_range_max": 1800,
+      "attack_range_min": 400,
+      "damage_per_second": 15
+    }
+  },
+  {
+    "statId": 1147,
+    "itemId": 64,
+    "level": 6,
+    "overrides": {
+      "health": 11300,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 300,
+      "shock_duration": 2400,
+      "attack_range_max": 1800,
+      "attack_range_min": 400,
+      "damage_per_second": 19
+    }
+  },
+  {
+    "statId": 1149,
+    "itemId": 64,
+    "level": 8,
+    "overrides": {
+      "health": 13600,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 300,
+      "shock_duration": 2800,
+      "attack_range_max": 1800,
+      "attack_range_min": 400,
+      "damage_per_second": 23
+    }
+  },
+  {
+    "statId": 1151,
+    "itemId": 64,
+    "level": 10,
+    "overrides": {
+      "health": 16500,
+      "attack_rate": 5000,
+      "damage_type": "splash",
+      "targets_air": false,
+      "damage_radius": 300,
+      "shock_duration": 3200,
+      "attack_range_max": 1800,
+      "attack_range_min": 400,
+      "damage_per_second": 29
+    }
+  },
+  {
+    "statId": 1154,
+    "itemId": 65,
+    "level": 1,
+    "overrides": {
+      "damage": 1600,
+      "health": 15000,
+      "attack_rate": 2000,
+      "damage_type": "single",
+      "targets_air": false,
+      "attack_range_max": 1500
+    }
+  },
+  {
+    "statId": 1155,
+    "itemId": 66,
+    "level": 1,
+    "overrides": {
+      "damage": 1500,
+      "health": 20000,
+      "attack_rate": 1500,
+      "damage_type": "single",
+      "targets_air": false,
+      "attack_range_max": 1500
+    }
+  },
+  {
+    "statId": 1156,
+    "itemId": 67,
+    "level": 1,
+    "overrides": {
+      "damage": 1500,
+      "health": 25000,
+      "attack_rate": 1000,
+      "damage_type": "single",
+      "targets_air": false,
+      "attack_range_max": 1500
+    }
+  },
+  {
+    "statId": 1157,
+    "itemId": 68,
+    "level": 1,
+    "overrides": {
+      "health": 20000,
+      "shield_health": 20000,
+      "attack_range_max": 600
+    }
+  },
+  {
+    "statId": 1158,
+    "itemId": 69,
+    "level": 1,
+    "overrides": {
+      "health": 27500,
+      "shield_health": 22500,
+      "attack_range_max": 600
+    }
+  },
+  {
+    "statId": 1159,
+    "itemId": 70,
+    "level": 1,
+    "overrides": {
+      "health": 35000,
+      "shield_health": 25000,
+      "attack_range_max": 600
+    }
+  },
+  {
+    "statId": 1170,
+    "itemId": 71,
+    "level": 11,
+    "overrides": {
+      "health": 4000,
+      "attack_rate": 1400,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1200,
+      "damage_per_second": 104
+    }
+  },
+  {
+    "statId": 1173,
+    "itemId": 71,
+    "level": 14,
+    "overrides": {
+      "health": 5100,
+      "attack_rate": 1400,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1200,
+      "damage_per_second": 138
+    }
+  },
+  {
+    "statId": 1176,
+    "itemId": 71,
+    "level": 17,
+    "overrides": {
+      "health": 6600,
+      "attack_rate": 1400,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1200,
+      "damage_per_second": 184
+    }
+  },
+  {
+    "statId": 1179,
+    "itemId": 71,
+    "level": 20,
+    "overrides": {
+      "health": 8400,
+      "attack_rate": 1400,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1200,
+      "damage_per_second": 245
+    }
+  },
+  {
+    "statId": 1181,
+    "itemId": 71,
+    "level": 22,
+    "overrides": {
+      "health": 10000,
+      "attack_rate": 1400,
+      "damage_type": "single",
+      "targets_air": true,
+      "attack_range_max": 1200,
+      "damage_per_second": 296
+    }
+  },
+  {
+    "statId": 1189,
+    "itemId": 72,
+    "level": 1,
+    "overrides": {
+      "speed": 200,
+      "health": 250,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200,
+      "damage_per_second": 1100
+    }
+  },
+  {
+    "statId": 1190,
+    "itemId": 72,
+    "level": 2,
+    "overrides": {
+      "speed": 200,
+      "health": 300,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200,
+      "damage_per_second": 1300
+    }
+  },
+  {
+    "statId": 1194,
+    "itemId": 72,
+    "level": 3,
+    "overrides": {
+      "speed": 200,
+      "health": 380,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200,
+      "damage_per_second": 1500
+    }
+  },
+  {
+    "statId": 1195,
+    "itemId": 72,
+    "level": 4,
+    "overrides": {
+      "speed": 200,
+      "health": 500,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200,
+      "damage_per_second": 1700
+    }
+  },
+  {
+    "statId": 1196,
+    "itemId": 72,
+    "level": 5,
+    "overrides": {
+      "speed": 200,
+      "health": 600,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200,
+      "damage_per_second": 1900
+    }
+  },
+  {
+    "statId": 1212,
+    "itemId": 73,
+    "level": 14,
+    "overrides": {
+      "speed": 220,
+      "health": 337,
+      "attack_rate": 1000,
+      "health_increase": -75,
+      "attack_range_max": 470,
+      "damage_per_second": 84
+    }
+  },
+  {
+    "statId": 1214,
+    "itemId": 73,
+    "level": 16,
+    "overrides": {
+      "speed": 220,
+      "health": 386,
+      "attack_rate": 1000,
+      "health_increase": -75,
+      "attack_range_max": 470,
+      "damage_per_second": 98
+    }
+  },
+  {
+    "statId": 1216,
+    "itemId": 73,
+    "level": 18,
+    "overrides": {
+      "speed": 220,
+      "health": 442,
+      "attack_rate": 1000,
+      "health_increase": -75,
+      "attack_range_max": 470,
+      "damage_per_second": 115
+    }
+  },
+  {
+    "statId": 1218,
+    "itemId": 73,
+    "level": 20,
+    "overrides": {
+      "speed": 220,
+      "health": 506,
+      "attack_rate": 1000,
+      "health_increase": -75,
+      "attack_range_max": 470,
+      "damage_per_second": 134
+    }
+  },
+  {
+    "statId": 1223,
+    "itemId": 73,
+    "level": 22,
+    "overrides": {
+      "speed": 220,
+      "health": 580,
+      "attack_rate": 1000,
+      "health_increase": -75,
+      "attack_range_max": 470,
+      "damage_per_second": 157
+    }
+  },
+  {
+    "statId": 1245,
+    "itemId": 74,
+    "level": 12,
+    "overrides": {
+      "speed": 210,
+      "health": 1200,
+      "capacity": 4,
+      "attack_rate": 34,
+      "reload_time": 7600,
+      "attack_range_max": 1450
+    }
+  },
+  {
+    "statId": 1191,
+    "itemId": 74,
+    "level": 14,
+    "overrides": {
+      "speed": 210,
+      "health": 1400,
+      "capacity": 5,
+      "attack_rate": 34,
+      "reload_time": 7600,
+      "attack_range_max": 1450
+    }
+  },
+  {
+    "statId": 1248,
+    "itemId": 74,
+    "level": 16,
+    "overrides": {
+      "speed": 210,
+      "health": 1600,
+      "capacity": 5,
+      "attack_rate": 34,
+      "reload_time": 7600,
+      "attack_range_max": 1450
+    }
+  },
+  {
+    "statId": 1251,
+    "itemId": 74,
+    "level": 19,
+    "overrides": {
+      "speed": 210,
+      "health": 1800,
+      "capacity": 6,
+      "attack_rate": 34,
+      "reload_time": 7600,
+      "attack_range_max": 1450
+    }
+  },
+  {
+    "statId": 1259,
+    "itemId": 74,
+    "level": 22,
+    "overrides": {
+      "speed": 210,
+      "health": 2200,
+      "capacity": 8,
+      "attack_rate": 34,
+      "reload_time": 7600,
+      "attack_range_max": 1450
+    }
+  },
+  {
+    "statId": 1286,
+    "itemId": 75,
+    "level": 14,
+    "overrides": {
+      "speed": 170,
+      "health": 701,
+      "spawn_rate": 5600
+    }
+  },
+  {
+    "statId": 1289,
+    "itemId": 75,
+    "level": 16,
+    "overrides": {
+      "speed": 170,
+      "health": 829,
+      "spawn_rate": 5600
+    }
+  },
+  {
+    "statId": 1291,
+    "itemId": 75,
+    "level": 18,
+    "overrides": {
+      "speed": 170,
+      "health": 982,
+      "spawn_rate": 5600
+    }
+  },
+  {
+    "statId": 1294,
+    "itemId": 75,
+    "level": 20,
+    "overrides": {
+      "speed": 170,
+      "health": 1162,
+      "spawn_rate": 5600
+    }
+  },
+  {
+    "statId": 1296,
+    "itemId": 75,
+    "level": 22,
+    "overrides": {
+      "speed": 170,
+      "health": 1376,
+      "spawn_rate": 5600
+    }
+  },
+  {
+    "statId": 1319,
+    "itemId": 76,
+    "level": 14,
+    "overrides": {
+      "speed": 200,
+      "health": 430,
+      "attack_rate": 2200,
+      "attack_range_max": 1200,
+      "damage_per_second": 750
+    }
+  },
+  {
+    "statId": 1321,
+    "itemId": 76,
+    "level": 16,
+    "overrides": {
+      "speed": 200,
+      "health": 450,
+      "attack_rate": 2200,
+      "attack_range_max": 1200,
+      "damage_per_second": 850
+    }
+  },
+  {
+    "statId": 1327,
+    "itemId": 76,
+    "level": 18,
+    "overrides": {
+      "speed": 200,
+      "health": 470,
+      "attack_rate": 2200,
+      "attack_range_max": 1200,
+      "damage_per_second": 950
+    }
+  },
+  {
+    "statId": 1329,
+    "itemId": 76,
+    "level": 20,
+    "overrides": {
+      "speed": 200,
+      "health": 490,
+      "attack_rate": 2200,
+      "attack_range_max": 1200,
+      "damage_per_second": 1050
+    }
+  },
+  {
+    "statId": 1331,
+    "itemId": 76,
+    "level": 22,
+    "overrides": {
+      "speed": 200,
+      "health": 510,
+      "attack_rate": 2200,
+      "attack_range_max": 1200,
+      "damage_per_second": 1150
+    }
+  },
+  {
+    "statId": 1342,
+    "itemId": 77,
+    "level": 1,
+    "overrides": {
+      "speed": 250,
+      "health": 700,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 90,
+      "beam_extension": 0,
+      "freeze_duration": 5000,
+      "attack_range_max": 600,
+      "damage_per_second": 30
+    }
+  },
+  {
+    "statId": 1343,
+    "itemId": 77,
+    "level": 2,
+    "overrides": {
+      "speed": 250,
+      "health": 763,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 90,
+      "beam_extension": 1,
+      "freeze_duration": 5000,
+      "attack_range_max": 600,
+      "damage_per_second": 31
+    }
+  },
+  {
+    "statId": 1345,
+    "itemId": 77,
+    "level": 4,
+    "overrides": {
+      "speed": 250,
+      "health": 907,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 90,
+      "beam_extension": 3,
+      "freeze_duration": 5000,
+      "attack_range_max": 600,
+      "damage_per_second": 35
+    }
+  },
+  {
+    "statId": 1219,
+    "itemId": 77,
+    "level": 6,
+    "overrides": {
+      "speed": 250,
+      "health": 1077,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 90,
+      "beam_extension": 5,
+      "freeze_duration": 5000,
+      "attack_range_max": 600,
+      "damage_per_second": 38
+    }
+  },
+  {
+    "statId": 1221,
+    "itemId": 77,
+    "level": 8,
+    "overrides": {
+      "speed": 250,
+      "health": 1280,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 90,
+      "beam_extension": 7,
+      "freeze_duration": 5000,
+      "attack_range_max": 600,
+      "damage_per_second": 42
+    }
+  },
+  {
+    "statId": 1356,
+    "itemId": 78,
+    "level": 12,
+    "overrides": {
+      "speed": 180,
+      "health": 1600,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 100,
+      "freeze_duration": 5000,
+      "attack_range_max": 1000,
+      "damage_per_second": 114
+    }
+  },
+  {
+    "statId": 1358,
+    "itemId": 78,
+    "level": 14,
+    "overrides": {
+      "speed": 180,
+      "health": 1800,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 100,
+      "freeze_duration": 5000,
+      "attack_range_max": 1000,
+      "damage_per_second": 124
+    }
+  },
+  {
+    "statId": 1363,
+    "itemId": 78,
+    "level": 16,
+    "overrides": {
+      "speed": 180,
+      "health": 2000,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 100,
+      "freeze_duration": 5000,
+      "attack_range_max": 1000,
+      "damage_per_second": 133
+    }
+  },
+  {
+    "statId": 1366,
+    "itemId": 78,
+    "level": 19,
+    "overrides": {
+      "speed": 180,
+      "health": 2200,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 100,
+      "freeze_duration": 5000,
+      "attack_range_max": 1000,
+      "damage_per_second": 143
+    }
+  },
+  {
+    "statId": 1372,
+    "itemId": 78,
+    "level": 22,
+    "overrides": {
+      "speed": 180,
+      "health": 2400,
+      "capacity": 12,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "speed_boost": -50,
+      "damage_radius": 100,
+      "freeze_duration": 5000,
+      "attack_range_max": 1000,
+      "damage_per_second": 152
+    }
+  },
+  {
+    "statId": 1403,
+    "itemId": 79,
+    "level": 14,
+    "overrides": {
+      "speed": 270,
+      "health": 701,
+      "duration": 5000,
+      "attack_rate": 1200,
+      "heal_range_max": 500,
+      "heal_per_second": 22
+    }
+  },
+  {
+    "statId": 1410,
+    "itemId": 79,
+    "level": 16,
+    "overrides": {
+      "speed": 270,
+      "health": 829,
+      "duration": 5000,
+      "attack_rate": 1200,
+      "heal_range_max": 500,
+      "heal_per_second": 24
+    }
+  },
+  {
+    "statId": 1412,
+    "itemId": 79,
+    "level": 18,
+    "overrides": {
+      "speed": 270,
+      "health": 982,
+      "duration": 5000,
+      "attack_rate": 1200,
+      "heal_range_max": 500,
+      "heal_per_second": 26
+    }
+  },
+  {
+    "statId": 1414,
+    "itemId": 79,
+    "level": 20,
+    "overrides": {
+      "speed": 270,
+      "health": 1162,
+      "duration": 5000,
+      "attack_rate": 1200,
+      "heal_range_max": 500,
+      "heal_per_second": 28
+    }
+  },
+  {
+    "statId": 1419,
+    "itemId": 79,
+    "level": 22,
+    "overrides": {
+      "speed": 270,
+      "health": 1376,
+      "duration": 5000,
+      "attack_rate": 1200,
+      "heal_range_max": 500,
+      "heal_per_second": 30
+    }
+  },
+  {
+    "statId": 1428,
+    "itemId": 80,
+    "level": 1,
+    "overrides": {
+      "speed": 250,
+      "health": 450,
+      "attack_rate": 2000,
+      "attack_range_max": 1130,
+      "damage_per_second": 100
+    }
+  },
+  {
+    "statId": 1430,
+    "itemId": 80,
+    "level": 3,
+    "overrides": {
+      "speed": 250,
+      "health": 506,
+      "attack_rate": 2000,
+      "attack_range_max": 1130,
+      "damage_per_second": 116
+    }
+  },
+  {
+    "statId": 1432,
+    "itemId": 80,
+    "level": 5,
+    "overrides": {
+      "speed": 250,
+      "health": 568,
+      "attack_rate": 2000,
+      "attack_range_max": 1130,
+      "damage_per_second": 134
+    }
+  },
+  {
+    "statId": 1436,
+    "itemId": 80,
+    "level": 8,
+    "overrides": {
+      "speed": 250,
+      "health": 680,
+      "attack_rate": 2000,
+      "attack_range_max": 1130,
+      "damage_per_second": 166
+    }
+  },
+  {
+    "statId": 1440,
+    "itemId": 80,
+    "level": 12,
+    "overrides": {
+      "speed": 250,
+      "health": 854,
+      "attack_rate": 2000,
+      "attack_range_max": 1130,
+      "damage_per_second": 222
+    }
+  },
+  {
+    "statId": 1457,
+    "itemId": 81,
+    "level": 8,
+    "overrides": {
+      "speed": 230,
+      "health": 1714,
+      "attack_rate": 100,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 46
+    }
+  },
+  {
+    "statId": 1461,
+    "itemId": 81,
+    "level": 12,
+    "overrides": {
+      "speed": 230,
+      "health": 2332,
+      "attack_rate": 100,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 64
+    }
+  },
+  {
+    "statId": 1465,
+    "itemId": 81,
+    "level": 16,
+    "overrides": {
+      "speed": 230,
+      "health": 3172,
+      "attack_rate": 100,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 88
+    }
+  },
+  {
+    "statId": 1467,
+    "itemId": 81,
+    "level": 18,
+    "overrides": {
+      "speed": 230,
+      "health": 3700,
+      "attack_rate": 100,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 104
+    }
+  },
+  {
+    "statId": 1472,
+    "itemId": 81,
+    "level": 22,
+    "overrides": {
+      "speed": 230,
+      "health": 5034,
+      "attack_rate": 100,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 144
+    }
+  },
+  {
+    "statId": 1494,
+    "itemId": 82,
+    "level": 14,
+    "overrides": {
+      "count": 10,
+      "speed": 350,
+      "health": 18300,
+      "attack_rate": 100,
+      "spawn_count": 8,
+      "attack_range_max": 1000,
+      "attack_range_min": 550,
+      "damage_per_second": 200
+    }
+  },
+  {
+    "statId": 1496,
+    "itemId": 82,
+    "level": 16,
+    "overrides": {
+      "count": 10,
+      "speed": 350,
+      "health": 19900,
+      "attack_rate": 100,
+      "spawn_count": 8,
+      "attack_range_max": 1000,
+      "attack_range_min": 550,
+      "damage_per_second": 220
+    }
+  },
+  {
+    "statId": 1498,
+    "itemId": 82,
+    "level": 18,
+    "overrides": {
+      "count": 10,
+      "speed": 350,
+      "health": 21650,
+      "attack_rate": 100,
+      "spawn_count": 8,
+      "attack_range_max": 1000,
+      "attack_range_min": 550,
+      "damage_per_second": 245
+    }
+  },
+  {
+    "statId": 1276,
+    "itemId": 82,
+    "level": 20,
+    "overrides": {
+      "count": 10,
+      "speed": 350,
+      "health": 23400,
+      "attack_rate": 100,
+      "spawn_count": 8,
+      "attack_range_max": 1000,
+      "attack_range_min": 550,
+      "damage_per_second": 265
+    }
+  },
+  {
+    "statId": 1288,
+    "itemId": 82,
+    "level": 22,
+    "overrides": {
+      "count": 10,
+      "speed": 350,
+      "health": 25250,
+      "attack_rate": 100,
+      "spawn_count": 8,
+      "attack_range_max": 1000,
+      "attack_range_min": 550,
+      "damage_per_second": 290
+    }
+  },
+  {
+    "statId": 1518,
+    "itemId": 83,
+    "level": 14,
+    "overrides": {
+      "heal": 56,
+      "speed": 300,
+      "health": 635,
+      "attack_rate": 1100,
+      "attack_range_max": 90,
+      "damage_per_second": 245
+    }
+  },
+  {
+    "statId": 1520,
+    "itemId": 83,
+    "level": 16,
+    "overrides": {
+      "heal": 60,
+      "speed": 300,
+      "health": 709,
+      "attack_rate": 1100,
+      "attack_range_max": 90,
+      "damage_per_second": 274
+    }
+  },
+  {
+    "statId": 1522,
+    "itemId": 83,
+    "level": 18,
+    "overrides": {
+      "heal": 64,
+      "speed": 300,
+      "health": 800,
+      "attack_rate": 1100,
+      "attack_range_max": 90,
+      "damage_per_second": 307
+    }
+  },
+  {
+    "statId": 1525,
+    "itemId": 83,
+    "level": 20,
+    "overrides": {
+      "heal": 70,
+      "speed": 300,
+      "health": 942,
+      "attack_rate": 1100,
+      "attack_range_max": 90,
+      "damage_per_second": 363
+    }
+  },
+  {
+    "statId": 1527,
+    "itemId": 83,
+    "level": 22,
+    "overrides": {
+      "heal": 78,
+      "speed": 300,
+      "health": 1190,
+      "attack_rate": 1100,
+      "attack_range_max": 90,
+      "damage_per_second": 454
+    }
+  },
+  {
+    "statId": 1547,
+    "itemId": 84,
+    "level": 12,
+    "overrides": {
+      "speed": 230,
+      "health": 32500,
+      "attack_rate": 500,
+      "burn_damage": 1071,
+      "burn_duration": 5000,
+      "damage_radius": 300,
+      "destruct_damage": 5159,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 347
+    }
+  },
+  {
+    "statId": 1549,
+    "itemId": 84,
+    "level": 14,
+    "overrides": {
+      "speed": 230,
+      "health": 35500,
+      "attack_rate": 500,
+      "burn_damage": 1178,
+      "burn_duration": 5000,
+      "damage_radius": 300,
+      "destruct_damage": 5935,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 381
+    }
+  },
+  {
+    "statId": 1551,
+    "itemId": 84,
+    "level": 16,
+    "overrides": {
+      "speed": 230,
+      "health": 38500,
+      "attack_rate": 500,
+      "burn_damage": 1361,
+      "burn_duration": 5000,
+      "damage_radius": 300,
+      "destruct_damage": 6711,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 441
+    }
+  },
+  {
+    "statId": 1360,
+    "itemId": 84,
+    "level": 18,
+    "overrides": {
+      "speed": 230,
+      "health": 41500,
+      "attack_rate": 500,
+      "burn_damage": 1619,
+      "burn_duration": 5000,
+      "damage_radius": 300,
+      "destruct_damage": 7487,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 524
+    }
+  },
+  {
+    "statId": 1369,
+    "itemId": 84,
+    "level": 22,
+    "overrides": {
+      "speed": 230,
+      "health": 44500,
+      "attack_rate": 500,
+      "burn_damage": 2363,
+      "burn_duration": 5000,
+      "damage_radius": 300,
+      "destruct_damage": 8263,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 765
+    }
+  },
+  {
+    "statId": 1390,
+    "itemId": 85,
+    "level": 1,
+    "overrides": {
+      "speed": 300,
+      "health": 312,
+      "capacity": 23,
+      "attack_rate": 64,
+      "reload_time": 1500,
+      "attack_range_max": 760,
+      "damage_per_second": 480
+    }
+  },
+  {
+    "statId": 1391,
+    "itemId": 85,
+    "level": 2,
+    "overrides": {
+      "speed": 300,
+      "health": 323,
+      "capacity": 23,
+      "attack_rate": 64,
+      "reload_time": 1500,
+      "attack_range_max": 760,
+      "damage_per_second": 496
+    }
+  },
+  {
+    "statId": 1404,
+    "itemId": 85,
+    "level": 3,
+    "overrides": {
+      "speed": 300,
+      "health": 332,
+      "capacity": 23,
+      "attack_rate": 64,
+      "reload_time": 1500,
+      "attack_range_max": 760,
+      "damage_per_second": 511
+    }
+  },
+  {
+    "statId": 1405,
+    "itemId": 85,
+    "level": 4,
+    "overrides": {
+      "speed": 300,
+      "health": 353,
+      "capacity": 23,
+      "attack_rate": 64,
+      "reload_time": 1500,
+      "attack_range_max": 760,
+      "damage_per_second": 526
+    }
+  },
+  {
+    "statId": 1406,
+    "itemId": 85,
+    "level": 5,
+    "overrides": {
+      "speed": 300,
+      "health": 375,
+      "capacity": 23,
+      "attack_rate": 64,
+      "reload_time": 1500,
+      "attack_range_max": 760,
+      "damage_per_second": 541
+    }
+  },
+  {
+    "statId": 1574,
+    "itemId": 86,
+    "level": 12,
+    "overrides": {
+      "speed": 180,
+      "health": 1400,
+      "attack_rate": 64,
+      "reload_time": 1200,
+      "attack_range_max": 1250
+    }
+  },
+  {
+    "statId": 1576,
+    "itemId": 86,
+    "level": 14,
+    "overrides": {
+      "speed": 180,
+      "health": 1600,
+      "attack_rate": 64,
+      "reload_time": 1200,
+      "attack_range_max": 1250
+    }
+  },
+  {
+    "statId": 1579,
+    "itemId": 86,
+    "level": 16,
+    "overrides": {
+      "speed": 180,
+      "health": 1800,
+      "attack_rate": 64,
+      "reload_time": 1200,
+      "attack_range_max": 1250
+    }
+  },
+  {
+    "statId": 1582,
+    "itemId": 86,
+    "level": 19,
+    "overrides": {
+      "speed": 180,
+      "health": 2000,
+      "attack_rate": 64,
+      "reload_time": 1200,
+      "attack_range_max": 1250
+    }
+  },
+  {
+    "statId": 1586,
+    "itemId": 86,
+    "level": 22,
+    "overrides": {
+      "speed": 180,
+      "health": 2400,
+      "attack_rate": 64,
+      "reload_time": 1200,
+      "attack_range_max": 1250
+    }
+  },
+  {
+    "statId": 1595,
+    "itemId": 87,
+    "level": 1,
+    "overrides": {
+      "speed": 130,
+      "health": 18600,
+      "attack_rate": 100,
+      "shock_duration": 3500,
+      "attack_range_max": 800,
+      "attack_range_min": 500,
+      "damage_per_second": 758
+    }
+  },
+  {
+    "statId": 1596,
+    "itemId": 87,
+    "level": 2,
+    "overrides": {
+      "speed": 130,
+      "health": 19140,
+      "attack_rate": 100,
+      "shock_duration": 3500,
+      "attack_range_max": 800,
+      "attack_range_min": 500,
+      "damage_per_second": 778
+    }
+  },
+  {
+    "statId": 1597,
+    "itemId": 87,
+    "level": 3,
+    "overrides": {
+      "speed": 130,
+      "health": 19700,
+      "attack_rate": 100,
+      "shock_duration": 3500,
+      "attack_range_max": 800,
+      "attack_range_min": 500,
+      "damage_per_second": 798
+    }
+  },
+  {
+    "statId": 1598,
+    "itemId": 87,
+    "level": 4,
+    "overrides": {
+      "speed": 130,
+      "health": 20280,
+      "attack_rate": 100,
+      "shock_duration": 3500,
+      "attack_range_max": 800,
+      "attack_range_min": 500,
+      "damage_per_second": 818
+    }
+  },
+  {
+    "statId": 1599,
+    "itemId": 87,
+    "level": 5,
+    "overrides": {
+      "speed": 130,
+      "health": 20880,
+      "attack_rate": 100,
+      "shock_duration": 3500,
+      "attack_range_max": 800,
+      "attack_range_min": 500,
+      "damage_per_second": 838
+    }
+  },
+  {
+    "statId": 1609,
+    "itemId": 88,
+    "level": 2,
+    "overrides": {
+      "speed": 270,
+      "health": 544,
+      "attack_rate": 600,
+      "heal_range_max": 800,
+      "heal_range_min": 400,
+      "heal_per_second": 21
+    }
+  },
+  {
+    "statId": 1613,
+    "itemId": 88,
+    "level": 5,
+    "overrides": {
+      "speed": 270,
+      "health": 701,
+      "attack_rate": 600,
+      "heal_range_max": 800,
+      "heal_range_min": 400,
+      "heal_per_second": 24
+    }
+  },
+  {
+    "statId": 1615,
+    "itemId": 88,
+    "level": 7,
+    "overrides": {
+      "speed": 270,
+      "health": 829,
+      "attack_rate": 600,
+      "heal_range_max": 800,
+      "heal_range_min": 400,
+      "heal_per_second": 26
+    }
+  },
+  {
+    "statId": 1620,
+    "itemId": 88,
+    "level": 10,
+    "overrides": {
+      "speed": 270,
+      "health": 1068,
+      "attack_rate": 600,
+      "heal_range_max": 800,
+      "heal_range_min": 400,
+      "heal_per_second": 29
+    }
+  },
+  {
+    "statId": 1415,
+    "itemId": 88,
+    "level": 13,
+    "overrides": {
+      "speed": 270,
+      "health": 1376,
+      "attack_rate": 600,
+      "heal_range_max": 800,
+      "heal_range_min": 400,
+      "heal_per_second": 32
+    }
+  },
+  {
+    "statId": 1647,
+    "itemId": 89,
+    "level": 14,
+    "overrides": {
+      "speed": 200,
+      "damage": 710,
+      "health": 430,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200
+    }
+  },
+  {
+    "statId": 1649,
+    "itemId": 89,
+    "level": 16,
+    "overrides": {
+      "speed": 200,
+      "damage": 800,
+      "health": 450,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200
+    }
+  },
+  {
+    "statId": 1651,
+    "itemId": 89,
+    "level": 18,
+    "overrides": {
+      "speed": 200,
+      "damage": 900,
+      "health": 470,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200
+    }
+  },
+  {
+    "statId": 1653,
+    "itemId": 89,
+    "level": 20,
+    "overrides": {
+      "speed": 200,
+      "damage": 1000,
+      "health": 490,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200
+    }
+  },
+  {
+    "statId": 1656,
+    "itemId": 89,
+    "level": 22,
+    "overrides": {
+      "speed": 200,
+      "damage": 1100,
+      "health": 510,
+      "attack_rate": 2200,
+      "damage_radius": 100,
+      "attack_range_max": 1200
+    }
+  },
+  {
+    "statId": 1681,
+    "itemId": 90,
+    "level": 14,
+    "overrides": {
+      "speed": 270,
+      "health": 350,
+      "duration": 500,
+      "attack_rate": 400,
+      "shield_health": 123,
+      "attack_range_max": 300
+    }
+  },
+  {
+    "statId": 1683,
+    "itemId": 90,
+    "level": 16,
+    "overrides": {
+      "speed": 270,
+      "health": 415,
+      "duration": 500,
+      "attack_rate": 400,
+      "shield_health": 125,
+      "attack_range_max": 300
+    }
+  },
+  {
+    "statId": 1685,
+    "itemId": 90,
+    "level": 18,
+    "overrides": {
+      "speed": 270,
+      "health": 491,
+      "duration": 500,
+      "attack_rate": 400,
+      "shield_health": 127,
+      "attack_range_max": 300
+    }
+  },
+  {
+    "statId": 1688,
+    "itemId": 90,
+    "level": 20,
+    "overrides": {
+      "speed": 270,
+      "health": 581,
+      "duration": 500,
+      "attack_rate": 400,
+      "shield_health": 129,
+      "attack_range_max": 300
+    }
+  },
+  {
+    "statId": 1690,
+    "itemId": 90,
+    "level": 22,
+    "overrides": {
+      "speed": 270,
+      "health": 688,
+      "duration": 500,
+      "attack_rate": 400,
+      "shield_health": 131,
+      "attack_range_max": 300
+    }
+  },
+  {
+    "statId": 1711,
+    "itemId": 91,
+    "level": 12,
+    "overrides": {
+      "count": 5,
+      "speed": 150,
+      "damage": 1000,
+      "health": 1200,
+      "capacity": 4,
+      "attack_rate": 200,
+      "reload_time": 10000,
+      "damage_radius": 100,
+      "attack_range_max": 1700
+    }
+  },
+  {
+    "statId": 1713,
+    "itemId": 91,
+    "level": 14,
+    "overrides": {
+      "count": 5,
+      "speed": 150,
+      "damage": 1250,
+      "health": 1400,
+      "capacity": 4,
+      "attack_rate": 200,
+      "reload_time": 10000,
+      "damage_radius": 100,
+      "attack_range_max": 1700
+    }
+  },
+  {
+    "statId": 1715,
+    "itemId": 91,
+    "level": 16,
+    "overrides": {
+      "count": 5,
+      "speed": 150,
+      "damage": 1500,
+      "health": 1600,
+      "capacity": 4,
+      "attack_rate": 200,
+      "reload_time": 10000,
+      "damage_radius": 100,
+      "attack_range_max": 1700
+    }
+  },
+  {
+    "statId": 1719,
+    "itemId": 91,
+    "level": 19,
+    "overrides": {
+      "count": 5,
+      "speed": 150,
+      "damage": 1750,
+      "health": 1800,
+      "capacity": 4,
+      "attack_rate": 200,
+      "reload_time": 10000,
+      "damage_radius": 100,
+      "attack_range_max": 1700
+    }
+  },
+  {
+    "statId": 1723,
+    "itemId": 91,
+    "level": 22,
+    "overrides": {
+      "count": 5,
+      "speed": 150,
+      "damage": 2000,
+      "health": 2200,
+      "capacity": 4,
+      "attack_rate": 200,
+      "reload_time": 10000,
+      "damage_radius": 100,
+      "attack_range_max": 1700
+    }
+  },
+  {
+    "statId": 1738,
+    "itemId": 92,
+    "level": 8,
+    "overrides": {
+      "speed": 220,
+      "health": 225,
+      "attack_rate": 1000,
+      "attack_range_max": 470,
+      "damage_per_second": 52
+    }
+  },
+  {
+    "statId": 1743,
+    "itemId": 92,
+    "level": 12,
+    "overrides": {
+      "speed": 220,
+      "health": 295,
+      "attack_rate": 1000,
+      "attack_range_max": 470,
+      "damage_per_second": 71
+    }
+  },
+  {
+    "statId": 1747,
+    "itemId": 92,
+    "level": 16,
+    "overrides": {
+      "speed": 220,
+      "health": 386,
+      "attack_rate": 1000,
+      "attack_range_max": 470,
+      "damage_per_second": 98
+    }
+  },
+  {
+    "statId": 1749,
+    "itemId": 92,
+    "level": 18,
+    "overrides": {
+      "speed": 220,
+      "health": 442,
+      "attack_rate": 1000,
+      "attack_range_max": 470,
+      "damage_per_second": 115
+    }
+  },
+  {
+    "statId": 1753,
+    "itemId": 92,
+    "level": 22,
+    "overrides": {
+      "speed": 220,
+      "health": 580,
+      "attack_rate": 1000,
+      "attack_range_max": 470,
+      "damage_per_second": 157
+    }
+  },
+  {
+    "statId": 1774,
+    "itemId": 93,
+    "level": 12,
+    "overrides": {
+      "speed": 500,
+      "health": 1450,
+      "capacity": 8,
+      "attack_rate": 185,
+      "reload_time": 1500,
+      "spawn_count": 2,
+      "attack_range_max": 950,
+      "damage_per_second": 1059
+    }
+  },
+  {
+    "statId": 1776,
+    "itemId": 93,
+    "level": 14,
+    "overrides": {
+      "speed": 500,
+      "health": 1550,
+      "capacity": 8,
+      "attack_rate": 185,
+      "reload_time": 1500,
+      "spawn_count": 2,
+      "attack_range_max": 950,
+      "damage_per_second": 1138
+    }
+  },
+  {
+    "statId": 1778,
+    "itemId": 93,
+    "level": 16,
+    "overrides": {
+      "speed": 500,
+      "health": 1650,
+      "capacity": 8,
+      "attack_rate": 185,
+      "reload_time": 1500,
+      "spawn_count": 2,
+      "attack_range_max": 950,
+      "damage_per_second": 1218
+    }
+  },
+  {
+    "statId": 1784,
+    "itemId": 93,
+    "level": 19,
+    "overrides": {
+      "speed": 500,
+      "health": 1800,
+      "capacity": 8,
+      "attack_rate": 185,
+      "reload_time": 1500,
+      "spawn_count": 2,
+      "attack_range_max": 950,
+      "damage_per_second": 1337
+    }
+  },
+  {
+    "statId": 1788,
+    "itemId": 93,
+    "level": 22,
+    "overrides": {
+      "speed": 500,
+      "health": 1950,
+      "capacity": 8,
+      "attack_rate": 185,
+      "reload_time": 1500,
+      "spawn_count": 2,
+      "attack_range_max": 950,
+      "damage_per_second": 1416
+    }
+  },
+  {
+    "statId": 1797,
+    "itemId": 94,
+    "level": 1,
+    "overrides": {
+      "speed": 230,
+      "health": 25000,
+      "attack_rate": 500,
+      "burn_damage": 58,
+      "burn_duration": 5000,
+      "destruct_damage": 3500,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 350
+    }
+  },
+  {
+    "statId": 1799,
+    "itemId": 94,
+    "level": 3,
+    "overrides": {
+      "speed": 230,
+      "health": 28600,
+      "attack_rate": 500,
+      "burn_damage": 70,
+      "burn_duration": 5000,
+      "destruct_damage": 4240,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 424
+    }
+  },
+  {
+    "statId": 1801,
+    "itemId": 94,
+    "level": 5,
+    "overrides": {
+      "speed": 230,
+      "health": 32800,
+      "attack_rate": 500,
+      "burn_damage": 85,
+      "burn_duration": 5000,
+      "destruct_damage": 5120,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 512
+    }
+  },
+  {
+    "statId": 1803,
+    "itemId": 94,
+    "level": 7,
+    "overrides": {
+      "speed": 230,
+      "health": 37600,
+      "attack_rate": 500,
+      "burn_damage": 103,
+      "burn_duration": 5000,
+      "destruct_damage": 6200,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 620
+    }
+  },
+  {
+    "statId": 1805,
+    "itemId": 94,
+    "level": 9,
+    "overrides": {
+      "speed": 230,
+      "health": 43000,
+      "attack_rate": 500,
+      "burn_damage": 125,
+      "burn_duration": 5000,
+      "destruct_damage": 7500,
+      "attack_range_max": 700,
+      "attack_range_min": 330,
+      "damage_per_second": 750
+    }
+  },
+  {
+    "statId": 1741,
+    "itemId": 95,
+    "level": 1,
+    "overrides": {
+      "speed": 350,
+      "health": 1300,
+      "attack_rate": 500,
+      "attack_range_max": 500,
+      "damage_per_second": 215
+    }
+  },
+  {
+    "statId": 1758,
+    "itemId": 95,
+    "level": 2,
+    "overrides": {
+      "speed": 350,
+      "health": 1600,
+      "attack_rate": 500,
+      "attack_range_max": 500,
+      "damage_per_second": 255
+    }
+  },
+  {
+    "statId": 1759,
+    "itemId": 95,
+    "level": 3,
+    "overrides": {
+      "speed": 350,
+      "health": 2000,
+      "attack_rate": 500,
+      "attack_range_max": 500,
+      "damage_per_second": 300
+    }
+  },
+  {
+    "statId": 1779,
+    "itemId": 95,
+    "level": 4,
+    "overrides": {
+      "speed": 350,
+      "health": 2600,
+      "attack_rate": 500,
+      "attack_range_max": 500,
+      "damage_per_second": 357
+    }
+  },
+  {
+    "statId": 1780,
+    "itemId": 95,
+    "level": 5,
+    "overrides": {
+      "speed": 350,
+      "health": 3200,
+      "attack_rate": 500,
+      "attack_range_max": 500,
+      "damage_per_second": 420
+    }
+  },
+  {
+    "statId": 1826,
+    "itemId": 96,
+    "level": 14,
+    "overrides": {
+      "speed": 250,
+      "damage": 9,
+      "health": 684,
+      "capacity": 2,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "beam_extension": 13,
+      "shock_duration": 5000,
+      "attack_range_max": 600
+    }
+  },
+  {
+    "statId": 1828,
+    "itemId": 96,
+    "level": 16,
+    "overrides": {
+      "speed": 250,
+      "damage": 10,
+      "health": 779,
+      "capacity": 2,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "beam_extension": 15,
+      "shock_duration": 5000,
+      "attack_range_max": 600
+    }
+  },
+  {
+    "statId": 1831,
+    "itemId": 96,
+    "level": 18,
+    "overrides": {
+      "speed": 250,
+      "damage": 10,
+      "health": 910,
+      "capacity": 2,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "beam_extension": 17,
+      "shock_duration": 5000,
+      "attack_range_max": 600
+    }
+  },
+  {
+    "statId": 1833,
+    "itemId": 96,
+    "level": 20,
+    "overrides": {
+      "speed": 250,
+      "damage": 10,
+      "health": 1077,
+      "capacity": 2,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "beam_extension": 19,
+      "shock_duration": 5000,
+      "attack_range_max": 600
+    }
+  },
+  {
+    "statId": 1835,
+    "itemId": 96,
+    "level": 22,
+    "overrides": {
+      "speed": 250,
+      "damage": 11,
+      "health": 1280,
+      "capacity": 2,
+      "attack_rate": 75,
+      "reload_time": 2000,
+      "beam_extension": 21,
+      "shock_duration": 5000,
+      "attack_range_max": 600
+    }
+  },
+  {
+    "statId": 1860,
+    "itemId": 97,
+    "level": 14,
+    "overrides": {
+      "speed": 250,
+      "damage": 1,
+      "health": 399,
+      "attack_rate": 12800,
+      "shock_duration": 5000,
+      "attack_range_max": 800
+    }
+  },
+  {
+    "statId": 1862,
+    "itemId": 97,
+    "level": 16,
+    "overrides": {
+      "speed": 250,
+      "damage": 1,
+      "health": 477,
+      "attack_rate": 12800,
+      "shock_duration": 5000,
+      "attack_range_max": 800
+    }
+  },
+  {
+    "statId": 1864,
+    "itemId": 97,
+    "level": 18,
+    "overrides": {
+      "speed": 250,
+      "damage": 1,
+      "health": 602,
+      "attack_rate": 12800,
+      "shock_duration": 5000,
+      "attack_range_max": 800
+    }
+  },
+  {
+    "statId": 1866,
+    "itemId": 97,
+    "level": 20,
+    "overrides": {
+      "speed": 250,
+      "damage": 1,
+      "health": 760,
+      "attack_rate": 12800,
+      "shock_duration": 5000,
+      "attack_range_max": 800
+    }
+  },
+  {
+    "statId": 1868,
+    "itemId": 97,
+    "level": 22,
+    "overrides": {
+      "speed": 250,
+      "damage": 1,
+      "health": 854,
+      "attack_rate": 12800,
+      "shock_duration": 5000,
+      "attack_range_max": 800
+    }
+  },
+  {
+    "statId": 1884,
+    "itemId": 98,
+    "level": 4,
+    "overrides": {
+      "speed": 150,
+      "health": 2510,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 181
+    }
+  },
+  {
+    "statId": 1887,
+    "itemId": 98,
+    "level": 7,
+    "overrides": {
+      "speed": 150,
+      "health": 3140,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 235
+    }
+  },
+  {
+    "statId": 1890,
+    "itemId": 98,
+    "level": 10,
+    "overrides": {
+      "speed": 150,
+      "health": 3930,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 304
+    }
+  },
+  {
+    "statId": 1895,
+    "itemId": 98,
+    "level": 14,
+    "overrides": {
+      "speed": 150,
+      "health": 5310,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 429
+    }
+  },
+  {
+    "statId": 1898,
+    "itemId": 98,
+    "level": 17,
+    "overrides": {
+      "speed": 150,
+      "health": 6650,
+      "attack_rate": 3500,
+      "attack_range_max": 820,
+      "damage_per_second": 556
+    }
+  },
+  {
+    "statId": 1920,
+    "itemId": 99,
+    "level": 14,
+    "overrides": {
+      "speed": 170,
+      "health": 701,
+      "spawn_rate": 7000,
+      "attack_rate": 3500,
+      "shield_health": 10060,
+      "attack_range_max": 820,
+      "damage_per_second": 248
+    }
+  },
+  {
+    "statId": 1616,
+    "itemId": 99,
+    "level": 16,
+    "overrides": {
+      "speed": 170,
+      "health": 829,
+      "spawn_rate": 7000,
+      "attack_rate": 3500,
+      "shield_health": 11960,
+      "attack_range_max": 820,
+      "damage_per_second": 300
+    }
+  },
+  {
+    "statId": 1923,
+    "itemId": 99,
+    "level": 18,
+    "overrides": {
+      "speed": 170,
+      "health": 982,
+      "spawn_rate": 7000,
+      "attack_rate": 3500,
+      "shield_health": 14200,
+      "attack_range_max": 820,
+      "damage_per_second": 363
+    }
+  },
+  {
+    "statId": 1925,
+    "itemId": 99,
+    "level": 20,
+    "overrides": {
+      "speed": 170,
+      "health": 1162,
+      "spawn_rate": 7000,
+      "attack_rate": 3500,
+      "shield_health": 16880,
+      "attack_range_max": 820,
+      "damage_per_second": 439
+    }
+  },
+  {
+    "statId": 1927,
+    "itemId": 99,
+    "level": 22,
+    "overrides": {
+      "speed": 170,
+      "health": 1376,
+      "spawn_rate": 7000,
+      "attack_rate": 3500,
+      "shield_health": 20050,
+      "attack_range_max": 820,
+      "damage_per_second": 532
+    }
+  },
+  {
+    "statId": 1949,
+    "itemId": 100,
+    "level": 14,
+    "overrides": {
+      "heal": 414,
+      "speed": 240,
+      "health": 414,
+      "attack_rate": 2000,
+      "attack_range_max": 820,
+      "damage_per_second": 78
+    }
+  },
+  {
+    "statId": 1951,
+    "itemId": 100,
+    "level": 16,
+    "overrides": {
+      "heal": 489,
+      "speed": 240,
+      "health": 489,
+      "attack_rate": 2000,
+      "attack_range_max": 820,
+      "damage_per_second": 95
+    }
+  },
+  {
+    "statId": 1953,
+    "itemId": 100,
+    "level": 18,
+    "overrides": {
+      "heal": 579,
+      "speed": 240,
+      "health": 579,
+      "attack_rate": 2000,
+      "attack_range_max": 820,
+      "damage_per_second": 115
+    }
+  },
+  {
+    "statId": 1955,
+    "itemId": 100,
+    "level": 20,
+    "overrides": {
+      "heal": 684,
+      "speed": 240,
+      "health": 684,
+      "attack_rate": 2000,
+      "attack_range_max": 820,
+      "damage_per_second": 140
+    }
+  },
+  {
+    "statId": 1958,
+    "itemId": 100,
+    "level": 22,
+    "overrides": {
+      "heal": 810,
+      "speed": 240,
+      "health": 810,
+      "attack_rate": 2000,
+      "attack_range_max": 820,
+      "damage_per_second": 168
+    }
+  },
+  {
+    "statId": 1969,
+    "itemId": 101,
+    "level": 4,
+    "overrides": {
+      "heal": 46,
+      "speed": 300,
+      "health": 475,
+      "attack_rate": 1000,
+      "attack_range_max": 90,
+      "damage_per_second": 189
+    }
+  },
+  {
+    "statId": 1973,
+    "itemId": 101,
+    "level": 8,
+    "overrides": {
+      "heal": 54,
+      "speed": 300,
+      "health": 597,
+      "attack_rate": 1000,
+      "attack_range_max": 90,
+      "damage_per_second": 237
+    }
+  },
+  {
+    "statId": 1977,
+    "itemId": 101,
+    "level": 12,
+    "overrides": {
+      "heal": 62,
+      "speed": 300,
+      "health": 751,
+      "attack_rate": 1000,
+      "attack_range_max": 90,
+      "damage_per_second": 297
+    }
+  },
+  {
+    "statId": 1627,
+    "itemId": 101,
+    "level": 16,
+    "overrides": {
+      "heal": 70,
+      "speed": 300,
+      "health": 945,
+      "attack_rate": 1000,
+      "attack_range_max": 90,
+      "damage_per_second": 373
+    }
+  },
+  {
+    "statId": 1984,
+    "itemId": 101,
+    "level": 20,
+    "overrides": {
+      "heal": 78,
+      "speed": 300,
+      "health": 1189,
+      "attack_rate": 1000,
+      "attack_range_max": 90,
+      "damage_per_second": 467
+    }
+  },
+  {
+    "statId": 2024,
+    "itemId": 103,
+    "level": 7,
+    "overrides": {
+      "speed": 180,
+      "health": 83,
+      "attack_rate": 2000,
+      "attack_range_max": 720,
+      "damage_per_second": 142
+    }
+  },
+  {
+    "statId": 2029,
+    "itemId": 103,
+    "level": 12,
+    "overrides": {
+      "speed": 180,
+      "health": 126,
+      "attack_rate": 2000,
+      "attack_range_max": 720,
+      "damage_per_second": 228
+    }
+  },
+  {
+    "statId": 2032,
+    "itemId": 103,
+    "level": 15,
+    "overrides": {
+      "speed": 180,
+      "health": 163,
+      "attack_rate": 2000,
+      "attack_range_max": 720,
+      "damage_per_second": 304
+    }
+  },
+  {
+    "statId": 2034,
+    "itemId": 103,
+    "level": 17,
+    "overrides": {
+      "speed": 180,
+      "health": 193,
+      "attack_rate": 2000,
+      "attack_range_max": 720,
+      "damage_per_second": 368
+    }
+  },
+  {
+    "statId": 2038,
+    "itemId": 103,
+    "level": 21,
+    "overrides": {
+      "speed": 180,
+      "health": 270,
+      "attack_rate": 2000,
+      "attack_range_max": 720,
+      "damage_per_second": 539
+    }
+  },
+  {
+    "statId": 2055,
+    "itemId": 104,
+    "level": 10,
+    "overrides": {
+      "speed": 220,
+      "health": 2000,
+      "capacity": 15,
+      "attack_rate": 75,
+      "destruct_damage": 650,
+      "attack_range_max": 720,
+      "damage_per_second": 259
+    }
+  },
+  {
+    "statId": 2059,
+    "itemId": 104,
+    "level": 14,
+    "overrides": {
+      "speed": 220,
+      "health": 2720,
+      "capacity": 15,
+      "attack_rate": 75,
+      "destruct_damage": 890,
+      "attack_range_max": 720,
+      "damage_per_second": 380
+    }
+  },
+  {
+    "statId": 2062,
+    "itemId": 104,
+    "level": 17,
+    "overrides": {
+      "speed": 220,
+      "health": 3430,
+      "capacity": 15,
+      "attack_rate": 75,
+      "destruct_damage": 1130,
+      "attack_range_max": 720,
+      "damage_per_second": 505
+    }
+  },
+  {
+    "statId": 2065,
+    "itemId": 104,
+    "level": 20,
+    "overrides": {
+      "speed": 220,
+      "health": 4320,
+      "capacity": 15,
+      "attack_rate": 75,
+      "destruct_damage": 1430,
+      "attack_range_max": 720,
+      "damage_per_second": 673
+    }
+  },
+  {
+    "statId": 2069,
+    "itemId": 104,
+    "level": 23,
+    "overrides": {
+      "speed": 220,
+      "health": 5560,
+      "capacity": 15,
+      "attack_rate": 75,
+      "destruct_damage": 1850,
+      "attack_range_max": 720,
+      "damage_per_second": 900
+    }
+  },
+  {
+    "statId": 2076,
+    "itemId": 105,
+    "level": 2,
+    "overrides": {
+      "speed": 230,
+      "damage": 598,
+      "health": 19440,
+      "attack_rate": 1000,
+      "damage_limit": 1900,
+      "attack_range_max": 330
+    }
+  },
+  {
+    "statId": 2078,
+    "itemId": 105,
+    "level": 4,
+    "overrides": {
+      "speed": 230,
+      "damage": 724,
+      "health": 22670,
+      "attack_rate": 1000,
+      "damage_limit": 1700,
+      "attack_range_max": 330
+    }
+  },
+  {
+    "statId": 2080,
+    "itemId": 105,
+    "level": 6,
+    "overrides": {
+      "speed": 230,
+      "damage": 876,
+      "health": 26450,
+      "attack_rate": 1000,
+      "damage_limit": 1500,
+      "attack_range_max": 330
+    }
+  },
+  {
+    "statId": 2081,
+    "itemId": 105,
+    "level": 7,
+    "overrides": {
+      "speed": 230,
+      "damage": 964,
+      "health": 28560,
+      "attack_rate": 1000,
+      "damage_limit": 1400,
+      "attack_range_max": 330
+    }
+  },
+  {
+    "statId": 2082,
+    "itemId": 105,
+    "level": 8,
+    "overrides": {
+      "speed": 230,
+      "damage": 1060,
+      "health": 30850,
+      "attack_rate": 1000,
+      "damage_limit": 1300,
+      "attack_range_max": 330
+    }
+  },
+  {
+    "statId": 2094,
+    "itemId": 106,
+    "level": 4,
+    "overrides": {
+      "health": 1760,
+      "spawn_rate": 5200,
+      "attack_rate": 800,
+      "spawn_count": 3,
+      "damage_per_second": 429
+    }
+  },
+  {
+    "statId": 2096,
+    "itemId": 106,
+    "level": 6,
+    "overrides": {
+      "health": 2010,
+      "spawn_rate": 5000,
+      "attack_rate": 800,
+      "spawn_count": 3,
+      "damage_per_second": 482
+    }
+  },
+  {
+    "statId": 2098,
+    "itemId": 106,
+    "level": 8,
+    "overrides": {
+      "health": 2260,
+      "spawn_rate": 4800,
+      "attack_rate": 800,
+      "spawn_count": 3,
+      "damage_per_second": 541
+    }
+  },
+  {
+    "statId": 2102,
+    "itemId": 106,
+    "level": 11,
+    "overrides": {
+      "health": 2690,
+      "spawn_rate": 4500,
+      "attack_rate": 800,
+      "spawn_count": 3,
+      "damage_per_second": 645
+    }
+  },
+  {
+    "statId": 2104,
+    "itemId": 106,
+    "level": 13,
+    "overrides": {
+      "health": 3020,
+      "spawn_rate": 4300,
+      "attack_rate": 800,
+      "spawn_count": 3,
+      "damage_per_second": 724
+    }
+  },
+  {
+    "statId": 1632,
+    "itemId": 107,
+    "level": 6,
+    "overrides": {
+      "speed": 270,
+      "health": 1070,
+      "duration": 600,
+      "heal_range_max": 600,
+      "heal_range_min": 300,
+      "heal_per_second": 44
+    }
+  },
+  {
+    "statId": 2122,
+    "itemId": 107,
+    "level": 10,
+    "overrides": {
+      "speed": 270,
+      "health": 1350,
+      "duration": 600,
+      "heal_range_max": 600,
+      "heal_range_min": 300,
+      "heal_per_second": 51
+    }
+  },
+  {
+    "statId": 2127,
+    "itemId": 107,
+    "level": 14,
+    "overrides": {
+      "speed": 270,
+      "health": 1710,
+      "duration": 600,
+      "heal_range_max": 600,
+      "heal_range_min": 300,
+      "heal_per_second": 60
+    }
+  },
+  {
+    "statId": 2131,
+    "itemId": 107,
+    "level": 17,
+    "overrides": {
+      "speed": 270,
+      "health": 2030,
+      "duration": 600,
+      "heal_range_max": 600,
+      "heal_range_min": 300,
+      "heal_per_second": 67
+    }
+  },
+  {
+    "statId": 2133,
+    "itemId": 107,
+    "level": 19,
+    "overrides": {
+      "speed": 270,
+      "health": 2610,
+      "duration": 600,
+      "heal_range_max": 600,
+      "heal_range_min": 300,
+      "heal_per_second": 85
+    }
+  },
+  {
+    "statId": 2142,
+    "itemId": 108,
+    "level": 4,
+    "overrides": {
+      "damage": 1422,
+      "damage_radius": 135,
+      "trigger_delay": 250,
+      "trigger_radius": 130
+    }
+  },
+  {
+    "statId": 2147,
+    "itemId": 108,
+    "level": 8,
+    "overrides": {
+      "damage": 2160,
+      "damage_radius": 135,
+      "trigger_delay": 250,
+      "trigger_radius": 130
+    }
+  },
+  {
+    "statId": 2152,
+    "itemId": 108,
+    "level": 12,
+    "overrides": {
+      "damage": 3164,
+      "damage_radius": 135,
+      "trigger_delay": 250,
+      "trigger_radius": 130
+    }
+  },
+  {
+    "statId": 2157,
+    "itemId": 108,
+    "level": 16,
+    "overrides": {
+      "damage": 4530,
+      "damage_radius": 135,
+      "trigger_delay": 250,
+      "trigger_radius": 130
+    }
+  },
+  {
+    "statId": 2159,
+    "itemId": 108,
+    "level": 18,
+    "overrides": {
+      "damage": 5388,
+      "damage_radius": 135,
+      "trigger_delay": 250,
+      "trigger_radius": 130
+    }
+  },
+  {
+    "statId": 2162,
+    "itemId": 109,
+    "level": 8,
+    "overrides": {
+      "damage": 78,
+      "damage_radius": 300,
+      "trigger_delay": 1000,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2164,
+    "itemId": 109,
+    "level": 10,
+    "overrides": {
+      "damage": 94,
+      "damage_radius": 300,
+      "trigger_delay": 1000,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2167,
+    "itemId": 109,
+    "level": 12,
+    "overrides": {
+      "damage": 114,
+      "damage_radius": 300,
+      "trigger_delay": 1000,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2172,
+    "itemId": 109,
+    "level": 16,
+    "overrides": {
+      "damage": 167,
+      "damage_radius": 300,
+      "trigger_delay": 1000,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2177,
+    "itemId": 109,
+    "level": 22,
+    "overrides": {
+      "damage": 296,
+      "damage_radius": 300,
+      "trigger_delay": 1000,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2161,
+    "itemId": 110,
+    "level": 1,
+    "overrides": {
+      "damage": 38,
+      "damage_radius": 300,
+      "trigger_delay": 250,
+      "shock_duration": 6000,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2182,
+    "itemId": 110,
+    "level": 2,
+    "overrides": {
+      "damage": 42,
+      "damage_radius": 300,
+      "trigger_delay": 250,
+      "shock_duration": 6500,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2183,
+    "itemId": 110,
+    "level": 3,
+    "overrides": {
+      "damage": 46,
+      "damage_radius": 300,
+      "trigger_delay": 250,
+      "shock_duration": 7000,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2184,
+    "itemId": 110,
+    "level": 4,
+    "overrides": {
+      "damage": 51,
+      "damage_radius": 300,
+      "trigger_delay": 250,
+      "shock_duration": 7500,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2185,
+    "itemId": 110,
+    "level": 5,
+    "overrides": {
+      "damage": 56,
+      "damage_radius": 300,
+      "trigger_delay": 250,
+      "shock_duration": 8000,
+      "trigger_radius": 150
+    }
+  },
+  {
+    "statId": 2190,
+    "itemId": 111,
+    "level": 1,
+    "overrides": {
+      "count": 16,
+      "damage": 862,
+      "shrapnel_damage": 87
+    }
+  },
+  {
+    "statId": 2191,
+    "itemId": 111,
+    "level": 2,
+    "overrides": {
+      "count": 16,
+      "damage": 1309,
+      "shrapnel_damage": 131
+    }
+  },
+  {
+    "statId": 2192,
+    "itemId": 111,
+    "level": 3,
+    "overrides": {
+      "count": 16,
+      "damage": 1988,
+      "shrapnel_damage": 199
+    }
+  },
+  {
+    "statId": 2193,
+    "itemId": 111,
+    "level": 4,
+    "overrides": {
+      "count": 16,
+      "damage": 3017,
+      "shrapnel_damage": 302
+    }
+  },
+  {
+    "statId": 2194,
+    "itemId": 111,
+    "level": 5,
+    "overrides": {
+      "count": 16,
+      "damage": 4580,
+      "shrapnel_damage": 358
+    }
+  },
+  {
+    "statId": 2195,
+    "itemId": 111,
+    "level": 6,
+    "overrides": {
+      "count": 16,
+      "damage": 6454,
+      "shrapnel_damage": 646
+    }
+  },
+  {
+    "statId": 1583,
+    "itemId": 112,
+    "level": 1,
+    "overrides": {
+      "duration": 7500,
+      "effect_radius": 1000,
+      "damage_resistance": 50
+    }
+  },
+  {
+    "statId": 1617,
+    "itemId": 112,
+    "level": 2,
+    "overrides": {
+      "duration": 7500,
+      "effect_radius": 1000,
+      "damage_resistance": 53
+    }
+  },
+  {
+    "statId": 1716,
+    "itemId": 112,
+    "level": 3,
+    "overrides": {
+      "duration": 7500,
+      "effect_radius": 1000,
+      "damage_resistance": 55
+    }
+  },
+  {
+    "statId": 1829,
+    "itemId": 112,
+    "level": 4,
+    "overrides": {
+      "duration": 7500,
+      "effect_radius": 1000,
+      "damage_resistance": 57
+    }
+  },
+  {
+    "statId": 1928,
+    "itemId": 112,
+    "level": 5,
+    "overrides": {
+      "duration": 7500,
+      "effect_radius": 1000,
+      "damage_resistance": 60
+    }
+  },
+  {
+    "statId": 1956,
+    "itemId": 112,
+    "level": 6,
+    "overrides": {
+      "duration": 7500,
+      "effect_radius": 1000,
+      "damage_resistance": 68
+    }
+  },
+  {
+    "statId": 2199,
+    "itemId": 113,
+    "level": 1,
+    "overrides": {
+      "duration": 7500,
+      "speed_boost": 40,
+      "effect_radius": 1000,
+      "damage_increase": 15
+    }
+  },
+  {
+    "statId": 2099,
+    "itemId": 113,
+    "level": 2,
+    "overrides": {
+      "duration": 7500,
+      "speed_boost": 42,
+      "effect_radius": 1000,
+      "damage_increase": 17
+    }
+  },
+  {
+    "statId": 2166,
+    "itemId": 113,
+    "level": 3,
+    "overrides": {
+      "duration": 7500,
+      "speed_boost": 45,
+      "effect_radius": 1000,
+      "damage_increase": 19
+    }
+  },
+  {
+    "statId": 2201,
+    "itemId": 113,
+    "level": 4,
+    "overrides": {
+      "duration": 7500,
+      "speed_boost": 47,
+      "effect_radius": 1000,
+      "damage_increase": 22
+    }
+  },
+  {
+    "statId": 2202,
+    "itemId": 113,
+    "level": 5,
+    "overrides": {
+      "duration": 7500,
+      "speed_boost": 50,
+      "effect_radius": 1000,
+      "damage_increase": 25
+    }
+  },
+  {
+    "statId": 2203,
+    "itemId": 113,
+    "level": 6,
+    "overrides": {
+      "duration": 7500,
+      "speed_boost": 60,
+      "effect_radius": 1000,
+      "damage_increase": 30
+    }
+  },
+  {
+    "statId": 2206,
+    "itemId": 114,
+    "level": 1,
+    "overrides": {
+      "count": 4,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150,
+      "heal_per_second": 30
+    }
+  },
+  {
+    "statId": 2207,
+    "itemId": 114,
+    "level": 2,
+    "overrides": {
+      "count": 6,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150,
+      "heal_per_second": 30
+    }
+  },
+  {
+    "statId": 2208,
+    "itemId": 114,
+    "level": 3,
+    "overrides": {
+      "count": 8,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150,
+      "heal_per_second": 30
+    }
+  },
+  {
+    "statId": 2209,
+    "itemId": 114,
+    "level": 4,
+    "overrides": {
+      "count": 10,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150,
+      "heal_per_second": 30
+    }
+  },
+  {
+    "statId": 2210,
+    "itemId": 114,
+    "level": 5,
+    "overrides": {
+      "count": 12,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150,
+      "heal_per_second": 30
+    }
+  },
+  {
+    "statId": 2212,
+    "itemId": 114,
+    "level": 6,
+    "overrides": {
+      "count": 15,
+      "speed": 400,
+      "health": 2500,
+      "duration": 15000,
+      "heal_range_max": 250,
+      "heal_range_min": 150,
+      "heal_per_second": 30
+    }
+  },
+  {
+    "statId": 2215,
+    "itemId": 115,
+    "level": 1,
+    "overrides": {
+      "health": 140,
+      "duration": 8000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 2216,
+    "itemId": 115,
+    "level": 2,
+    "overrides": {
+      "health": 220,
+      "duration": 8500,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 2217,
+    "itemId": 115,
+    "level": 3,
+    "overrides": {
+      "health": 300,
+      "duration": 9000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 2218,
+    "itemId": 115,
+    "level": 4,
+    "overrides": {
+      "health": 380,
+      "duration": 9500,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 2219,
+    "itemId": 115,
+    "level": 5,
+    "overrides": {
+      "health": 460,
+      "duration": 10000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 2220,
+    "itemId": 115,
+    "level": 6,
+    "overrides": {
+      "health": 600,
+      "duration": 11000,
+      "effect_radius": 1000
+    }
+  },
+  {
+    "statId": 2225,
+    "itemId": 116,
+    "level": 1,
+    "overrides": {
+      "housing_space": 8
+    }
+  },
+  {
+    "statId": 2226,
+    "itemId": 116,
+    "level": 2,
+    "overrides": {
+      "housing_space": 10
+    }
+  },
+  {
+    "statId": 2227,
+    "itemId": 116,
+    "level": 3,
+    "overrides": {
+      "housing_space": 12
+    }
+  },
+  {
+    "statId": 2228,
+    "itemId": 116,
+    "level": 4,
+    "overrides": {
+      "housing_space": 14
+    }
+  },
+  {
+    "statId": 2229,
+    "itemId": 116,
+    "level": 5,
+    "overrides": {
+      "housing_space": 16
+    }
+  },
+  {
+    "statId": 2200,
+    "itemId": 116,
+    "level": 6,
+    "overrides": {
+      "housing_space": 24
+    }
+  },
+  {
+    "statId": 2231,
+    "itemId": 117,
+    "level": 1,
+    "overrides": {
+      "count": 8,
+      "speed": 400,
+      "health": 400,
+      "attack_rate": 500,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 2232,
+    "itemId": 117,
+    "level": 2,
+    "overrides": {
+      "count": 10,
+      "speed": 400,
+      "health": 400,
+      "attack_rate": 500,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 2233,
+    "itemId": 117,
+    "level": 3,
+    "overrides": {
+      "count": 12,
+      "speed": 400,
+      "health": 400,
+      "attack_rate": 500,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 2234,
+    "itemId": 117,
+    "level": 4,
+    "overrides": {
+      "count": 14,
+      "speed": 400,
+      "health": 400,
+      "attack_rate": 500,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 2236,
+    "itemId": 117,
+    "level": 5,
+    "overrides": {
+      "count": 16,
+      "speed": 400,
+      "health": 400,
+      "attack_rate": 500,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 2237,
+    "itemId": 117,
+    "level": 6,
+    "overrides": {
+      "count": 18,
+      "speed": 400,
+      "health": 400,
+      "attack_rate": 500,
+      "attack_range_max": 90,
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 2240,
+    "itemId": 118,
+    "level": 1,
+    "overrides": {
+      "damage": 5800,
+      "shrapnel_damage": 3400
+    }
+  },
+  {
+    "statId": 2241,
+    "itemId": 118,
+    "level": 2,
+    "overrides": {
+      "damage": 7800,
+      "shrapnel_damage": 4400
+    }
+  },
+  {
+    "statId": 2242,
+    "itemId": 118,
+    "level": 3,
+    "overrides": {
+      "damage": 9800,
+      "shrapnel_damage": 5400
+    }
+  },
+  {
+    "statId": 2243,
+    "itemId": 118,
+    "level": 4,
+    "overrides": {
+      "damage": 11800,
+      "shrapnel_damage": 6400
+    }
+  },
+  {
+    "statId": 2244,
+    "itemId": 118,
+    "level": 5,
+    "overrides": {
+      "damage": 13800,
+      "shrapnel_damage": 7400
+    }
+  },
+  {
+    "statId": 2245,
+    "itemId": 118,
+    "level": 6,
+    "overrides": {
+      "damage": 15800,
+      "shrapnel_damage": 8400
+    }
+  },
+  {
+    "statId": 2250,
+    "itemId": 119,
+    "level": 1,
+    "overrides": {
+      "duration": 15000,
+      "shock_duration": 4000,
+      "damage_increase": 100
+    }
+  },
+  {
+    "statId": 2251,
+    "itemId": 119,
+    "level": 2,
+    "overrides": {
+      "duration": 15000,
+      "shock_duration": 4000,
+      "damage_increase": 125
+    }
+  },
+  {
+    "statId": 2252,
+    "itemId": 119,
+    "level": 3,
+    "overrides": {
+      "duration": 15000,
+      "shock_duration": 4000,
+      "damage_increase": 150
+    }
+  },
+  {
+    "statId": 2254,
+    "itemId": 119,
+    "level": 4,
+    "overrides": {
+      "duration": 15000,
+      "shock_duration": 4000,
+      "damage_increase": 175
+    }
+  },
+  {
+    "statId": 2255,
+    "itemId": 119,
+    "level": 5,
+    "overrides": {
+      "duration": 15000,
+      "shock_duration": 4000,
+      "damage_increase": 200
+    }
+  },
+  {
+    "statId": 2256,
+    "itemId": 119,
+    "level": 6,
+    "overrides": {
+      "duration": 15000,
+      "shock_duration": 4000,
+      "damage_increase": 225
+    }
+  },
+  {
+    "statId": 2260,
+    "itemId": 120,
+    "level": 1,
+    "overrides": {
+      "duration": 8000,
+      "damage_limit": 300,
+      "effect_radius": 600
+    }
+  },
+  {
+    "statId": 2261,
+    "itemId": 120,
+    "level": 2,
+    "overrides": {
+      "duration": 8000,
+      "damage_limit": 250,
+      "effect_radius": 600
+    }
+  },
+  {
+    "statId": 2262,
+    "itemId": 120,
+    "level": 3,
+    "overrides": {
+      "duration": 8000,
+      "damage_limit": 200,
+      "effect_radius": 600
+    }
+  },
+  {
+    "statId": 2263,
+    "itemId": 120,
+    "level": 4,
+    "overrides": {
+      "duration": 8000,
+      "damage_limit": 150,
+      "effect_radius": 600
+    }
+  },
+  {
+    "statId": 2264,
+    "itemId": 120,
+    "level": 5,
+    "overrides": {
+      "duration": 8000,
+      "damage_limit": 100,
+      "effect_radius": 600
+    }
+  },
+  {
+    "statId": 2266,
+    "itemId": 120,
+    "level": 6,
+    "overrides": {
+      "duration": 8000,
+      "damage_limit": 50,
+      "effect_radius": 600
+    }
+  },
+  {
+    "statId": 2269,
+    "itemId": 121,
+    "level": 1,
+    "overrides": {
+      "duration": 4000,
+      "speed_boost": 150,
+      "health_increase": 20
+    }
+  },
+  {
+    "statId": 2270,
+    "itemId": 121,
+    "level": 2,
+    "overrides": {
+      "duration": 4000,
+      "speed_boost": 175,
+      "health_increase": 23
+    }
+  },
+  {
+    "statId": 2271,
+    "itemId": 121,
+    "level": 3,
+    "overrides": {
+      "duration": 4000,
+      "speed_boost": 200,
+      "health_increase": 27
+    }
+  },
+  {
+    "statId": 2272,
+    "itemId": 121,
+    "level": 4,
+    "overrides": {
+      "duration": 4000,
+      "speed_boost": 225,
+      "health_increase": 30
+    }
+  },
+  {
+    "statId": 2273,
+    "itemId": 121,
+    "level": 5,
+    "overrides": {
+      "duration": 4000,
+      "speed_boost": 250,
+      "health_increase": 35
+    }
+  },
+  {
+    "statId": 2274,
+    "itemId": 121,
+    "level": 6,
+    "overrides": {
+      "duration": 4000,
+      "speed_boost": 275,
+      "health_increase": 42
+    }
+  },
+  {
+    "statId": 2277,
+    "itemId": 122,
+    "level": 1,
+    "overrides": {
+      "damage": 180,
+      "effect_radius": 600,
+      "shock_duration": 5000
+    }
+  },
+  {
+    "statId": 2278,
+    "itemId": 122,
+    "level": 2,
+    "overrides": {
+      "damage": 200,
+      "effect_radius": 600,
+      "shock_duration": 6000
+    }
+  },
+  {
+    "statId": 2279,
+    "itemId": 122,
+    "level": 3,
+    "overrides": {
+      "damage": 200,
+      "effect_radius": 600,
+      "shock_duration": 7000
+    }
+  },
+  {
+    "statId": 2280,
+    "itemId": 122,
+    "level": 4,
+    "overrides": {
+      "damage": 240,
+      "effect_radius": 600,
+      "shock_duration": 8000
+    }
+  },
+  {
+    "statId": 2281,
+    "itemId": 122,
+    "level": 5,
+    "overrides": {
+      "damage": 260,
+      "effect_radius": 600,
+      "shock_duration": 9000
+    }
+  },
+  {
+    "statId": 2282,
+    "itemId": 122,
+    "level": 6,
+    "overrides": {
+      "damage": 280,
+      "effect_radius": 600,
+      "shock_duration": 10000
+    }
+  },
+  {
+    "statId": 2287,
+    "itemId": 123,
+    "level": 4,
+    "overrides": {
+      "speed": 500,
+      "damage": 133,
+      "health": 1240,
+      "capacity": 3,
+      "spawn_rate": 5000,
+      "attack_rate": 1500,
+      "damage_type": "single",
+      "reload_time": 250,
+      "spawn_count": 2,
+      "attack_range_max": 900,
+      "damage_per_second": 133
+    }
+  },
+  {
+    "statId": 2291,
+    "itemId": 123,
+    "level": 6,
+    "overrides": {
+      "speed": 500,
+      "damage": 150,
+      "health": 1440,
+      "capacity": 3,
+      "spawn_rate": 5000,
+      "attack_rate": 1500,
+      "damage_type": "single",
+      "reload_time": 250,
+      "spawn_count": 2,
+      "attack_range_max": 900,
+      "damage_per_second": 150
+    }
+  },
+  {
+    "statId": 2293,
+    "itemId": 123,
+    "level": 8,
+    "overrides": {
+      "speed": 500,
+      "damage": 168,
+      "health": 1670,
+      "capacity": 3,
+      "spawn_rate": 5000,
+      "attack_rate": 1500,
+      "damage_type": "single",
+      "reload_time": 250,
+      "spawn_count": 2,
+      "attack_range_max": 900,
+      "damage_per_second": 168
+    }
+  },
+  {
+    "statId": 2297,
+    "itemId": 123,
+    "level": 11,
+    "overrides": {
+      "speed": 500,
+      "damage": 200,
+      "health": 2070,
+      "capacity": 3,
+      "spawn_rate": 5000,
+      "attack_rate": 1500,
+      "damage_type": "single",
+      "reload_time": 250,
+      "spawn_count": 2,
+      "attack_range_max": 900,
+      "damage_per_second": 200
+    }
+  },
+  {
+    "statId": 2304,
+    "itemId": 123,
+    "level": 16,
+    "overrides": {
+      "speed": 500,
+      "damage": 267,
+      "health": 2980,
+      "capacity": 3,
+      "spawn_rate": 5000,
+      "attack_rate": 1500,
+      "damage_type": "single",
+      "reload_time": 250,
+      "spawn_count": 2,
+      "attack_range_max": 900,
+      "damage_per_second": 267
+    }
+  },
+  {
+    "statId": 2309,
+    "itemId": 124,
+    "level": 1,
+    "overrides": {
+      "health": 200,
+      "damage_type": "single",
+      "damage_per_second": 100
+    }
+  },
+  {
+    "statId": 2310,
+    "itemId": 124,
+    "level": 2,
+    "overrides": {
+      "health": 240,
+      "damage_type": "single",
+      "damage_per_second": 116
+    }
+  },
+  {
+    "statId": 2311,
+    "itemId": 124,
+    "level": 3,
+    "overrides": {
+      "health": 290,
+      "damage_type": "single",
+      "damage_per_second": 135
+    }
+  },
+  {
+    "statId": 2288,
+    "itemId": 124,
+    "level": 4,
+    "overrides": {
+      "health": 350,
+      "damage_type": "single",
+      "damage_per_second": 156
+    }
+  },
+  {
+    "statId": 2295,
+    "itemId": 124,
+    "level": 5,
+    "overrides": {
+      "health": 420,
+      "damage_type": "single",
+      "damage_per_second": 181
+    }
+  },
+  {
+    "statId": 2300,
+    "itemId": 124,
+    "level": 6,
+    "overrides": {
+      "health": 500,
+      "damage_type": "single",
+      "damage_per_second": 210
+    }
+  },
+  {
+    "statId": 2314,
+    "itemId": 125,
+    "level": 1,
+    "overrides": {
+      "damage": 300,
+      "attack_rate": 1000,
+      "damage_radius": 600,
+      "attack_range_max": 1130
+    }
+  },
+  {
+    "statId": 2315,
+    "itemId": 125,
+    "level": 2,
+    "overrides": {
+      "damage": 450,
+      "attack_rate": 1000,
+      "damage_radius": 600,
+      "attack_range_max": 1130
+    }
+  },
+  {
+    "statId": 2316,
+    "itemId": 125,
+    "level": 3,
+    "overrides": {
+      "damage": 675,
+      "attack_rate": 1000,
+      "damage_radius": 600,
+      "attack_range_max": 1130
+    }
+  },
+  {
+    "statId": 2317,
+    "itemId": 125,
+    "level": 4,
+    "overrides": {
+      "damage": 1000,
+      "attack_rate": 1000,
+      "damage_radius": 600,
+      "attack_range_max": 1130
+    }
+  },
+  {
+    "statId": 2319,
+    "itemId": 125,
+    "level": 5,
+    "overrides": {
+      "damage": 1500,
+      "attack_rate": 1000,
+      "damage_radius": 600,
+      "attack_range_max": 1130
+    }
+  },
+  {
+    "statId": 2320,
+    "itemId": 125,
+    "level": 6,
+    "overrides": {
+      "damage": 2250,
+      "attack_rate": 1000,
+      "damage_radius": 600,
+      "attack_range_max": 1130
+    }
+  },
+  {
+    "statId": 2323,
+    "itemId": 126,
+    "level": 1,
+    "overrides": {
+      "spawn_count": 4
+    }
+  },
+  {
+    "statId": 2324,
+    "itemId": 126,
+    "level": 2,
+    "overrides": {
+      "spawn_count": 4
+    }
+  },
+  {
+    "statId": 2325,
+    "itemId": 126,
+    "level": 3,
+    "overrides": {
+      "spawn_count": 4
+    }
+  },
+  {
+    "statId": 2326,
+    "itemId": 126,
+    "level": 4,
+    "overrides": {
+      "spawn_count": 4
+    }
+  },
+  {
+    "statId": 2327,
+    "itemId": 126,
+    "level": 5,
+    "overrides": {
+      "spawn_count": 4
+    }
+  },
+  {
+    "statId": 2328,
+    "itemId": 126,
+    "level": 6,
+    "overrides": {
+      "spawn_count": 4
+    }
+  }
+]

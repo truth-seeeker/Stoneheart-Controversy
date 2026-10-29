@@ -1,0 +1,1 @@
+{"id":2374,"level":4,"strength":24.0,"rawData":{"sourceName":"DefReduceEnergy","localOverrides":[],"warshipConfiguration":{"tech":20,"count":1,"level":4,"children":[],"stat_level":4,"stat_values":{"effect_value":240},"stat_context":"warship","upgrade_cost":1160000}},"effectValue":240,"itemId":155}

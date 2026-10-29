@@ -1,0 +1,147 @@
+{
+  "scopes": {
+    "site_original": {
+      "fileCount": 38,
+      "occurrences": {
+        "openai": 0,
+        "openapi": 0,
+        "mcp": 0,
+        "chatgpt": 0,
+        "inference_sdks": 0,
+        "ai_api_paths": 0,
+        "stoneheart": 0,
+        "training_game_fields": 0,
+        "learning_terms": 0
+      },
+      "filesWithTerm": {}
+    },
+    "crawler_distribution": {
+      "fileCount": 2,
+      "occurrences": {
+        "openai": 21,
+        "openapi": 0,
+        "mcp": 0,
+        "chatgpt": 1,
+        "inference_sdks": 0,
+        "ai_api_paths": 0,
+        "stoneheart": 0,
+        "training_game_fields": 0,
+        "learning_terms": 1
+      },
+      "filesWithTerm": {
+        "openai": 1,
+        "chatgpt": 1,
+        "learning_terms": 1
+      }
+    },
+    "crawler_reports": {
+      "fileCount": 4,
+      "occurrences": {
+        "openai": 2,
+        "openapi": 0,
+        "mcp": 0,
+        "chatgpt": 0,
+        "inference_sdks": 0,
+        "ai_api_paths": 0,
+        "stoneheart": 0,
+        "training_game_fields": 0,
+        "learning_terms": 0
+      },
+      "filesWithTerm": {
+        "openai": 2
+      }
+    },
+    "api_documentation": {
+      "fileCount": 2,
+      "occurrences": {
+        "openai": 0,
+        "openapi": 2,
+        "mcp": 0,
+        "chatgpt": 0,
+        "inference_sdks": 0,
+        "ai_api_paths": 0,
+        "stoneheart": 0,
+        "training_game_fields": 0,
+        "learning_terms": 0
+      },
+      "filesWithTerm": {
+        "openapi": 2
+      }
+    },
+    "api_business_payloads": {
+      "fileCount": 6069,
+      "occurrences": {
+        "openai": 0,
+        "openapi": 0,
+        "mcp": 0,
+        "chatgpt": 0,
+        "inference_sdks": 0,
+        "ai_api_paths": 0,
+        "stoneheart": 63,
+        "training_game_fields": 7192,
+        "learning_terms": 0
+      },
+      "filesWithTerm": {
+        "training_game_fields": 2570,
+        "stoneheart": 5
+      }
+    }
+  },
+  "examples": [
+    {
+      "scope": "crawler_distribution",
+      "file": "README.md",
+      "term": "openai",
+      "offset": 16924,
+      "line": 231,
+      "excerpt": "n the URL\n\n### 🤖 AI assistant (optional)\n\n- optional, opt-in LLM integration — works with OpenAI, Anthropic, Google Gemini, and any OpenAI-compatible endpoint (vLLM, LiteLLM, MiniMax, Ollama, self-hosted)\n- AI SEO analysis with concrete title/description/keyword rewrites, [`l",
+      "sha256": "d7dc02470ff242d61b1c9c84f226f9fe2049f6f351c977b056a46a2bc587e3d7"
+    },
+    {
+      "scope": "crawler_distribution",
+      "file": "README.md",
+      "term": "openai",
+      "offset": 16966,
+      "line": 231,
+      "excerpt": "- optional, opt-in LLM integration — works with OpenAI, Anthropic, Google Gemini, and any OpenAI-compatible endpoint (vLLM, LiteLLM, MiniMax, Ollama, self-hosted)\n- AI SEO analysis with concrete title/description/keyword rewrites, [`llms.txt`](https://llmstxt.org/) generation",
+      "sha256": "d7dc02470ff242d61b1c9c84f226f9fe2049f6f351c977b056a46a2bc587e3d7"
+    },
+    {
+      "scope": "crawler_distribution",
+      "file": "README.md",
+      "term": "chatgpt",
+      "offset": 14434,
+      "line": 192,
+      "excerpt": "aders and footers across pages. Ideal for **feeding entire website content to AI tools** (ChatGPT, Claude, etc.)\n  that process markdown more effectively than raw HTML.\n\nSmart conversion features:\n\n- **collapsible accordions** — large link lists (menus, navigation, footer link",
+      "sha256": "d7dc02470ff242d61b1c9c84f226f9fe2049f6f351c977b056a46a2bc587e3d7"
+    },
+    {
+      "scope": "crawler_distribution",
+      "file": "README.md",
+      "term": "learning_terms",
+      "offset": 24120,
+      "line": 373,
+      "excerpt": "l guide you through the\nconfiguration. Choose from 10 preset modes, enter the target URL, fine-tune settings with\narrow keys, and the crawler starts immediately — no need to remember CLI flags.\n\n```\n? Choose a crawl mode:\n❯ Quick Audit               Fast site health overview — ",
+      "sha256": "d7dc02470ff242d61b1c9c84f226f9fe2049f6f351c977b056a46a2bc587e3d7"
+    },
+    {
+      "scope": "crawler_reports",
+      "file": "tmp\\warships.acetech.cloud.output.20261029-025259.json",
+      "term": "openai",
+      "offset": 1770,
+      "line": 59,
+      "excerpt": ",\n    \"aiModel\": null,\n    \"aiPrompt\": null,\n    \"aiPromptFile\": null,\n    \"aiProvider\": \"openai-compatible\",\n    \"aiSeoAffectsScore\": false,\n    \"aiSynthesisExtraBody\": null,\n    \"aiTemperature\": 0.0,\n    \"aiTimeout\": 180,\n    \"aiUseMaxCompletionTokens\": false,\n    \"allowedD",
+      "sha256": "a5b43e00a00b8fc3dac5ccfc3c9db64f156f3360ecabf3e3b00cfae67c7ae39b"
+    },
+    {
+      "scope": "crawler_reports",
+      "file": "tmp\\warships.acetech.cloud.output.20261029-030823.json",
+      "term": "openai",
+      "offset": 1614,
+      "line": 56,
+      "excerpt": ",\n    \"aiModel\": null,\n    \"aiPrompt\": null,\n    \"aiPromptFile\": null,\n    \"aiProvider\": \"openai-compatible\",\n    \"aiSeoAffectsScore\": false,\n    \"aiSynthesisExtraBody\": null,\n    \"aiTemperature\": 0.0,\n    \"aiTimeout\": 180,\n    \"aiUseMaxCompletionTokens\": false,\n    \"allowedD",
+      "sha256": "4cc9320f57d0523bad6362d8326bbfe710b94a73505ee0f98678819905cf5356"
+    }
+  ],
+  "note": "Occurrences across API representations are NOT independent data records. Token absence is not proof of absent server-side functionality."
+}

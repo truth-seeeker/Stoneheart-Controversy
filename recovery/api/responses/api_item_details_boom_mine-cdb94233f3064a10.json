@@ -1,0 +1,113 @@
+{
+    "id": 108,
+    "name": "boom_mine",
+    "description": "The Boom Mine stops the enemy in their tracks! Its high impact blast is focused in a small area.",
+    "type": "trap",
+    "singleInstance": false,
+    "warshipItems": [
+        {
+            "id": 211,
+            "canister": false,
+            "upgradeCost": 29000,
+            "level": 4,
+            "count": 4,
+            "tech": 5,
+            "stats": {
+                "id": 2142,
+                "level": 4,
+                "damage": 1422,
+                "damageRadius": 135,
+                "triggerRadius": 130,
+                "triggerDelay": 250,
+                "itemId": 108
+            },
+            "children": []
+        },
+        {
+            "id": 212,
+            "canister": false,
+            "upgradeCost": 56500,
+            "level": 8,
+            "count": 6,
+            "tech": 10,
+            "stats": {
+                "id": 2147,
+                "level": 8,
+                "damage": 2160,
+                "damageRadius": 135,
+                "triggerRadius": 130,
+                "triggerDelay": 250,
+                "itemId": 108
+            },
+            "children": []
+        },
+        {
+            "id": 213,
+            "canister": false,
+            "upgradeCost": 103500,
+            "level": 12,
+            "count": 8,
+            "tech": 15,
+            "stats": {
+                "id": 2152,
+                "level": 12,
+                "damage": 3164,
+                "damageRadius": 135,
+                "triggerRadius": 130,
+                "triggerDelay": 250,
+                "itemId": 108
+            },
+            "children": []
+        },
+        {
+            "id": 214,
+            "canister": false,
+            "upgradeCost": 150000,
+            "level": 16,
+            "count": 10,
+            "tech": 20,
+            "stats": {
+                "id": 2157,
+                "level": 16,
+                "damage": 4530,
+                "damageRadius": 135,
+                "triggerRadius": 130,
+                "triggerDelay": 250,
+                "itemId": 108
+            },
+            "children": []
+        },
+        {
+            "id": 215,
+            "canister": false,
+            "level": 18,
+            "count": 12,
+            "tech": 25,
+            "stats": {
+                "id": 2159,
+                "level": 18,
+                "damage": 5388,
+                "damageRadius": 135,
+                "triggerRadius": 130,
+                "triggerDelay": 250,
+                "itemId": 108
+            },
+            "children": []
+        },
+        {
+            "id": 721,
+            "canister": true,
+            "level": 22,
+            "count": 12,
+            "tech": 0,
+            "stats": {
+                "id": 1786,
+                "level": 22,
+                "damage": 7575,
+                "damageRadius": 135,
+                "itemId": 108
+            },
+            "children": []
+        }
+    ]
+}

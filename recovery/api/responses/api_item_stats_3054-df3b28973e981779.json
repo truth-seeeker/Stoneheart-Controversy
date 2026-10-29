@@ -1,0 +1,1 @@
+{"id":3054,"level":3,"strength":18.0,"rawData":{"sourceName":"DefDecreaseBuildingDebuff","localOverrides":[],"warshipConfiguration":{"tech":15,"count":1,"level":3,"children":[],"stat_level":3,"stat_values":{"effect_value":180},"stat_context":"warship","upgrade_cost":512000}},"effectValue":180,"itemId":163}

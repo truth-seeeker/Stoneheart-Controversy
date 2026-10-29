@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://backend.acetech.cloud/api/seasons/leaderboard",
+    "collectedUTC": "2026-10-29T03:03:28.714973+00:00",
+    "sha256": "e1653e05eb4b95ff4049191a43faae0d1f1953c5cc08ae4341d05e3e604299c5",
+    "file": "evidence\\warships-leaderboard.json"
+  },
+  {
+    "url": "https://backend.acetech.cloud/api/seasons",
+    "collectedUTC": "2026-10-29T03:03:28.414600+00:00",
+    "sha256": "5a203ac75fa6ee63aef7a36a492293d8749a145014a8fa7e1506d6e39ec56022",
+    "file": "evidence\\seasons-metadata.json"
+  },
+  {
+    "url": "https://backend.acetech.cloud/api/crab_events",
+    "collectedUTC": "2026-10-29T03:03:28.114267+00:00",
+    "sha256": "2c9ea6356c4f7d2d6a0878df06beebb3e9dbee0a461c3be329dbe68ab78cba94",
+    "file": "evidence\\crab-events.json"
+  }
+]

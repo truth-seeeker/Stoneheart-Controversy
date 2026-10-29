@@ -1,0 +1,11 @@
+{
+    "@context": {
+        "@vocab": "http:\/\/backend.acetech.cloud\/api_documentation?_format=jsonld#",
+        "hydra": "http:\/\/www.w3.org\/ns\/hydra\/core#",
+        "startedAt": "CrabEvent\/startedAt",
+        "endedAt": "CrabEvent\/endedAt",
+        "trophy": "CrabEvent\/trophy",
+        "name": "CrabEvent\/name",
+        "rankings": "CrabEvent\/rankings"
+    }
+}

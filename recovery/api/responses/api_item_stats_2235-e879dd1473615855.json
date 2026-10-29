@@ -1,0 +1,1 @@
+{"id":2235,"level":3,"strength":35.0,"rawData":{"sourceName":"ReduceDmgShot","localOverrides":[],"warshipConfiguration":{"tech":15,"count":1,"level":3,"children":[],"stat_level":3,"stat_values":{"effect_value":350},"stat_context":"warship","upgrade_cost":512000}},"effectValue":350,"itemId":143}

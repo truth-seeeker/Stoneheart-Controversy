@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://backend.acetech.cloud/api/item_details/boom_mine",
+    "preservedReformattedFile": "responses\\api_item_details_boom_mine-cdb94233f3064a10.json",
+    "expectedSHA256": "18cc9d2871269407e1b3bf6de418c99f7a4e6f7689019cfcf56c4c80438605b8",
+    "currentFileSHA256": "b21724b2e723463b1db71a029200bcd604356de6cc8dc3d8a082ce2a9b520b91",
+    "semanticJsonEqual": true,
+    "byteExactFile": "byte-exact\\18cc9d2871269407e1b3bf6de418c99f7a4e6f7689019cfcf56c4c80438605b8.json",
+    "method": "prior_verified_archive"
+  },
+  {
+    "url": "https://backend.acetech.cloud/api/contexts/CrabEvent#accept=application%2Fld%2Bjson",
+    "preservedReformattedFile": "responses\\api_contexts_CrabEvent-eef04683877c80f1.json",
+    "expectedSHA256": "cc31ea660b548eebaaf421b990a187338ab796189c2f7b59088478416202301e",
+    "currentFileSHA256": "f55307b11c88cbd2a41d6959bb70eef82e75ae8a038be4785fd7b9049f9f8dde",
+    "semanticJsonEqual": true,
+    "byteExactFile": "byte-exact\\cc31ea660b548eebaaf421b990a187338ab796189c2f7b59088478416202301e.json",
+    "method": "serialization_matching_recorded_sha256"
+  }
+]

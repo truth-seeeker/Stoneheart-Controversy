@@ -1,0 +1,3264 @@
+[
+    {
+        "startedAt": "2026-09-25T00:00:00+00:00",
+        "endedAt": "2026-09-28T00:00:00+00:00",
+        "trophy": "IV Anniversary Trophy",
+        "name": "Joker Crab",
+        "rankings": []
+    },
+    {
+        "startedAt": "2026-09-18T00:00:00+00:00",
+        "endedAt": "2026-09-21T00:00:00+00:00",
+        "trophy": "Crab Trophy",
+        "name": "Beastly Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3 \u963f\u5149 \ud83c\udde8\ud83c\uddf3",
+                "stage": 600,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "abumoosa\u2728",
+                "stage": 490,
+                "destroyed": "33.6"
+            },
+            {
+                "position": 3,
+                "name": "\u660e\u660e\u4e0d\u662f\u4e0b\u96e8\u5929",
+                "stage": 346,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "tkd",
+                "stage": 278,
+                "destroyed": "24.6"
+            },
+            {
+                "position": 5,
+                "name": "\ud6c4\ub2ec\ub9ac\ub0d0",
+                "stage": 275,
+                "destroyed": "85.6"
+            },
+            {
+                "position": 6,
+                "name": "\u6478\u9c7c\u2728\u6e56\u5149\u51dd\ud83d\udcab\u9759\u63fd\u661f\u8fb0",
+                "stage": 271,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "\u6478\u9c7c\u2728\u8d73\u8d73\u8001\u79e6\ud83d\udde1\ufe0f\u590d\u6211\u6cb3\u5c71",
+                "stage": 271,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "VegetarianPig",
+                "stage": 270,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 9,
+                "name": "\u26a1\ufe0fLambold  :) \u2728",
+                "stage": 260,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 10,
+                "name": "Tarpancake",
+                "stage": 255,
+                "destroyed": "0.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-08-21T00:00:00+00:00",
+        "endedAt": "2026-08-24T00:00:00+00:00",
+        "trophy": "Gunboat Trophy",
+        "name": "Gunboat Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Stoneheart",
+                "stage": 999,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "Kaktus_Youtube",
+                "stage": 788,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3\u963f\u5149\ud83c\udde8\ud83c\uddf3",
+                "stage": 785,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "\u660e\u660e\u4e0d\u662f\u4e0b\u96e8\u5929",
+                "stage": 665,
+                "destroyed": "49.5"
+            },
+            {
+                "position": 5,
+                "name": "blexity",
+                "stage": 665,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 6,
+                "name": "\uc2dc\uc6b0\u2713",
+                "stage": 554,
+                "destroyed": "41.6"
+            },
+            {
+                "position": 7,
+                "name": "Azunyan",
+                "stage": 512,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "VegetarianPig",
+                "stage": 500,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 9,
+                "name": "\u26a1\ufe0fLambold :)\u2728",
+                "stage": 500,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 10,
+                "name": "abumoosa",
+                "stage": 498,
+                "destroyed": "43.4"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-07-24T00:00:00+00:00",
+        "endedAt": "2026-07-27T00:00:00+00:00",
+        "trophy": "Scorched Trophy",
+        "name": "Scorched Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Kaktus_Youtube",
+                "stage": 827,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "\u660e\u660e\u4e0d\u662f\u4e0b\u96e8\u5929",
+                "stage": 788,
+                "destroyed": "79.4"
+            },
+            {
+                "position": 3,
+                "name": "blexity",
+                "stage": 588,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "Stoneheart",
+                "stage": 571,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 5,
+                "name": "B\u7ad9\u4e0e:\u5566\u53fd\u7b98",
+                "stage": 566,
+                "destroyed": "49.3"
+            },
+            {
+                "position": 6,
+                "name": "abumoosa\u2728",
+                "stage": 538,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "RyLee",
+                "stage": 527,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\u4e00\u9875\u7eb8\u9e22\ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 520,
+                "destroyed": "52.0"
+            },
+            {
+                "position": 9,
+                "name": "\u26a1\ufe0fLambold :)\u2728",
+                "stage": 510,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 10,
+                "name": "Syuxi\ud83d\udc96.decade",
+                "stage": 484,
+                "destroyed": "57.1"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-07-03T00:00:00+00:00",
+        "endedAt": "2026-07-06T00:00:00+00:00",
+        "trophy": "IV Anniversary Trophy",
+        "name": "Joker Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Stoneheart",
+                "stage": 750,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "\u4e00\u9875\u7eb8\u9e22\ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34\u963f\u5149",
+                "stage": 722,
+                "destroyed": "39.7"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3\u963f\u5149\ud83c\udde8\ud83c\uddf3",
+                "stage": 666,
+                "destroyed": "66.9"
+            },
+            {
+                "position": 4,
+                "name": "\ud83c\udde8\ud83c\uddf3BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 638,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 5,
+                "name": "blexity",
+                "stage": 607,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 6,
+                "name": "\u26a1Lambold :)\u2728",
+                "stage": 580,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5239\u90a3\ud83c\udde8\ud83c\uddf3",
+                "stage": 574,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "Jamarr",
+                "stage": 555,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 9,
+                "name": "MrPietrek :)",
+                "stage": 553,
+                "destroyed": "72.3"
+            },
+            {
+                "position": 10,
+                "name": "\u660e\u660e\u4e0d\u662f\u4e0b\u96e8\u5929",
+                "stage": 550,
+                "destroyed": "0.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-05-22T00:00:00+00:00",
+        "endedAt": "2026-05-25T00:00:00+00:00",
+        "trophy": "Vampire Trophy",
+        "name": "Life Leech Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u660e\u660e\u4e0d\u662f\u4e0b\u96e8\u5929",
+                "stage": 541,
+                "destroyed": "77.9"
+            },
+            {
+                "position": 2,
+                "name": "MrPietrek :l",
+                "stage": 496,
+                "destroyed": "71.3"
+            },
+            {
+                "position": 3,
+                "name": "Jamarr",
+                "stage": 409,
+                "destroyed": "71.4"
+            },
+            {
+                "position": 4,
+                "name": "tkd",
+                "stage": 403,
+                "destroyed": "69.2"
+            },
+            {
+                "position": 5,
+                "name": "ish\u00e4K K\u00e5pritiza",
+                "stage": 400,
+                "destroyed": "41.0"
+            },
+            {
+                "position": 6,
+                "name": "nick",
+                "stage": 383,
+                "destroyed": "59.7"
+            },
+            {
+                "position": 7,
+                "name": "Syuxi \ud83d\udc96.decade",
+                "stage": 365,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\u5218\u54c8\u54c8\u5148\u751f\u2728",
+                "stage": 363,
+                "destroyed": "55.1"
+            },
+            {
+                "position": 9,
+                "name": "MS\u26a1WAR MACHINE",
+                "stage": 361,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 10,
+                "name": "Docmaddy-YT",
+                "stage": 360,
+                "destroyed": "0.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-04-24T00:00:00+00:00",
+        "endedAt": "2026-04-27T00:00:00+00:00",
+        "trophy": "Hasty Trophy",
+        "name": "Hasty Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 900,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "\u5c0f\u8363",
+                "stage": 834,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 3,
+                "name": "\u4e00\u9875\u7eb8\u9e22 \ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 815,
+                "destroyed": "80.0"
+            },
+            {
+                "position": 4,
+                "name": "MrPietrek :)",
+                "stage": 752,
+                "destroyed": "47.0"
+            },
+            {
+                "position": 5,
+                "name": "tkd",
+                "stage": 705,
+                "destroyed": "75.4"
+            },
+            {
+                "position": 6,
+                "name": "Azd\u0131r",
+                "stage": 704,
+                "destroyed": "53.4"
+            },
+            {
+                "position": 7,
+                "name": "YBB \u2728\u4eba\u5e05\u6c14\u8d28\u4f73",
+                "stage": 654,
+                "destroyed": "9.0"
+            },
+            {
+                "position": 8,
+                "name": "Ante Paveli\u0107",
+                "stage": 651,
+                "destroyed": "37.0"
+            },
+            {
+                "position": 9,
+                "name": "\u2764\ufe0f \u062d\u0645\u0648\u062f\u2764\ufe0f \u0627\u0628\u0648",
+                "stage": 646,
+                "destroyed": "45.4"
+            },
+            {
+                "position": 10,
+                "name": "Napol\u00e9on\ud83c\uddeb\ud83c\uddf7",
+                "stage": 645,
+                "destroyed": "41.5"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-03-27T00:00:00+00:00",
+        "endedAt": "2026-03-30T00:00:00+00:00",
+        "trophy": "IV Anniversary Trophy",
+        "name": "Joker Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6401\u6d45\u5728\u897f\u5143\u524d\u7684\u7231",
+                "stage": 444,
+                "destroyed": "0.8"
+            },
+            {
+                "position": 2,
+                "name": "\u304d\u3055\u304d \u308d\u3057\u3084\u304d\u3064",
+                "stage": 425,
+                "destroyed": "52.3"
+            },
+            {
+                "position": 3,
+                "name": "\u5fc3\u96e8\u98d8\u843d",
+                "stage": 418,
+                "destroyed": "63.6"
+            },
+            {
+                "position": 4,
+                "name": "\u2764\ufe0f\u2728\u5566\u53ed\u83cc\u2728\u2764\ufe0f",
+                "stage": 401,
+                "destroyed": "39.0"
+            },
+            {
+                "position": 5,
+                "name": "\ud83c\udde8\ud83c\uddf3\u963f\u5149\ud83c\udde8\ud83c\uddf3",
+                "stage": 398,
+                "destroyed": "66.7"
+            },
+            {
+                "position": 6,
+                "name": "\u542c\u98ce\u5c31\u662f\u96e8\ud83d\udc63",
+                "stage": 389,
+                "destroyed": "68.3"
+            },
+            {
+                "position": 7,
+                "name": "GKing\u26bd\ufe0f\ud83e\udd45",
+                "stage": 388,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\u5c0f\u8363",
+                "stage": 369,
+                "destroyed": "88.2"
+            },
+            {
+                "position": 9,
+                "name": "\u68a6\u9b47\u2728\u661f\u9b42\u2935\ufe0f",
+                "stage": 368,
+                "destroyed": "44.4"
+            },
+            {
+                "position": 10,
+                "name": "\u2b50\ufe0f\u00d1OQUI\u2b50\ufe0fARG\ud83c\udde6\ud83c\uddf7",
+                "stage": 348,
+                "destroyed": "0.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-03-20T00:00:00+00:00",
+        "endedAt": "2026-03-23T00:00:00+00:00",
+        "trophy": "X Anniversary Trophy",
+        "name": "Anniversary Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u4f60\u8fd8\u662f\u8bf4\u4e86\u518d\u89c1",
+                "stage": 467,
+                "destroyed": "18.5"
+            },
+            {
+                "position": 2,
+                "name": "\u8d8a\u8fc7\u5c71\u4e18\u2728",
+                "stage": 431,
+                "destroyed": "34.0"
+            },
+            {
+                "position": 3,
+                "name": "MrPietrek :)",
+                "stage": 429,
+                "destroyed": "75.0"
+            },
+            {
+                "position": 4,
+                "name": "\u5927\u94c1\u9524",
+                "stage": 415,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 5,
+                "name": "\u2764\ufe0f\u71d5\u59ff\u2764\ufe0f",
+                "stage": 408,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 6,
+                "name": "\u6478\u9c7c\u2728HTT\ud83c\udfb8\u3051\u3044\u304a\u3093!",
+                "stage": 404,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "\u541b\u6101",
+                "stage": 403,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296\u97f3:BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 400,
+                "destroyed": "79.3"
+            },
+            {
+                "position": 9,
+                "name": "Stefanie Sun",
+                "stage": 392,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\uddfb\ud83c\uddf3DUY T\u00c2N\ud83c\uddfb\ud83c\uddf3",
+                "stage": 391,
+                "destroyed": "57.5"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-02-20T00:00:00+00:00",
+        "endedAt": "2026-02-23T00:00:00+00:00",
+        "trophy": "Cryo Trophy",
+        "name": "Cryo Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u2728\u8427\u58f0\u9690\u79cb\u745f\ud83d\udc96",
+                "stage": 652,
+                "destroyed": "55.4"
+            },
+            {
+                "position": 2,
+                "name": "\u7d2b\u4e8c\u6362\u7687\u51a0\u7f8e\u6ecb\u6ecb",
+                "stage": 514,
+                "destroyed": "60.3"
+            },
+            {
+                "position": 3,
+                "name": "n\/a",
+                "stage": 514,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "\u0627\u0644\u062d\u0628 \u064a\u0631\u062a\u0641\u0639 \u0645\u0639",
+                "stage": 467,
+                "destroyed": "56.2"
+            },
+            {
+                "position": 5,
+                "name": "\u660e\u660e\u4e0d\u662f\u4e0b\u96e8\u5929",
+                "stage": 445,
+                "destroyed": "55.8"
+            },
+            {
+                "position": 6,
+                "name": "\u2728\u4f60\u5934\u53d1\u4e71\u4e86\u54e6\u2728",
+                "stage": 438,
+                "destroyed": "83.3"
+            },
+            {
+                "position": 7,
+                "name": "\u82b1\u82b1\u8981\u7e41\u661f\u2764\ufe0fb\u7ad9sunset",
+                "stage": 435,
+                "destroyed": "60.5"
+            },
+            {
+                "position": 8,
+                "name": "\u4e00\u9875\u7eb8\u9e22\ud83c\udde8\ud83c\uddf31350",
+                "stage": 419,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 9,
+                "name": "\u6478\u9c7c\u2728\u843d\u65e5\u6f2b\u5c71\u2618\ufe0f\u665a\u98ce\u6795\u68a6",
+                "stage": 414,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 10,
+                "name": "\u201c \u201c\u201d",
+                "stage": 406,
+                "destroyed": "36.3"
+            }
+        ]
+    },
+    {
+        "startedAt": "2026-01-23T00:00:00+00:00",
+        "endedAt": "2026-01-26T00:00:00+00:00",
+        "trophy": "Lantern Trophy",
+        "name": "Lunar Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6401\u6d45\u5728\u897f\u5143\u524d\u7684\u7231",
+                "stage": 400,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u7ebd\u7ea6\u5e028\u53f7\u6280\u5e08\ud83c\udde8\ud83c\uddf3",
+                "stage": 395,
+                "destroyed": "69.0"
+            },
+            {
+                "position": 3,
+                "name": "\u4e09\u570b\u7fa4\u82f1\u2728\u78a7\u6d77\u6f6e\u751f",
+                "stage": 371,
+                "destroyed": "75.7"
+            },
+            {
+                "position": 4,
+                "name": "niesir\u5341\u5e74",
+                "stage": 365,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 5,
+                "name": "\u6296\u97f3\ud83c\udde8\ud83c\uddf3\u5c0f\u83dc\ud83c\udf08\/\u5f69\u8679\u2601\ufe0f",
+                "stage": 356,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 6,
+                "name": "ayase",
+                "stage": 353,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "\u4f60\u8fd8\u662f\u8bf4\u4e86\u518d\u89c1",
+                "stage": 337,
+                "destroyed": "43.9"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\uddfb\ud83c\uddf3DUY T\u00c2N\ud83c\uddfb\ud83c\uddf3",
+                "stage": 318,
+                "destroyed": "26.3"
+            },
+            {
+                "position": 9,
+                "name": "J_Master",
+                "stage": 298,
+                "destroyed": "39.2"
+            },
+            {
+                "position": 10,
+                "name": "\u2728\u4e0d\u7cfb\u821f\u2728",
+                "stage": 296,
+                "destroyed": "52.6"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-12-26T00:00:00+00:00",
+        "endedAt": "2025-12-29T00:00:00+00:00",
+        "trophy": "Fireworks Trophy",
+        "name": "New Year Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u660e\u660e\u4e0d\u662f\u4e0b\u96e8\u5929",
+                "stage": 460,
+                "destroyed": "47.4"
+            },
+            {
+                "position": 2,
+                "name": "\u4e00\u9875\u7eb8\u9e22\ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 460,
+                "destroyed": "41.6"
+            },
+            {
+                "position": 3,
+                "name": "b\u7ad9:\u6d77\u5c9b\u5947\u5175sunse",
+                "stage": 441,
+                "destroyed": "68.3"
+            },
+            {
+                "position": 4,
+                "name": "GKing\ud83e\udde4\ud83e\udde4",
+                "stage": 435,
+                "destroyed": "57.3"
+            },
+            {
+                "position": 5,
+                "name": "\u7ec8\u5c06\u7acb\u4e8e\u5dc5\u5cf0",
+                "stage": 421,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 6,
+                "name": "\u4e91\u513f",
+                "stage": 420,
+                "destroyed": "44.6"
+            },
+            {
+                "position": 7,
+                "name": "MrPietrek :l",
+                "stage": 418,
+                "destroyed": "81.4"
+            },
+            {
+                "position": 8,
+                "name": "\u4e0b\u5468\u4e09",
+                "stage": 354,
+                "destroyed": "61.5"
+            },
+            {
+                "position": 9,
+                "name": "HAMDO_YouTube",
+                "stage": 353,
+                "destroyed": "70.8"
+            },
+            {
+                "position": 10,
+                "name": "\u2694\ufe0f\ud83e\udd77AK\ud83e\udd77\u2694\ufe0f\u2666\ufe0f1\ufe0f\u20e3",
+                "stage": 349,
+                "destroyed": "61.3"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-10-24T00:00:00+00:00",
+        "endedAt": "2025-10-27T00:00:00+00:00",
+        "trophy": "Halloween Trophy",
+        "name": "Halloween Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u6296\u97f3\ud83c\udde8\ud83c\uddf3\u5dc5\u5cf0\u5c0f\u8363",
+                "stage": 620,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "MrPietrek :)",
+                "stage": 613,
+                "destroyed": "60.9"
+            },
+            {
+                "position": 3,
+                "name": "T\u00dcRKER\ud83c\uddf9\ud83c\uddf7ALPER",
+                "stage": 584,
+                "destroyed": "47.3"
+            },
+            {
+                "position": 4,
+                "name": "\u4e00\u9875\u7eb8\u9e22\ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 554,
+                "destroyed": "71.4"
+            },
+            {
+                "position": 5,
+                "name": "Kaktus_YouTube",
+                "stage": 550,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 6,
+                "name": "\u7ec8\u5c06\u7acb\u4e8e\u5dc5\u5cf0",
+                "stage": 538,
+                "destroyed": "43.6"
+            },
+            {
+                "position": 7,
+                "name": "\u6708\u793e\u5983",
+                "stage": 503,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\u56de\u5934\u65e0\u5cb8,  \u6211\u4eec\u5728\u521d\u89c1\u7684\u5b63\u8282\u6401\u6d45",
+                "stage": 502,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 9,
+                "name": "\u2694\ufe0f\ud83e\udd77AK\ud83e\udd77\u2694\ufe0f\ud83c\uddf8\ud83c\uddff\ud83c\uddea\ud83c\udded\u2666\ufe0f1\ufe0f\u20e3",
+                "stage": 498,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 10,
+                "name": "\ud83d\udd25\u0627\u0644\u062d\u0648\u062a\ud83d\udd25IRAQ\ud83d\udd25",
+                "stage": 496,
+                "destroyed": "0.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-09-26T00:00:00+00:00",
+        "endedAt": "2025-09-29T00:00:00+00:00",
+        "trophy": "Crab Trophy",
+        "name": "Beastly Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6401\u6d45\u5728\u897f\u5143\u524d\u7684\u7231",
+                "stage": 427,
+                "destroyed": "26.3"
+            },
+            {
+                "position": 2,
+                "name": "\u6211\u662f\u5c0f\u6b23\u540c\u5b66",
+                "stage": 423,
+                "destroyed": "68.0"
+            },
+            {
+                "position": 3,
+                "name": "Stoneheart",
+                "stage": 423,
+                "destroyed": "63.0"
+            },
+            {
+                "position": 4,
+                "name": "\ud83d\udc0b IQ\u0627\u0644\u062d\u0648\u062a\ud83c\udff4\u200d\u2620\ufe0f",
+                "stage": 370,
+                "destroyed": "90.7"
+            },
+            {
+                "position": 5,
+                "name": "Kaktus YouTube",
+                "stage": 367,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 6,
+                "name": "MrPietrek :)",
+                "stage": 362,
+                "destroyed": "34.1"
+            },
+            {
+                "position": 7,
+                "name": "Metalbond\u2122",
+                "stage": 343,
+                "destroyed": "55.2"
+            },
+            {
+                "position": 8,
+                "name": "Reza Et\u2b50\ufe0f\u2b50\ufe0f",
+                "stage": 338,
+                "destroyed": "79.3"
+            },
+            {
+                "position": 9,
+                "name": "Dr. L",
+                "stage": 336,
+                "destroyed": "61.3"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-08-29T00:00:00+00:00",
+        "endedAt": "2025-09-01T00:00:00+00:00",
+        "trophy": "Gunboat Trophy",
+        "name": "Gunboat Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u82b1\u82b1\u8981\u7e41\u661f\u2764\ufe0fb\u7ad9sunset",
+                "stage": 440,
+                "destroyed": "80.7"
+            },
+            {
+                "position": 2,
+                "name": "B\u7ad9&\u6296\u97f3:\u6d77\u5c9b\u5947\u5175-10\u590f",
+                "stage": 392,
+                "destroyed": "45.0"
+            },
+            {
+                "position": 3,
+                "name": "b\u7ad9\u6d77\u5c9b\u5947\u5175sunset\u63a5\u8783\u87f9",
+                "stage": 390,
+                "destroyed": "48.8"
+            },
+            {
+                "position": 4,
+                "name": "\u6296\u97f3\ud83c\udde8\ud83c\uddf3\u5dc5\u5cf0\u5c0f\u8363",
+                "stage": 382,
+                "destroyed": "63.0"
+            },
+            {
+                "position": 5,
+                "name": "\u4e09\u56fd\u7fa4\u82f1\u2728\u78a7\u6d77\u6f6e\u751f",
+                "stage": 378,
+                "destroyed": "27.4"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3B\u7ad9\u5175\u8d35\u795e\u901f\ud83c\udde8\ud83c\uddf3",
+                "stage": 373,
+                "destroyed": "85.9"
+            },
+            {
+                "position": 7,
+                "name": "\u542c\u98ce\u5c31\u662f\u96e8\u300b\ud83d\udc63",
+                "stage": 358,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\u4e00\u9875\u7eb8\u9e22\ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 356,
+                "destroyed": "50.3"
+            },
+            {
+                "position": 9,
+                "name": "\u2728Jamarr\u2728",
+                "stage": 356,
+                "destroyed": "35.9"
+            },
+            {
+                "position": 10,
+                "name": "J_Master",
+                "stage": 351,
+                "destroyed": "24.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-07-11T00:00:00+00:00",
+        "endedAt": "2025-07-14T00:00:00+00:00",
+        "trophy": "IV Anniversary Trophy",
+        "name": "Joker Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Kaktus_YouTube",
+                "stage": 369,
+                "destroyed": "77.9"
+            },
+            {
+                "position": 2,
+                "name": "\u4e00\u9875\u7eb8\u9e22 \ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 365,
+                "destroyed": "61.8"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3B\u7ad9\u641c\u8001\u718a\u4e00\u6253\u56db",
+                "stage": 352,
+                "destroyed": "34.0"
+            },
+            {
+                "position": 4,
+                "name": "\ud83c\udf1f\u70ed\u7231\u53ef\u62b5\u5c81\u6708\u6f2b\u957f\ud83d\udcab",
+                "stage": 352,
+                "destroyed": "17.3"
+            },
+            {
+                "position": 5,
+                "name": "\u4e91\u513f",
+                "stage": 346,
+                "destroyed": "25.0"
+            },
+            {
+                "position": 6,
+                "name": "\u6296\u97f3\ud83d\udd0e\u83f2\u8d1d\u9c81",
+                "stage": 341,
+                "destroyed": "72.6"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3\u7ebd\u7ea6\u5e028\u53f7\u6280\u5e08\ud83c\udde8\ud83c\uddf3",
+                "stage": 339,
+                "destroyed": "20.6"
+            },
+            {
+                "position": 8,
+                "name": "B\u7ad9&\u6296\u97f3:\u6d77\u5c9b\u5947\u5175-10\u590f",
+                "stage": 338,
+                "destroyed": "0.7"
+            },
+            {
+                "position": 9,
+                "name": "b\u7ad9:\u6d77\u5c9b\u5947\u5175sunset",
+                "stage": 329,
+                "destroyed": "27.1"
+            },
+            {
+                "position": 10,
+                "name": "\u5486\u54ee\u7684\u82b1\u6735",
+                "stage": 319,
+                "destroyed": "74.6"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-06-20T00:00:00+00:00",
+        "endedAt": "2025-06-23T00:00:00+00:00",
+        "trophy": "Vampire Trophy",
+        "name": "Life Leech Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Kaktus_YouTube",
+                "stage": 391,
+                "destroyed": "54.8"
+            },
+            {
+                "position": 2,
+                "name": "\u6296\u97f3\ud83d\udd0e\u83f2\u8d1d\u9c81",
+                "stage": 387,
+                "destroyed": "46.2"
+            },
+            {
+                "position": 3,
+                "name": "\u4e00\u9875\u7eb8\u9e22 \ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 370,
+                "destroyed": "18.7"
+            },
+            {
+                "position": 4,
+                "name": "b\u7ad9:\u6d77\u5c9b\u5947\u5175sunset",
+                "stage": 367,
+                "destroyed": "55.6"
+            },
+            {
+                "position": 5,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 365,
+                "destroyed": "64.4"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u7ebd\u7ea6\u5e028\u53f7\u6280\u5e08\ud83c\udde8\ud83c\uddf3",
+                "stage": 360,
+                "destroyed": "83.5"
+            },
+            {
+                "position": 7,
+                "name": "\u82b1\u82b1\u8981\u7e41\u661f\u2764\ufe0f\u6296\u97f3-\u6b8b\u9633\u5341\u4e03\u795e",
+                "stage": 360,
+                "destroyed": "72.2"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5239\u90a3\ud83c\udde8\ud83c\uddf3",
+                "stage": 355,
+                "destroyed": "41.0"
+            },
+            {
+                "position": 9,
+                "name": "\u6296\u97f3\ud83c\udde8\ud83c\uddf3\u5c0f\u8363\ud83c\udf08\u5f69\u8679\u2601\ufe0f",
+                "stage": 351,
+                "destroyed": "22.2"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296\u97f3: BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 344,
+                "destroyed": "82.6"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-05-23T00:00:00+00:00",
+        "endedAt": "2025-05-26T00:00:00+00:00",
+        "trophy": "Tribal Trophy",
+        "name": "Tribal Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 589,
+                "destroyed": "67.7"
+            },
+            {
+                "position": 2,
+                "name": "MrPietrek :)",
+                "stage": 588,
+                "destroyed": "71.3"
+            },
+            {
+                "position": 3,
+                "name": "B\u7ad9&\u6296\u97f3:\u6d77\u5c9b\u5947\u5175-10\u590f",
+                "stage": 536,
+                "destroyed": "27.5"
+            },
+            {
+                "position": 4,
+                "name": "\u2728Jamarr\u2728",
+                "stage": 500,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 5,
+                "name": "\u4e91\u513f",
+                "stage": 479,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 6,
+                "name": "b\u7ad9:\u6d77\u5c9b\u5947\u5175sunset",
+                "stage": 473,
+                "destroyed": "38.3"
+            },
+            {
+                "position": 7,
+                "name": "\u4e00\u9875\u7eb8\u9e22\ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 472,
+                "destroyed": "61.5"
+            },
+            {
+                "position": 8,
+                "name": "\u542c\u98ce\u5c31\u662f\u96e8\ud83d\udc63",
+                "stage": 472,
+                "destroyed": "38.5"
+            },
+            {
+                "position": 9,
+                "name": "\u54d4\u54e9up\u4e3b \u96f7\u795e\u73a9\u6d77\u5c9b",
+                "stage": 472,
+                "destroyed": "27.8"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296\u97f3:BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 466,
+                "destroyed": "47.1"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-04-25T00:00:00+00:00",
+        "endedAt": "2025-04-28T00:00:00+00:00",
+        "trophy": "Hasty Trophy",
+        "name": "Hasty Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u4e00\u9875\u7eb8\u9e22\ud83c\udde8\ud83c\uddf3\u77ff\u6cc9\u6c34",
+                "stage": 808,
+                "destroyed": "77.1"
+            },
+            {
+                "position": 2,
+                "name": "MrPietrek :)",
+                "stage": 808,
+                "destroyed": "57.3"
+            },
+            {
+                "position": 3,
+                "name": "Stoneheart",
+                "stage": 786,
+                "destroyed": "43.8"
+            },
+            {
+                "position": 4,
+                "name": "Renato 2.0",
+                "stage": 754,
+                "destroyed": "29.0"
+            },
+            {
+                "position": 5,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 744,
+                "destroyed": "53.5"
+            },
+            {
+                "position": 6,
+                "name": "\u6211\u4ecd\u5b58\u7559\u5341\u6b21",
+                "stage": 733,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "L\u00e2m\u2b50\ufe0fV\u2b50\ufe0fDuy 1993",
+                "stage": 723,
+                "destroyed": "61.1"
+            },
+            {
+                "position": 8,
+                "name": "Kaktus_YouTube",
+                "stage": 722,
+                "destroyed": "57.2"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\uddfb\ud83c\uddf3DUY T\u00c2N\ud83c\uddfb\ud83c\uddf3",
+                "stage": 706,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5927\u56fd\u98ce\u8303\ud83c\udde8\ud83c\uddf3",
+                "stage": 698,
+                "destroyed": "77.4"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-03-28T00:00:00+00:00",
+        "endedAt": "2025-03-31T00:00:00+00:00",
+        "trophy": "IV Anniversary Trophy",
+        "name": "Joker Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Stoneheart",
+                "stage": 507,
+                "destroyed": "76.2"
+            },
+            {
+                "position": 2,
+                "name": "Kaktus_YouTube",
+                "stage": 489,
+                "destroyed": "66.7"
+            },
+            {
+                "position": 3,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 484,
+                "destroyed": "18.2"
+            },
+            {
+                "position": 4,
+                "name": "MrPietrek :)",
+                "stage": 483,
+                "destroyed": "61.0"
+            },
+            {
+                "position": 5,
+                "name": "B\u7ad9&\u6296\u97f3:\u6d77\u5c9b\u5947\u5175-10\u590f",
+                "stage": 470,
+                "destroyed": "65.1"
+            },
+            {
+                "position": 6,
+                "name": "\u2728Jamarr\u2728",
+                "stage": 463,
+                "destroyed": "68.0"
+            },
+            {
+                "position": 7,
+                "name": "L\u00e2m\u2b50\ufe0fV\u2b50\ufe0fDuy 1993",
+                "stage": 448,
+                "destroyed": "71.2"
+            },
+            {
+                "position": 8,
+                "name": "\u5c71\u5c71\u800c\u5ddd-",
+                "stage": 442,
+                "destroyed": "81.7"
+            },
+            {
+                "position": 9,
+                "name": "\u542c\u98ce\u5c31\u662f\u96e8\ud83d\udc63",
+                "stage": 440,
+                "destroyed": "41.0"
+            },
+            {
+                "position": 10,
+                "name": "\uc2dc\uc6b0\u2714\ufe0f",
+                "stage": 434,
+                "destroyed": "66.2"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-03-21T00:00:00+00:00",
+        "endedAt": "2025-03-24T00:00:00+00:00",
+        "trophy": "X Anniversary Trophy",
+        "name": "Anniversary Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Tiffany, \ud83d\udc96",
+                "stage": 450,
+                "destroyed": "48.8"
+            },
+            {
+                "position": 2,
+                "name": "Lost My Mind",
+                "stage": 438,
+                "destroyed": "45.6"
+            },
+            {
+                "position": 3,
+                "name": "MrPietrek :)",
+                "stage": 424,
+                "destroyed": "88.7"
+            },
+            {
+                "position": 4,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 407,
+                "destroyed": "15.9"
+            },
+            {
+                "position": 5,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6885\u96f6\u843d\ud83c\udde8\ud83c\uddf3",
+                "stage": 399,
+                "destroyed": "19.5"
+            },
+            {
+                "position": 6,
+                "name": "\u9ebb\u82b1\u7130mm",
+                "stage": 392,
+                "destroyed": "47.8"
+            },
+            {
+                "position": 7,
+                "name": "\u00f1oqui",
+                "stage": 391,
+                "destroyed": "47.6"
+            },
+            {
+                "position": 8,
+                "name": "\u76fc\u6668\u2728009\u2728\u68a6\u5e7b",
+                "stage": 391,
+                "destroyed": "28.6"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296\u97f3\u641c\u6d77\u5c9b\u5947\u5175\u5357\u65b9",
+                "stage": 390,
+                "destroyed": "22.2"
+            },
+            {
+                "position": 10,
+                "name": "\u897f\u695a\ud83c\udde8\ud83c\uddf3",
+                "stage": 382,
+                "destroyed": "49.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-02-21T00:00:00+00:00",
+        "endedAt": "2025-02-24T00:00:00+00:00",
+        "trophy": "Cryo Trophy",
+        "name": "Cryo Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Kaktus_Youtube",
+                "stage": 339,
+                "destroyed": "70.5"
+            },
+            {
+                "position": 2,
+                "name": "\u6296yin\u2728\u8c6a\u54e5\u3001\u7559\u4e91\u53f7\ud83c\udde8\ud83c\uddf3",
+                "stage": 330,
+                "destroyed": "92.4"
+            },
+            {
+                "position": 3,
+                "name": "MrPietrek :)",
+                "stage": 322,
+                "destroyed": "42.3"
+            },
+            {
+                "position": 4,
+                "name": "\u5486\u54ee\u7684\u82b1\u6735",
+                "stage": 319,
+                "destroyed": "72.1"
+            },
+            {
+                "position": 5,
+                "name": "K-ON! \u76f8\u9047\u5929\u4f7f",
+                "stage": 319,
+                "destroyed": "56.6"
+            },
+            {
+                "position": 6,
+                "name": "L\u00e2m \u2b50\ufe0f(V)\u2b50\ufe0fDuy 1993",
+                "stage": 315,
+                "destroyed": "80.3"
+            },
+            {
+                "position": 7,
+                "name": "\u5b9d\u5b9d\u5df4\u58eb",
+                "stage": 310,
+                "destroyed": "66.9"
+            },
+            {
+                "position": 8,
+                "name": "Reza Et\u2b50\ufe0f\u2b50\ufe0f",
+                "stage": 310,
+                "destroyed": "38.3"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6f6e\u6d41\u2764\ufe0f\u53c8\u4e00\u5929\u4e0b\u7b2c\u4e00\u597d",
+                "stage": 302,
+                "destroyed": "77.4"
+            },
+            {
+                "position": 10,
+                "name": "b\u7ad9:\u6d77\u5c9b\u5947\u5175sunset",
+                "stage": 302,
+                "destroyed": "77.4"
+            }
+        ]
+    },
+    {
+        "startedAt": "2025-01-24T00:00:00+00:00",
+        "endedAt": "2025-01-26T00:00:00+00:00",
+        "trophy": "Lantern Trophy",
+        "name": "Lunar Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Lemonade",
+                "stage": 393,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "\u5486\u54ee\u7684\u82b1\u6735",
+                "stage": 384,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 3,
+                "name": "\u6296yin\u2728\u8c6a\u54e5\u3001\u526f\u672c\u53f7\ud83c\udde8\ud83c\uddf3",
+                "stage": 377,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "\u9633\u5149\u6e05\u6668",
+                "stage": 368,
+                "destroyed": "75.0"
+            },
+            {
+                "position": 5,
+                "name": "MrPietrek :)",
+                "stage": 365,
+                "destroyed": "58.8"
+            },
+            {
+                "position": 6,
+                "name": "\u5b9d\u5b9d\u5df4\u58eb",
+                "stage": 364,
+                "destroyed": "55.1"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5927\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 360,
+                "destroyed": "55.1"
+            },
+            {
+                "position": 8,
+                "name": "L\u00e2m Duy 1993",
+                "stage": 360,
+                "destroyed": "56.6"
+            },
+            {
+                "position": 9,
+                "name": "b\u7ad9:\u6d77\u5c9b\u5947\u5175sunset",
+                "stage": 360,
+                "destroyed": "56.6"
+            },
+            {
+                "position": 10,
+                "name": "DY\u9633\u5149\u6e05\u6668\ud83c\udde8\ud83c\uddf3",
+                "stage": 357,
+                "destroyed": "94.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-12-27T00:00:00+00:00",
+        "endedAt": "2024-12-30T00:00:00+00:00",
+        "trophy": "Fireworks Trophy",
+        "name": "New Year Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Tiffany, \ud83d\udc96",
+                "stage": 450,
+                "destroyed": "48.8"
+            },
+            {
+                "position": 2,
+                "name": "Lost My Mind",
+                "stage": 438,
+                "destroyed": "45.6"
+            },
+            {
+                "position": 3,
+                "name": "MrPietrek :)",
+                "stage": 424,
+                "destroyed": "88.7"
+            },
+            {
+                "position": 4,
+                "name": "K-ON! \u76f8\u9047\u5929\u4f7f",
+                "stage": 407,
+                "destroyed": "15.9"
+            },
+            {
+                "position": 5,
+                "name": "\ud83c\udde8\ud83c\uddf3\u3010\u6885\u96f6\u843d\ud83c\udde8\ud83c\uddf3",
+                "stage": 399,
+                "destroyed": "19.5"
+            },
+            {
+                "position": 6,
+                "name": "\u9ebb\u82b1\u7130mm",
+                "stage": 392,
+                "destroyed": "47.8"
+            },
+            {
+                "position": 7,
+                "name": "\u00f1oqui",
+                "stage": 391,
+                "destroyed": "47.6"
+            },
+            {
+                "position": 8,
+                "name": "\u76fc\u6668\u2728009\u2728\u68a6\u5e7b",
+                "stage": 391,
+                "destroyed": "28.6"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296\u97f3\u641c\u6d77\u5c9b\u5947\u5175\u5357\u65b9",
+                "stage": 390,
+                "destroyed": "22.2"
+            },
+            {
+                "position": 10,
+                "name": "\u897f\u695a\ud83c\udde8\ud83c\uddf3",
+                "stage": 382,
+                "destroyed": "49.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-11-22T00:00:00+00:00",
+        "endedAt": "2024-11-25T00:00:00+00:00",
+        "trophy": "Proto Trophy",
+        "name": "Proto Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "MrPietrek :)",
+                "stage": 420,
+                "destroyed": "33.8"
+            },
+            {
+                "position": 2,
+                "name": "Kaktus No.1\u270c\ufe0f",
+                "stage": 409,
+                "destroyed": "34.6"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3 \u5927\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 394,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 344,
+                "destroyed": "58.9"
+            },
+            {
+                "position": 5,
+                "name": "MrPietrek :l",
+                "stage": 334,
+                "destroyed": "69.8"
+            },
+            {
+                "position": 6,
+                "name": "L\u00e2m Duy 1993",
+                "stage": 333,
+                "destroyed": "21.3"
+            },
+            {
+                "position": 7,
+                "name": "Pinal\u270c\ufe0f",
+                "stage": 327,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5dc5\u5cf0\u2764\ufe0f\u661f\u8fb0\u2728\u541b\u738b",
+                "stage": 320,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 9,
+                "name": "b\u7ad9:\u6d77\u5c9b\u5947\u5175sunset",
+                "stage": 295,
+                "destroyed": "25.0"
+            },
+            {
+                "position": 10,
+                "name": "\u897f\u695a\ud83c\udde8\ud83c\uddf3",
+                "stage": 293,
+                "destroyed": "54.9"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-10-25T00:00:00+00:00",
+        "endedAt": "2024-10-28T00:00:00+00:00",
+        "trophy": "Halloween Trophy",
+        "name": "Halloween Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u53cd\u65b9\u5411\u7684\u949f\ud83c\udf34",
+                "stage": 315,
+                "destroyed": "68.8"
+            },
+            {
+                "position": 2,
+                "name": "Lemonade",
+                "stage": 313,
+                "destroyed": "84.5"
+            },
+            {
+                "position": 3,
+                "name": "MrPietrek :)",
+                "stage": 313,
+                "destroyed": "69.9"
+            },
+            {
+                "position": 4,
+                "name": "\u2728Jamarr\u2728",
+                "stage": 311,
+                "destroyed": "48.0"
+            },
+            {
+                "position": 5,
+                "name": "Tiffany.\ud83d\udc96",
+                "stage": 305,
+                "destroyed": "89.3"
+            },
+            {
+                "position": 6,
+                "name": "\u542c\u98ce\u5c31\u662f\u96e8\ud83d\udc63",
+                "stage": 302,
+                "destroyed": "65.2"
+            },
+            {
+                "position": 7,
+                "name": "Tr\u00e2u C\u00e2y 1993",
+                "stage": 298,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 294,
+                "destroyed": "49.1"
+            },
+            {
+                "position": 9,
+                "name": "Kaktus No.1\u270c\ufe0f",
+                "stage": 292,
+                "destroyed": "39.1"
+            },
+            {
+                "position": 10,
+                "name": "Dopamine",
+                "stage": 290,
+                "destroyed": "75.2"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-09-27T00:00:00+00:00",
+        "endedAt": "2024-09-30T00:00:00+00:00",
+        "trophy": "Crab Trophy",
+        "name": "Beastly Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5feb\u624b-\u6296\u97f3:\u5dc5\u5cf0\u4e03\u671b",
+                "stage": 264,
+                "destroyed": "62"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u7948\u6cfd\ud83c\udde8\ud83c\uddf3",
+                "stage": 252,
+                "destroyed": "84.5"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296y: \u6d77\u5c9b\u5947\u5175-\u706d\u4e16",
+                "stage": 247,
+                "destroyed": "30"
+            },
+            {
+                "position": 4,
+                "name": "\u6296yin\u2728\u8c6a\u54e5\u3001\u8783\u87f9\u53f7\ud83c\udde8\ud83c\uddf3",
+                "stage": 245,
+                "destroyed": "54"
+            },
+            {
+                "position": 5,
+                "name": "\u0627\u0644\u0623\u0631\u0648\u0627\u062d \u0627\u0644\u0633\u0648\u062f\u0627\u0621",
+                "stage": 245,
+                "destroyed": "44.4"
+            },
+            {
+                "position": 6,
+                "name": "MrPietrek:)",
+                "stage": 244,
+                "destroyed": "49.6"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5dc5\u5cf0\u2764\ufe0f\u661f\u8fb0\u2728\u541b\u738b",
+                "stage": 244,
+                "destroyed": "46.5"
+            },
+            {
+                "position": 8,
+                "name": "\u6211\u662f\u5c0f\u6b23\u540c\u5b66",
+                "stage": 240,
+                "destroyed": "63.1"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5927\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 238,
+                "destroyed": "34.6"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3\u4e94\u661f\u7ea2\u65d72\ud83c\udde8\ud83c\uddf3",
+                "stage": 235,
+                "destroyed": "42.1"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-08-30T00:00:00+00:00",
+        "endedAt": "2024-09-02T00:00:00+00:00",
+        "trophy": "Gunboat Trophy",
+        "name": "Gunboat Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5feb\u624b\u6296\u97f3:\u5dc5\u5cf0\u4e03\u671b",
+                "stage": 293,
+                "destroyed": "46.8"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5927\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 283,
+                "destroyed": "57.0"
+            },
+            {
+                "position": 3,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 268,
+                "destroyed": "47.5"
+            },
+            {
+                "position": 4,
+                "name": "\u6211\u662f\u5c0f\u6b23\u540c\u5b66",
+                "stage": 265,
+                "destroyed": "79.2"
+            },
+            {
+                "position": 5,
+                "name": "\u7834\u9635\u5b50\u30fb\u5de8\u9619",
+                "stage": 265,
+                "destroyed": "26.1"
+            },
+            {
+                "position": 6,
+                "name": "ma c\u00e0y \u0111\u1ecbnh",
+                "stage": 260,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "\u26a1\ufe0fJ E R E M Y\u26a1\ufe0f",
+                "stage": 259,
+                "destroyed": "63.3"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\udde8\ud83c\uddf3\u829d\u9ebb\u7ca5\ud83c\udde8\ud83c\uddf3",
+                "stage": 259,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 9,
+                "name": "\u6c5f\u7554\u4f55\u5e74\u89c1\u6708",
+                "stage": 255,
+                "destroyed": "74.2"
+            },
+            {
+                "position": 10,
+                "name": "\u7f8a\u7f8a\u5b50",
+                "stage": 249,
+                "destroyed": "83.5"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-08-02T00:00:00+00:00",
+        "endedAt": "2024-08-05T00:00:00+00:00",
+        "trophy": "Scorched Trophy",
+        "name": "Scorched Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5927\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 291,
+                "destroyed": "33.1"
+            },
+            {
+                "position": 2,
+                "name": "\u5c0f\u91ceOVER\ud83c\udde8\ud83c\uddf3",
+                "stage": 289,
+                "destroyed": "33.1"
+            },
+            {
+                "position": 3,
+                "name": "\u53cd\u65b9\u5411\u7684\u949f\ud83d\udc8b",
+                "stage": 287,
+                "destroyed": "14.6"
+            },
+            {
+                "position": 4,
+                "name": "\u7b71\u793c\u2764\ufe0f\u82b1\u5f00\u582a\u6298\u76f4\u987b\u6298",
+                "stage": 285,
+                "destroyed": "69.1"
+            },
+            {
+                "position": 5,
+                "name": "\ud83c\udde8\ud83c\uddf3\u7533\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 285,
+                "destroyed": "60.4"
+            },
+            {
+                "position": 6,
+                "name": "\u6296\u97f3&\u8c6a\u54e5\u7684\u6069\u5e08",
+                "stage": 283,
+                "destroyed": "61.0"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5feb\u624b\u6296\u97f3:\u5dc5\u5cf0\u4e03\u671b",
+                "stage": 283,
+                "destroyed": "60.0"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5929\u4e0b\u5f52\u5fc3\ud83e\udee7\u66ae\u96e8\ud83e\udee7",
+                "stage": 283,
+                "destroyed": "52.4"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6b64\u751f\u8d25\u4e8e\u60c5",
+                "stage": 282,
+                "destroyed": "20.1"
+            },
+            {
+                "position": 10,
+                "name": "\u6d77\u5c9b\u2728\u6218\u72c2\u2728\u94dc\u9523\u70e7\ud83c\udde8\ud83c\uddf3",
+                "stage": 280,
+                "destroyed": "51.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-06-28T00:00:00+00:00",
+        "endedAt": "2024-06-30T00:00:00+00:00",
+        "trophy": "Vampire Trophy",
+        "name": "Life Leech Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "HAMID1\ufe0f\u20e3",
+                "stage": 310,
+                "destroyed": "90.4"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296y: \u6d77\u5c9b\u5947\u5175-\u706d\u4e16",
+                "stage": 310,
+                "destroyed": "72.6"
+            },
+            {
+                "position": 3,
+                "name": "ONLY\u2666\ufe0fBUSTER",
+                "stage": 305,
+                "destroyed": "66.1"
+            },
+            {
+                "position": 4,
+                "name": "\ud83c\udde8\ud83c\uddf3\u4e2d\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 305,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 5,
+                "name": "K-ON!\u76f8\u9047\u5929\u4f7f",
+                "stage": 304,
+                "destroyed": "55.7"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5927\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 300,
+                "destroyed": "47.0"
+            },
+            {
+                "position": 7,
+                "name": "\u8521\u5f90\u5764",
+                "stage": 300,
+                "destroyed": "38.8"
+            },
+            {
+                "position": 8,
+                "name": "\u9ebb\u82b1\u7130mm",
+                "stage": 295,
+                "destroyed": "81.9"
+            },
+            {
+                "position": 9,
+                "name": "\u09e9\u09e9\u09e9\u09e9\u09e9\u09e9\u09e9\u09e9\u51e4\u516e\ud83c\udde8\ud83c\uddf3",
+                "stage": 292,
+                "destroyed": "78.6"
+            },
+            {
+                "position": 10,
+                "name": "KING\ud83d\udca4PREDA",
+                "stage": 287,
+                "destroyed": "60.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-05-31T00:00:00+00:00",
+        "endedAt": "2024-06-02T00:00:00+00:00",
+        "trophy": "Tribal Trophy",
+        "name": "Tribal Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5c0f\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 236,
+                "destroyed": "34.7"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5927\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 236,
+                "destroyed": "18.7"
+            },
+            {
+                "position": 3,
+                "name": "KING\ud83d\udca4PREDA",
+                "stage": 235,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "\ud83c\udde8\ud83c\uddf3\u75f4\u60c5\u4ed4\u9752\u5c0f\u6728",
+                "stage": 231,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 5,
+                "name": "Lost My Mind",
+                "stage": 230,
+                "destroyed": "46.4"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u4e2d\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 229,
+                "destroyed": "83.7"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3 \u6296\u97f3:BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 229,
+                "destroyed": "79.3"
+            },
+            {
+                "position": 8,
+                "name": "MrPietrek :)",
+                "stage": 229,
+                "destroyed": "63.0"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u7834\u865a\u2728\u672a\u81f3\u5012\u60ac\u5c71",
+                "stage": 228,
+                "destroyed": "37.3"
+            },
+            {
+                "position": 10,
+                "name": "D\u01b0aa\ud83c\udf1fHau\ud83d\udd1d",
+                "stage": 227,
+                "destroyed": "85.7"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-05-03T00:00:00+00:00",
+        "endedAt": "2024-05-05T00:00:00+00:00",
+        "trophy": "Hasty Trophy",
+        "name": "Hasty Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u8521\u5f90\u5764",
+                "stage": 460,
+                "destroyed": "71.2"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 454,
+                "destroyed": "72.6"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5927\u96ea\u7cd5\ud83c\udde8\ud83c\uddf3",
+                "stage": 454,
+                "destroyed": "56.5"
+            },
+            {
+                "position": 4,
+                "name": "MrPietrek :)",
+                "stage": 426,
+                "destroyed": "63.4"
+            },
+            {
+                "position": 5,
+                "name": "NCH\u00c8\u00d8",
+                "stage": 417,
+                "destroyed": "36.3"
+            },
+            {
+                "position": 6,
+                "name": "SigmaMale\ud83d\udda4",
+                "stage": 416,
+                "destroyed": "39.8"
+            },
+            {
+                "position": 7,
+                "name": "\u4ead\u8857\ud83e\udd17",
+                "stage": 414,
+                "destroyed": "81.7"
+            },
+            {
+                "position": 8,
+                "name": "\u5f20\u5b66\u53cb",
+                "stage": 414,
+                "destroyed": "76.1"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296\u97f3:BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 414,
+                "destroyed": "73.4"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3\u7834\u865a\u7684\u795e\u5947\u5b9d\u8d1d\u840c\u6bd4",
+                "stage": 411,
+                "destroyed": "59.8"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-04-05T00:00:00+00:00",
+        "endedAt": "2024-04-08T00:00:00+00:00",
+        "trophy": "IV Anniversary Trophy",
+        "name": "Joker Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u8521\u5f90\u5764",
+                "stage": 236,
+                "destroyed": "78.5"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u54d4\u7ad9\uff1a\u8721\u7b14\u5c0f\u65b0",
+                "stage": 226,
+                "destroyed": "79.6"
+            },
+            {
+                "position": 3,
+                "name": "\u9ebb\u82b1\u7130mm",
+                "stage": 220,
+                "destroyed": "66.9"
+            },
+            {
+                "position": 4,
+                "name": "\u5f20\u5b66\u53cb",
+                "stage": 220,
+                "destroyed": "65.3"
+            },
+            {
+                "position": 5,
+                "name": "\u5ead\u540e\u8d4f\u82b1\u4eba\u2764\ufe0f\u6b8b\u9633\u5341\u4e03\u795e\u2744\ufe0f",
+                "stage": 220,
+                "destroyed": "60.5"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5929\u4e0b\u5f52\u5fc3 \u66ae\u96e8",
+                "stage": 220,
+                "destroyed": "56.5"
+            },
+            {
+                "position": 7,
+                "name": "\u7b71\u793c\u2764\ufe0f\u82b1\u5f00\u582a\u6298\u76f4\u987b\u6298",
+                "stage": 213,
+                "destroyed": "70.2"
+            },
+            {
+                "position": 8,
+                "name": "\u9633\u5149\u6e05\u6668\ud83c\udde8\ud83c\uddf3",
+                "stage": 213,
+                "destroyed": "59.6"
+            },
+            {
+                "position": 9,
+                "name": "22",
+                "stage": 213,
+                "destroyed": "58.3"
+            },
+            {
+                "position": 10,
+                "name": "???",
+                "stage": 0
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-03-01T00:00:00+00:00",
+        "endedAt": "2024-03-04T00:00:00+00:00",
+        "trophy": "X Anniversary Trophy",
+        "name": "Anniversary Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u5f20\u5b66\u53cb",
+                "stage": 231,
+                "destroyed": "75.6"
+            },
+            {
+                "position": 2,
+                "name": "\u8521\u5f90\u5764",
+                "stage": 229,
+                "destroyed": "53.1"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3 \u6296: \u6d77\u5c9b\u5947\u5175-\u706d\u4e16",
+                "stage": 221,
+                "destroyed": "21.4"
+            },
+            {
+                "position": 4,
+                "name": "zg",
+                "stage": 219,
+                "destroyed": "20.9"
+            },
+            {
+                "position": 5,
+                "name": "\u859b\u4e4b\u8c26",
+                "stage": 218,
+                "destroyed": "52.7"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u4e91\u7aef\ud83c\udf40\u7b49\u4e00\u4e0d\u5f52\u4eba\ud83c\udf40",
+                "stage": 215,
+                "destroyed": "78.8"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3 \u5341\u7684\u751c\u5fc3\u5b9d\u8d1d\u503e\u6155",
+                "stage": 211,
+                "destroyed": "69.4"
+            },
+            {
+                "position": 8,
+                "name": "AYTEK\u0130N\ud83c\udde8\ud83c\uddf3",
+                "stage": 209,
+                "destroyed": "66.3"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u829d\u9ebb\u7ca5\ud83c\udde8\ud83c\uddf3",
+                "stage": 209,
+                "destroyed": "51.1"
+            },
+            {
+                "position": 10,
+                "name": "\u5341\u4e03\u795e\u5f52\u6765\ud83c\udde8\ud83c\uddf3\u95ee\u5dd4\u5cf0\u4e4b\u8def",
+                "stage": 208,
+                "destroyed": "58.5"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-02-23T00:00:00+00:00",
+        "endedAt": "2024-02-26T00:00:00+00:00",
+        "trophy": "Cryo Trophy",
+        "name": "Cryo Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u633d\u6b4c",
+                "stage": 233,
+                "destroyed": "69.6"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u54d4\u7ad9 : BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 228,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 3,
+                "name": "\u6797\u4fca\u6770",
+                "stage": 225,
+                "destroyed": "60.4"
+            },
+            {
+                "position": 4,
+                "name": "\u5dc5\u5cf0\u4eae\u603b\u2728\u518d\u521b\u8f89\u714c",
+                "stage": 219,
+                "destroyed": "85.6"
+            },
+            {
+                "position": 5,
+                "name": "\u81f4\u6211\u4eec\u7ec8\u5c06\u901d\u53bb\u7684\u9752\u6625",
+                "stage": 218,
+                "destroyed": "72.1"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u829d\u9ebb\u7ca5\ud83c\udde8\ud83c\uddf3",
+                "stage": 218,
+                "destroyed": "56.6"
+            },
+            {
+                "position": 7,
+                "name": "MrPietrek \ua789)",
+                "stage": 215,
+                "destroyed": "80.4"
+            },
+            {
+                "position": 8,
+                "name": "\u859b\u4e4b\u8c26",
+                "stage": 214,
+                "destroyed": "24.1"
+            },
+            {
+                "position": 9,
+                "name": "Raiden\u2764\ufe0fShogun",
+                "stage": 211,
+                "destroyed": "66.2"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3\u54d4\u7ad9 : BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 211,
+                "destroyed": "63.4"
+            }
+        ]
+    },
+    {
+        "startedAt": "2024-01-26T00:00:00+00:00",
+        "endedAt": "2024-02-29T00:00:00+00:00",
+        "trophy": "Lantern Trophy",
+        "name": "Lunar Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u633d\u6b4c",
+                "stage": 286,
+                "destroyed": "50.7"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u829d\u9ebb\u7ca5\ud83c\udde8\ud83c\uddf3",
+                "stage": 282,
+                "destroyed": "80.7"
+            },
+            {
+                "position": 3,
+                "name": "\u738b\u529b\u5b8f",
+                "stage": 282,
+                "destroyed": "69.7"
+            },
+            {
+                "position": 4,
+                "name": "\ud83c\udde8\ud83c\uddf3\u4e03\u661f\u6d77\u68e0",
+                "stage": 282,
+                "destroyed": "68.1"
+            },
+            {
+                "position": 5,
+                "name": "\u859b\u4e4b\u8c26",
+                "stage": 282,
+                "destroyed": "55.5"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u54d4\u7ad9 : BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 280,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "\u5468\u6770\u4f26",
+                "stage": 273,
+                "destroyed": "69.6"
+            },
+            {
+                "position": 8,
+                "name": "\u4e48Dabour\ud83c\uddea\ud83c\uddec",
+                "stage": 273,
+                "destroyed": "68.9"
+            },
+            {
+                "position": 9,
+                "name": "\u6797\u4fca\u6770",
+                "stage": 272,
+                "destroyed": "42.1"
+            },
+            {
+                "position": 10,
+                "name": "\u4e92\u5237\u52a0\u62631035161086",
+                "stage": 271,
+                "destroyed": "82.0"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-12-29T00:00:00+00:00",
+        "endedAt": "2023-12-31T00:00:00+00:00",
+        "trophy": "Fireworks Trophy",
+        "name": "New Year Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u5468\u6770\u4f26",
+                "stage": 321,
+                "destroyed": "66.9"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u54d4\u7ad9 : BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 320,
+                "destroyed": "55.8"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3\u864e\u7259TV\u7ea2\u88c5\u2764\ufe0f\u65e7\u60c5",
+                "stage": 311,
+                "destroyed": "72.3"
+            },
+            {
+                "position": 4,
+                "name": "\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u633d\u6b4c",
+                "stage": 310,
+                "destroyed": "58.6"
+            },
+            {
+                "position": 5,
+                "name": "\u6797\u4fca\u6770",
+                "stage": 304,
+                "destroyed": "73.5"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\uddf1\ud83c\udde7beeking\ud83c\uddf1\ud83c\udde7",
+                "stage": 303,
+                "destroyed": "62.2"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296y : \u6d77\u5c9b\u5947\u5175-\u706d\u4e16",
+                "stage": 303,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\u859b\u4e4b\u8c26",
+                "stage": 302,
+                "destroyed": "58.3"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u4e03\u661f\u6d77\u68e0",
+                "stage": 302,
+                "destroyed": "57.4"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6050\u9f99\ud83c\udde8\ud83c\uddf3",
+                "stage": 293,
+                "destroyed": "41.9"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-11-24T00:00:00+00:00",
+        "endedAt": "2023-11-27T00:00:00+00:00",
+        "trophy": "Proto Trophy",
+        "name": "Proto Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u5468\u6770\u4f26",
+                "stage": 294,
+                "destroyed": "78.6"
+            },
+            {
+                "position": 2,
+                "name": "MrPietrek \ua789)",
+                "stage": 294,
+                "destroyed": "40.8"
+            },
+            {
+                "position": 3,
+                "name": "Stoneheart",
+                "stage": 284,
+                "destroyed": "51.5"
+            },
+            {
+                "position": 4,
+                "name": "\u859b\u4e4b\u8c26",
+                "stage": 280,
+                "destroyed": "44.7"
+            },
+            {
+                "position": 5,
+                "name": "\ud83c\udde8\ud83c\uddf3\u4eca\u591c\u6709\u96e8 \ud83c\udde8\ud83c\uddf3",
+                "stage": 276,
+                "destroyed": "55.3"
+            },
+            {
+                "position": 6,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 273,
+                "destroyed": "83.0"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3\u7834\u865a\ud83c\udde8\ud83c\uddf3",
+                "stage": 261,
+                "destroyed": "20.2"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\udde8\ud83c\uddf3\u4e03\u661f\u6d77\u68e0",
+                "stage": 260,
+                "destroyed": "88.8"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\uddfb\ud83c\uddf3SAIGON\ud83c\uddfb\ud83c\uddf3",
+                "stage": 259,
+                "destroyed": "57.0"
+            },
+            {
+                "position": 10,
+                "name": "\u6797\u4fca\u6770",
+                "stage": 255,
+                "destroyed": "82.2"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-10-27T00:00:00+00:00",
+        "endedAt": "2023-10-30T00:00:00+00:00",
+        "trophy": "Halloween Trophy",
+        "name": "Halloween Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u738b\u529b\u5b8f",
+                "stage": 267,
+                "destroyed": "68.8"
+            },
+            {
+                "position": 2,
+                "name": "Jamarr_YouTube",
+                "stage": 264,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 3,
+                "name": "\u859b\u4e4b\u8c26",
+                "stage": 260,
+                "destroyed": "68.6"
+            },
+            {
+                "position": 4,
+                "name": "\u6797\u4fca\u6770",
+                "stage": 259,
+                "destroyed": "64.0"
+            },
+            {
+                "position": 5,
+                "name": "\ud83c\udde8\ud83c\uddf3B\u7ad9\u641c\u8001\u718a\u4e00\u6253\u56db",
+                "stage": 259,
+                "destroyed": "53.7"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296Y\u6d77\u5c9b\u5947\u5175\u5077\u4f60\u5927\u672c",
+                "stage": 248,
+                "destroyed": "46.2"
+            },
+            {
+                "position": 7,
+                "name": "Bull",
+                "stage": 247,
+                "destroyed": "83.1"
+            },
+            {
+                "position": 8,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 239,
+                "destroyed": "83.5"
+            },
+            {
+                "position": 9,
+                "name": "Jamarr_Youtube!",
+                "stage": 237,
+                "destroyed": "80.7"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\uddf9\ud83c\uddedTAM YUM\ud83c\uddf9\ud83c\udded",
+                "stage": 233,
+                "destroyed": "80.8"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-10-20T00:00:00+00:00",
+        "endedAt": "2023-10-23T00:00:00+00:00",
+        "trophy": "Crab Trophy",
+        "name": "Beastly Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Bull",
+                "stage": 197,
+                "destroyed": "92.3"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u9806\u60c5\u54e5\u54e5\ud83c\udde8\ud83c\uddf3",
+                "stage": 197,
+                "destroyed": "81.7"
+            },
+            {
+                "position": 3,
+                "name": "\ud83c\udde8\ud83c\uddf3\u864e\u7259TV\u7d05\u88dd\u2764\ufe0f\u6708\u81ea\ud83c\udde8\ud83c\uddf3",
+                "stage": 196,
+                "destroyed": "60.6"
+            },
+            {
+                "position": 4,
+                "name": "\ud83c\udde8\ud83c\uddf3\u65b7\u5ff5\ud83c\udde8\ud83c\uddf3",
+                "stage": 195,
+                "destroyed": "81.3"
+            },
+            {
+                "position": 5,
+                "name": "MrPietrek \ua789)",
+                "stage": 190,
+                "destroyed": "76.7"
+            },
+            {
+                "position": 6,
+                "name": "T\u00dcRKIYE\ud83c\udde8\ud83c\uddf3",
+                "stage": 186,
+                "destroyed": "67.5"
+            },
+            {
+                "position": 7,
+                "name": "Stoneheart",
+                "stage": 185,
+                "destroyed": "26.9"
+            },
+            {
+                "position": 8,
+                "name": "\u4ead\u8857\ud83e\udd17",
+                "stage": 184,
+                "destroyed": "68.6"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u8783\u87f9\u961f : \u62a4\u56fd\u2764\ufe0f\u4e4b\u624b",
+                "stage": 184,
+                "destroyed": "48.8"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296Y\u6d77\u5c9b\u5947\u5175\u5077\u4f60\u5927\u672c",
+                "stage": 184,
+                "destroyed": "45.5"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-09-22T00:00:00+00:00",
+        "endedAt": "2023-09-25T00:00:00+00:00",
+        "trophy": "Gunboat Trophy",
+        "name": "Gunboat Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3 \u82b1\u82b1\u8981\u7e41\u661f\ud83c\udde8\ud83c\uddf3",
+                "stage": 287,
+                "destroyed": "61.9"
+            },
+            {
+                "position": 2,
+                "name": "\u738b\u529b\u5b8f",
+                "stage": 285,
+                "destroyed": "61.3"
+            },
+            {
+                "position": 3,
+                "name": "Hero",
+                "stage": 274,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "MrPietrek",
+                "stage": 272,
+                "destroyed": "73.8"
+            },
+            {
+                "position": 5,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 272,
+                "destroyed": "67.9"
+            },
+            {
+                "position": 6,
+                "name": "KHeT\u2022LeT\ud83d\udd1d",
+                "stage": 272,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 7,
+                "name": "IRAQ\ud83c\udf41 2_A\ud83c\udf41",
+                "stage": 270,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\udde8\ud83c\uddf3 \u25a0\u67ab\u53f6\u60c5\u7eea\u96f6\u788e\u300b\ud83c\udf41",
+                "stage": 268,
+                "destroyed": "48.4"
+            },
+            {
+                "position": 9,
+                "name": "\u26a1\ufe0fGeminis\u26a1\ufe0f\u264a\ufe0f",
+                "stage": 262,
+                "destroyed": "56.3"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\udde8\ud83c\uddf3 \u6296Y\u6d77\u5c9b\u5947\u5175\u5077\u4f60\u5927\u672c",
+                "stage": 262,
+                "destroyed": "45.2"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-08-25T00:00:00+00:00",
+        "endedAt": "2023-08-28T00:00:00+00:00",
+        "trophy": "Tribal Trophy",
+        "name": "Tribal Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "smyrna1914",
+                "stage": 216,
+                "destroyed": "61.4"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u82b1\u82b1\u8981\u7e41\u661f\ud83c\udde8\ud83c\uddf3",
+                "stage": 197,
+                "destroyed": "66.7"
+            },
+            {
+                "position": 3,
+                "name": "\u6797\u4fca\u6770",
+                "stage": 191,
+                "destroyed": "88.6"
+            },
+            {
+                "position": 4,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 189,
+                "destroyed": "75.9"
+            },
+            {
+                "position": 5,
+                "name": "Jamarr_Youtube!",
+                "stage": 189,
+                "destroyed": "68.1"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u67ab\u53f6\u60c5\u7eea\u96f6\u788e\ud83c\udf41",
+                "stage": 188,
+                "destroyed": "83.8"
+            },
+            {
+                "position": 7,
+                "name": "T\u00dcRKIYE\ud83c\udde8\ud83c\uddf3",
+                "stage": 187,
+                "destroyed": "23.8"
+            },
+            {
+                "position": 8,
+                "name": "KHeT\u2022LeT\ud83d\udd1d",
+                "stage": 186,
+                "destroyed": "45.7"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6296Y\u6d77\u5c9b\u5947\u5175\u5077\u4f60\u5927\u67a3",
+                "stage": 186,
+                "destroyed": "39.3"
+            },
+            {
+                "position": 10,
+                "name": "tkd_youtube",
+                "stage": 180,
+                "destroyed": "73.5"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-07-28T00:00:00+00:00",
+        "endedAt": "2023-07-31T00:00:00+00:00",
+        "trophy": "Scorched Trophy",
+        "name": "Scorched Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6c90\u8d85\u8d85\ud83c\udde8\ud83c\uddf3",
+                "stage": 226,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6599y : \u6d77\u5c9b\u5947\u5175-\u706d\u4e16",
+                "stage": 215,
+                "destroyed": "44.6"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u65ad\u5ff5\ud83c\udde8\ud83c\uddf3",
+                "stage": 215,
+                "destroyed": "48.2"
+            },
+            {
+                "position": 4,
+                "name": "\ud83c\udde8\ud83c\uddf3\u67ab\u53f6\u60c5\u7eea\u96f6\u788e\ud83c\udf41",
+                "stage": 215,
+                "destroyed": "40.2"
+            },
+            {
+                "position": 5,
+                "name": "\ud83c\uddea\ud83c\uddecJimmy!\ud83c\uddea\ud83c\uddec",
+                "stage": 214,
+                "destroyed": "50.5"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u6599Y\u6d77\u5c9b\u5947\u5175\u5077\u4f60\u5927\u672c",
+                "stage": 213,
+                "destroyed": "43.2"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\udde8\ud83c\uddf3\u5f20\u98de\u5403\u8c46\u82bd\ud83c\udde8\ud83c\uddf3",
+                "stage": 208,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 205,
+                "destroyed": "85.5"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\udde8\ud83c\uddf3\u547c\u7ad9: BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 205,
+                "destroyed": "71.8"
+            },
+            {
+                "position": 10,
+                "name": "\u6797\u4fca\u6770",
+                "stage": 203,
+                "destroyed": "75.8"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-06-23T00:00:00+00:00",
+        "endedAt": "2023-06-26T00:00:00+00:00",
+        "trophy": "Vampire Trophy",
+        "name": "Life Leech Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "TR \u2604\ufe0f Yenilmezz",
+                "stage": 274,
+                "destroyed": "76.9"
+            },
+            {
+                "position": 2,
+                "name": "\ud83c\udde8\ud83c\uddf3\u864e\u7259TV\u7ea2\u88c5\ud83c\udde8\ud83c\uddf3",
+                "stage": 268,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 3,
+                "name": "\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u665a\u6b4c",
+                "stage": 266,
+                "destroyed": "61.4"
+            },
+            {
+                "position": 4,
+                "name": "\u6c90\u8d85\u8d85",
+                "stage": 265,
+                "destroyed": "7.8"
+            },
+            {
+                "position": 5,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 262,
+                "destroyed": "51.0"
+            },
+            {
+                "position": 6,
+                "name": "\ud83c\udde8\ud83c\uddf3\u540e\u5c71\u2764\ufe0f\u7ea2\u88c5\ud83c\udde8\ud83c\uddf3",
+                "stage": 261,
+                "destroyed": "54.0"
+            },
+            {
+                "position": 7,
+                "name": "ma c\u00e0y \u0111\u1ecbnh",
+                "stage": 251,
+                "destroyed": "50.0"
+            },
+            {
+                "position": 8,
+                "name": "\ud83c\udde8\ud83c\uddf3\u54d4\u7ad9 : BB\u8721\u7b14\u5c0f\u65b0",
+                "stage": 249,
+                "destroyed": "65.7"
+            },
+            {
+                "position": 9,
+                "name": "MAZZLP",
+                "stage": 249,
+                "destroyed": "60.8"
+            },
+            {
+                "position": 10,
+                "name": "\u2c67\u20b3\u20a5\u0110\u00d8\u26a1\u024e\u00d8\u0244\u20ae\u0244\u0e3fE",
+                "stage": 238,
+                "destroyed": "63.1"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-05-26T00:00:00+00:00",
+        "endedAt": "2023-05-29T00:00:00+00:00",
+        "trophy": "Turtle Trophy",
+        "name": "Droid Turtle",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "MrPietrek",
+                "stage": 285,
+                "destroyed": "70.0"
+            },
+            {
+                "position": 2,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 260,
+                "destroyed": "89.7"
+            },
+            {
+                "position": 3,
+                "name": "\ufe0f\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u665a\u6b4c",
+                "stage": 260,
+                "destroyed": "83.8"
+            },
+            {
+                "position": 4,
+                "name": "\u2694\ufe0f\u706d\u4e16~~\u6b66\u795e\u2694\ufe0f",
+                "stage": 254,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 5,
+                "name": "B\u00dcY\u00dcK ALTAY - 3",
+                "stage": 253,
+                "destroyed": "79.8"
+            },
+            {
+                "position": 6,
+                "name": "\u2c67\u20b3\u20a5\u0110\u00d8\u26a1\u024e\u00d8\u0244\u20ae\u0244\u0e3fE",
+                "stage": 252,
+                "destroyed": "77.1"
+            },
+            {
+                "position": 7,
+                "name": "Amgad Abo Mazen",
+                "stage": 248,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 8,
+                "name": "The Daredevil",
+                "stage": 242,
+                "destroyed": "69.9"
+            },
+            {
+                "position": 9,
+                "name": "BOND 007",
+                "stage": 242,
+                "destroyed": "67.7"
+            },
+            {
+                "position": 10,
+                "name": "\ud83c\uddfb\ud83c\uddf3ThT\u1ee7ng\ud83c\uddfb\ud83c\uddf3",
+                "stage": 238,
+                "destroyed": "66.4"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-04-28T00:00:00+00:00",
+        "endedAt": "2023-05-01T00:00:00+00:00",
+        "trophy": "Hasty Trophy",
+        "name": "Hasty Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "Stoneheart",
+                "stage": 374,
+                "destroyed": "67.5"
+            },
+            {
+                "position": 2,
+                "name": "\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u665a\u6b4c",
+                "stage": 367,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 3,
+                "name": "MrPietrek",
+                "stage": 359,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "Jamarr_Youtube!",
+                "stage": 355,
+                "destroyed": "59.7"
+            },
+            {
+                "position": 5,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 351,
+                "destroyed": "74.5"
+            },
+            {
+                "position": 6,
+                "name": "\u5c3c\u53e4\u62c9\u00b7\u7279\u65af\u62c9",
+                "stage": 347,
+                "destroyed": "75.4"
+            },
+            {
+                "position": 7,
+                "name": "\u270c\ufe0f\u0627\u0644\u0645\u063a\u0627\u0645\u0631\u270c\ufe0f",
+                "stage": 345,
+                "destroyed": "78.7"
+            },
+            {
+                "position": 8,
+                "name": "\u2663\ufe0fBashar\u2663\ufe0f\ud83d\udd34",
+                "stage": 344,
+                "destroyed": "83.0"
+            },
+            {
+                "position": 9,
+                "name": "\ud83c\uddfb\ud83c\uddf3Duy T\u00e2n\ud83c\uddfb\ud83c\uddf3",
+                "stage": 342,
+                "destroyed": "65.0"
+            },
+            {
+                "position": 10,
+                "name": "???",
+                "stage": 0
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-03-24T00:00:00+00:00",
+        "endedAt": "2023-03-27T00:00:00+00:00",
+        "trophy": "IV Anniversary Trophy",
+        "name": "Anniversary Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u665a\u6b4c",
+                "stage": 205,
+                "destroyed": "48.9"
+            },
+            {
+                "position": 2,
+                "name": "G\u00d6LKENTL\u0130\ud83c\udde8\ud83c\uddf365",
+                "stage": 198,
+                "destroyed": "49.1"
+            },
+            {
+                "position": 3,
+                "name": "TR \u2604\ufe0fYenilmezz",
+                "stage": 198,
+                "destroyed": "0.0"
+            },
+            {
+                "position": 4,
+                "name": "\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 194,
+                "destroyed": "80.5"
+            },
+            {
+                "position": 5,
+                "name": "MAXII\u2728100%ARG\u2728\u2122",
+                "stage": 194,
+                "destroyed": "32.0"
+            },
+            {
+                "position": 6,
+                "name": "\u5c3c\u53e4\u62c9\u00b7\u7279\u65af\u62c9",
+                "stage": 191,
+                "destroyed": "56.7"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\uddfb\ud83c\uddf3Duy T\u00e2n\ud83c\uddfb\ud83c\uddf3",
+                "stage": 189,
+                "destroyed": "76.5"
+            },
+            {
+                "position": 8,
+                "name": "Ryanc",
+                "stage": 189,
+                "destroyed": "65.8"
+            },
+            {
+                "position": 9,
+                "name": "Stoneheart",
+                "stage": 189,
+                "destroyed": "65.8"
+            },
+            {
+                "position": 10,
+                "name": "???",
+                "stage": 0
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-02-24T00:00:00+00:00",
+        "endedAt": "2023-02-27T00:00:00+00:00",
+        "trophy": "Cryo Trophy",
+        "name": "Cryo Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ufe0f\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 204,
+                "destroyed": "43.1"
+            },
+            {
+                "position": 2,
+                "name": "tkd",
+                "stage": 201,
+                "destroyed": "76.9"
+            },
+            {
+                "position": 3,
+                "name": "\ufe0f\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u665a\u6b4c",
+                "stage": 198,
+                "destroyed": "86.7"
+            },
+            {
+                "position": 4,
+                "name": "LegendaryTetwah",
+                "stage": 196,
+                "destroyed": "39.6"
+            },
+            {
+                "position": 5,
+                "name": "G\u00f6lKeNTLi",
+                "stage": 194,
+                "destroyed": "63.0"
+            },
+            {
+                "position": 6,
+                "name": "VN - B\u00c9 \u0110\u1ef0U",
+                "stage": 189,
+                "destroyed": "44.6"
+            },
+            {
+                "position": 7,
+                "name": "\ud83c\uddfa\ud83c\udde6Slavkoo\ud83c\uddfa\ud83c\udde6",
+                "stage": 186,
+                "destroyed": "35.3"
+            },
+            {
+                "position": 8,
+                "name": "\u0141\u20acg\u20acnd\u0639 ???D\u017d",
+                "stage": 184,
+                "destroyed": "58.7"
+            },
+            {
+                "position": 9,
+                "name": "MAXII\u2728100%ARG\u2728\u2122",
+                "stage": 184,
+                "destroyed": "58.7"
+            },
+            {
+                "position": 10,
+                "name": "[1NA]Briyan\ud83c\uddf2\ud83c\udde8",
+                "stage": 184,
+                "destroyed": "51.6"
+            }
+        ]
+    },
+    {
+        "startedAt": "2023-01-27T00:00:00+00:00",
+        "endedAt": "2023-01-30T00:00:00+00:00",
+        "trophy": "Lantern Trophy",
+        "name": "Lunar Crab",
+        "rankings": [
+            {
+                "position": 1,
+                "name": "\ufe0f\u4e00\u5200\u6d41\u5c45\u5408\u72ee\u5b50\u665a\u6b4c",
+                "stage": 268,
+                "destroyed": "57.6"
+            },
+            {
+                "position": 2,
+                "name": "\ufe0fJamarr_YouTube",
+                "stage": 265,
+                "destroyed": "65.8"
+            },
+            {
+                "position": 3,
+                "name": "\ufe0f\u2744\ufe0fXxR3mixX\ufe0f\ufe0f\u2744\ufe0f",
+                "stage": 250,
+                "destroyed": "62.5"
+            },
+            {
+                "position": 4,
+                "name": "[1NA]Briyan\ud83c\uddf5\ud83c\uddf1",
+                "stage": 245,
+                "destroyed": "32.5"
+            },
+            {
+                "position": 5,
+                "name": "\ufe0fS 11 03 20",
+                "stage": 242,
+                "destroyed": "66.0"
+            },
+            {
+                "position": 6,
+                "name": "\ufe0fHAmDULLAH\ud83c\uddf9\ud83c\uddf7#1",
+                "stage": 242,
+                "destroyed": "63.8"
+            },
+            {
+                "position": 7,
+                "name": "\ufe0f\u2618\ufe0fFALCON\u2618\ufe0f",
+                "stage": 242,
+                "destroyed": "52.1"
+            },
+            {
+                "position": 8,
+                "name": "\ufe0fTR G\u00d6KDELEN\ud83c\uddf9\ud83c\uddf7",
+                "stage": 241,
+                "destroyed": "87.2"
+            },
+            {
+                "position": 9,
+                "name": "\ufe0fJigsaw7",
+                "stage": 238,
+                "destroyed": "43.2"
+            },
+            {
+                "position": 10,
+                "name": "\ufe0f\u2665\u2665Soimanvatef",
+                "stage": 238,
+                "destroyed": "36.3"
+            }
+        ]
+    }
+]
