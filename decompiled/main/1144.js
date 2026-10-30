@@ -1,0 +1,1 @@
+export const z = e => e && typeof e.length == "number" && typeof e != "function";

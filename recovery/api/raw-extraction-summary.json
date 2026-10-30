@@ -1,0 +1,10 @@
+{
+  "deduplicatedResearchRows": 118,
+  "researchSourceFiles": {
+    "artifact_epics.csv": 118
+  },
+  "warshipConfigurations": 68,
+  "warshipBonusSources": 25,
+  "statsWithOverrides": 454,
+  "distinctApiWarshipRows": 647
+}

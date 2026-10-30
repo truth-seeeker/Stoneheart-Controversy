@@ -1,0 +1,4797 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "",
+    "description": "",
+    "version": "0.0.0"
+  },
+  "servers": [
+    {
+      "url": "/",
+      "description": ""
+    }
+  ],
+  "paths": {
+    "/api/crab_events": {
+      "get": {
+        "operationId": "CRAB_EVENT_NORMALIZATION_CONTEXT_COLLECTION",
+        "tags": [
+          "CrabEvent"
+        ],
+        "responses": {
+          "200": {
+            "description": "CrabEvent collection",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CrabEvent-CRAB_EVENT_NORMALIZATION_CONTEXT"
+                  }
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "hydra:member": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/CrabEvent.jsonld-CRAB_EVENT_NORMALIZATION_CONTEXT"
+                      }
+                    },
+                    "hydra:totalItems": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "hydra:view": {
+                      "type": "object",
+                      "properties": {
+                        "@id": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:first": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:last": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:previous": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:next": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        }
+                      },
+                      "example": {
+                        "@id": "string",
+                        "type": "string",
+                        "hydra:first": "string",
+                        "hydra:last": "string",
+                        "hydra:previous": "string",
+                        "hydra:next": "string"
+                      }
+                    },
+                    "hydra:search": {
+                      "type": "object",
+                      "properties": {
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:template": {
+                          "type": "string"
+                        },
+                        "hydra:variableRepresentation": {
+                          "type": "string"
+                        },
+                        "hydra:mapping": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "@type": {
+                                "type": "string"
+                              },
+                              "variable": {
+                                "type": "string"
+                              },
+                              "property": {
+                                "type": "string",
+                                "nullable": true
+                              },
+                              "required": {
+                                "type": "boolean"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "hydra:member"
+                  ]
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CrabEvent-CRAB_EVENT_NORMALIZATION_CONTEXT"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "summary": "Retrieves the collection of CrabEvent resources.",
+        "description": "Retrieves the collection of CrabEvent resources.",
+        "parameters": [],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/item_details/{name}": {
+      "get": {
+        "operationId": "get_item_details_by_name",
+        "tags": [
+          "Item"
+        ],
+        "responses": {
+          "200": {
+            "description": "Item resource",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Item-WARSHIP_RANK_NORMALIZATION_ITEM"
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Item.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM"
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "$ref": "#/components/schemas/Item-WARSHIP_RANK_NORMALIZATION_ITEM"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        },
+        "summary": "Retrieves a Item resource.",
+        "description": "Retrieves a Item resource.",
+        "parameters": [
+          {
+            "name": "name",
+            "in": "path",
+            "description": "Item identifier",
+            "required": true,
+            "deprecated": false,
+            "allowEmptyValue": false,
+            "schema": {
+              "type": "string"
+            },
+            "style": "simple",
+            "explode": false,
+            "allowReserved": false
+          }
+        ],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/item_stats": {
+      "get": {
+        "operationId": "api_item_stats_get_collection",
+        "tags": [
+          "ItemStat"
+        ],
+        "responses": {
+          "200": {
+            "description": "ItemStat collection",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ItemStat-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION"
+                  }
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "hydra:member": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/ItemStat.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION"
+                      }
+                    },
+                    "hydra:totalItems": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "hydra:view": {
+                      "type": "object",
+                      "properties": {
+                        "@id": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:first": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:last": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:previous": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:next": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        }
+                      },
+                      "example": {
+                        "@id": "string",
+                        "type": "string",
+                        "hydra:first": "string",
+                        "hydra:last": "string",
+                        "hydra:previous": "string",
+                        "hydra:next": "string"
+                      }
+                    },
+                    "hydra:search": {
+                      "type": "object",
+                      "properties": {
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:template": {
+                          "type": "string"
+                        },
+                        "hydra:variableRepresentation": {
+                          "type": "string"
+                        },
+                        "hydra:mapping": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "@type": {
+                                "type": "string"
+                              },
+                              "variable": {
+                                "type": "string"
+                              },
+                              "property": {
+                                "type": "string",
+                                "nullable": true
+                              },
+                              "required": {
+                                "type": "boolean"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "hydra:member"
+                  ]
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ItemStat-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "summary": "Retrieves the collection of ItemStat resources.",
+        "description": "Retrieves the collection of ItemStat resources.",
+        "parameters": [],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/item_stats/{id}": {
+      "get": {
+        "operationId": "api_item_stats_id_get",
+        "tags": [
+          "ItemStat"
+        ],
+        "responses": {
+          "200": {
+            "description": "ItemStat resource",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ItemStat-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION_ITEM_STAT_RAW"
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ItemStat.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION_ITEM_STAT_RAW"
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "$ref": "#/components/schemas/ItemStat-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION_ITEM_STAT_RAW"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        },
+        "summary": "Retrieves a ItemStat resource.",
+        "description": "Retrieves a ItemStat resource.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ItemStat identifier",
+            "required": true,
+            "deprecated": false,
+            "allowEmptyValue": false,
+            "schema": {
+              "type": "string"
+            },
+            "style": "simple",
+            "explode": false,
+            "allowReserved": false
+          }
+        ],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/items": {
+      "get": {
+        "operationId": "get_item_collection",
+        "tags": [
+          "Item"
+        ],
+        "responses": {
+          "200": {
+            "description": "Item collection",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Item-WARSHIP_RANK_NORMALIZATION_COLLECTION"
+                  }
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "hydra:member": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Item.jsonld-WARSHIP_RANK_NORMALIZATION_COLLECTION"
+                      }
+                    },
+                    "hydra:totalItems": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "hydra:view": {
+                      "type": "object",
+                      "properties": {
+                        "@id": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:first": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:last": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:previous": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:next": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        }
+                      },
+                      "example": {
+                        "@id": "string",
+                        "type": "string",
+                        "hydra:first": "string",
+                        "hydra:last": "string",
+                        "hydra:previous": "string",
+                        "hydra:next": "string"
+                      }
+                    },
+                    "hydra:search": {
+                      "type": "object",
+                      "properties": {
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:template": {
+                          "type": "string"
+                        },
+                        "hydra:variableRepresentation": {
+                          "type": "string"
+                        },
+                        "hydra:mapping": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "@type": {
+                                "type": "string"
+                              },
+                              "variable": {
+                                "type": "string"
+                              },
+                              "property": {
+                                "type": "string",
+                                "nullable": true
+                              },
+                              "required": {
+                                "type": "boolean"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "hydra:member"
+                  ]
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Item-WARSHIP_RANK_NORMALIZATION_COLLECTION"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "summary": "Retrieves the collection of Item resources.",
+        "description": "Retrieves the collection of Item resources.",
+        "parameters": [],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/items/{id}": {
+      "get": {
+        "operationId": "get_item_item",
+        "tags": [
+          "Item"
+        ],
+        "responses": {
+          "200": {
+            "description": "Item resource",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Item-WARSHIP_RANK_NORMALIZATION_ITEM"
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Item.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM"
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "$ref": "#/components/schemas/Item-WARSHIP_RANK_NORMALIZATION_ITEM"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        },
+        "summary": "Retrieves a Item resource.",
+        "description": "Retrieves a Item resource.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Item identifier",
+            "required": true,
+            "deprecated": false,
+            "allowEmptyValue": false,
+            "schema": {
+              "type": "string"
+            },
+            "style": "simple",
+            "explode": false,
+            "allowReserved": false
+          }
+        ],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/seasons": {
+      "get": {
+        "operationId": "get_season_collection",
+        "tags": [
+          "Season"
+        ],
+        "responses": {
+          "200": {
+            "description": "Season collection",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Season-SEASON_NORMALIZATION_COLLECTION"
+                  }
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "hydra:member": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Season.jsonld-SEASON_NORMALIZATION_COLLECTION"
+                      }
+                    },
+                    "hydra:totalItems": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "hydra:view": {
+                      "type": "object",
+                      "properties": {
+                        "@id": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:first": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:last": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:previous": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:next": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        }
+                      },
+                      "example": {
+                        "@id": "string",
+                        "type": "string",
+                        "hydra:first": "string",
+                        "hydra:last": "string",
+                        "hydra:previous": "string",
+                        "hydra:next": "string"
+                      }
+                    },
+                    "hydra:search": {
+                      "type": "object",
+                      "properties": {
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:template": {
+                          "type": "string"
+                        },
+                        "hydra:variableRepresentation": {
+                          "type": "string"
+                        },
+                        "hydra:mapping": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "@type": {
+                                "type": "string"
+                              },
+                              "variable": {
+                                "type": "string"
+                              },
+                              "property": {
+                                "type": "string",
+                                "nullable": true
+                              },
+                              "required": {
+                                "type": "boolean"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "hydra:member"
+                  ]
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Season-SEASON_NORMALIZATION_COLLECTION"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "summary": "Retrieves the collection of Season resources.",
+        "description": "Retrieves the collection of Season resources.",
+        "parameters": [],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/seasons/current": {
+      "get": {
+        "operationId": "get_season_latest_season",
+        "tags": [
+          "Season"
+        ],
+        "responses": {
+          "200": {
+            "description": "Season resource",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Season-SEASON_NORMALIZATION_CONTEXT"
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Season.jsonld-SEASON_NORMALIZATION_CONTEXT"
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "$ref": "#/components/schemas/Season-SEASON_NORMALIZATION_CONTEXT"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        },
+        "summary": "Retrieves a Season resource.",
+        "description": "Retrieves a Season resource.",
+        "parameters": [],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/seasons/leaderboard": {
+      "get": {
+        "operationId": "get_season_player_ranks",
+        "tags": [
+          "Season"
+        ],
+        "responses": {
+          "200": {
+            "description": "Season collection",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Season-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS"
+                  }
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "hydra:member": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Season.jsonld-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS"
+                      }
+                    },
+                    "hydra:totalItems": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "hydra:view": {
+                      "type": "object",
+                      "properties": {
+                        "@id": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:first": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:last": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:previous": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:next": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        }
+                      },
+                      "example": {
+                        "@id": "string",
+                        "type": "string",
+                        "hydra:first": "string",
+                        "hydra:last": "string",
+                        "hydra:previous": "string",
+                        "hydra:next": "string"
+                      }
+                    },
+                    "hydra:search": {
+                      "type": "object",
+                      "properties": {
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:template": {
+                          "type": "string"
+                        },
+                        "hydra:variableRepresentation": {
+                          "type": "string"
+                        },
+                        "hydra:mapping": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "@type": {
+                                "type": "string"
+                              },
+                              "variable": {
+                                "type": "string"
+                              },
+                              "property": {
+                                "type": "string",
+                                "nullable": true
+                              },
+                              "required": {
+                                "type": "boolean"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "hydra:member"
+                  ]
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Season-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "summary": "Retrieves the collection of Season resources.",
+        "description": "Retrieves the collection of Season resources.",
+        "parameters": [],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/seasons/{seasonNumber}": {
+      "get": {
+        "operationId": "get_season_item",
+        "tags": [
+          "Season"
+        ],
+        "responses": {
+          "200": {
+            "description": "Season resource",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Season-SEASON_NORMALIZATION_CONTEXT"
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Season.jsonld-SEASON_NORMALIZATION_CONTEXT"
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "$ref": "#/components/schemas/Season-SEASON_NORMALIZATION_CONTEXT"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        },
+        "summary": "Retrieves a Season resource.",
+        "description": "Retrieves a Season resource.",
+        "parameters": [
+          {
+            "name": "seasonNumber",
+            "in": "path",
+            "description": "Season identifier",
+            "required": true,
+            "deprecated": false,
+            "allowEmptyValue": false,
+            "schema": {
+              "type": "string"
+            },
+            "style": "simple",
+            "explode": false,
+            "allowReserved": false
+          }
+        ],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/warship_items/{id}": {
+      "get": {
+        "operationId": "api_warship_items_id_get",
+        "tags": [
+          "WarshipItem"
+        ],
+        "responses": {
+          "200": {
+            "description": "WarshipItem resource",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WarshipItem-none"
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WarshipItem.jsonld-none"
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "$ref": "#/components/schemas/WarshipItem-none"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        },
+        "summary": "Retrieves a WarshipItem resource.",
+        "description": "Retrieves a WarshipItem resource.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "WarshipItem identifier",
+            "required": true,
+            "deprecated": false,
+            "allowEmptyValue": false,
+            "schema": {
+              "type": "string"
+            },
+            "style": "simple",
+            "explode": false,
+            "allowReserved": false
+          }
+        ],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/warship_ranks": {
+      "get": {
+        "operationId": "api_warship_ranks_get_collection",
+        "tags": [
+          "WarshipRank"
+        ],
+        "responses": {
+          "200": {
+            "description": "WarshipRank collection",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WarshipRank-WARSHIP_RANK_NORMALIZATION_CONTEXT"
+                  }
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "hydra:member": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/WarshipRank.jsonld-WARSHIP_RANK_NORMALIZATION_CONTEXT"
+                      }
+                    },
+                    "hydra:totalItems": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "hydra:view": {
+                      "type": "object",
+                      "properties": {
+                        "@id": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:first": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:last": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:previous": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        },
+                        "hydra:next": {
+                          "type": "string",
+                          "format": "iri-reference"
+                        }
+                      },
+                      "example": {
+                        "@id": "string",
+                        "type": "string",
+                        "hydra:first": "string",
+                        "hydra:last": "string",
+                        "hydra:previous": "string",
+                        "hydra:next": "string"
+                      }
+                    },
+                    "hydra:search": {
+                      "type": "object",
+                      "properties": {
+                        "@type": {
+                          "type": "string"
+                        },
+                        "hydra:template": {
+                          "type": "string"
+                        },
+                        "hydra:variableRepresentation": {
+                          "type": "string"
+                        },
+                        "hydra:mapping": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "@type": {
+                                "type": "string"
+                              },
+                              "variable": {
+                                "type": "string"
+                              },
+                              "property": {
+                                "type": "string",
+                                "nullable": true
+                              },
+                              "required": {
+                                "type": "boolean"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "hydra:member"
+                  ]
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WarshipRank-WARSHIP_RANK_NORMALIZATION_CONTEXT"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "summary": "Retrieves the collection of WarshipRank resources.",
+        "description": "Retrieves the collection of WarshipRank resources.",
+        "parameters": [],
+        "deprecated": false
+      },
+      "parameters": []
+    },
+    "/api/warship_ranks/{id}": {
+      "get": {
+        "operationId": "api_warship_ranks_id_get",
+        "tags": [
+          "WarshipRank"
+        ],
+        "responses": {
+          "200": {
+            "description": "WarshipRank resource",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WarshipRank-WARSHIP_RANK_NORMALIZATION_CONTEXT"
+                }
+              },
+              "application/ld+json": {
+                "schema": {
+                  "$ref": "#/components/schemas/WarshipRank.jsonld-WARSHIP_RANK_NORMALIZATION_CONTEXT"
+                }
+              },
+              "text/html": {
+                "schema": {
+                  "$ref": "#/components/schemas/WarshipRank-WARSHIP_RANK_NORMALIZATION_CONTEXT"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        },
+        "summary": "Retrieves a WarshipRank resource.",
+        "description": "Retrieves a WarshipRank resource.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "WarshipRank identifier",
+            "required": true,
+            "deprecated": false,
+            "allowEmptyValue": false,
+            "schema": {
+              "type": "string"
+            },
+            "style": "simple",
+            "explode": false,
+            "allowReserved": false
+          }
+        ],
+        "deprecated": false
+      },
+      "parameters": []
+    }
+  },
+  "components": {
+    "schemas": {
+      "CrabEvent-CRAB_EVENT_NORMALIZATION_CONTEXT": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "startedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "trophy": {
+            "enum": [
+              "Fireworks Trophy",
+              "Lantern Trophy",
+              "IV Anniversary Trophy",
+              "Hasty Trophy",
+              "Tribal Trophy",
+              "Cryo Trophy",
+              "Scorched Trophy",
+              "Gunboat Trophy",
+              "Crab Trophy",
+              "Halloween Trophy",
+              "Proto Trophy",
+              "Vampire Trophy",
+              "Turtle Trophy",
+              "X Anniversary Trophy"
+            ],
+            "type": "string"
+          },
+          "name": {
+            "enum": [
+              "Lunar Crab",
+              "Life Leech Crab",
+              "Anniversary Crab",
+              "Hasty Crab",
+              "Tribal Crab",
+              "Cryo Crab",
+              "Scorched Crab",
+              "Gunboat Crab",
+              "Beastly Crab",
+              "Halloween Crab",
+              "Proto Crab",
+              "New Year Crab",
+              "Droid Turtle",
+              "Joker Crab"
+            ],
+            "type": "string"
+          },
+          "rankings": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/CrabRanking-CRAB_EVENT_NORMALIZATION_CONTEXT"
+            }
+          }
+        }
+      },
+      "CrabEvent.jsonld-CRAB_EVENT_NORMALIZATION_CONTEXT": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "startedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "trophy": {
+            "enum": [
+              "Fireworks Trophy",
+              "Lantern Trophy",
+              "IV Anniversary Trophy",
+              "Hasty Trophy",
+              "Tribal Trophy",
+              "Cryo Trophy",
+              "Scorched Trophy",
+              "Gunboat Trophy",
+              "Crab Trophy",
+              "Halloween Trophy",
+              "Proto Trophy",
+              "Vampire Trophy",
+              "Turtle Trophy",
+              "X Anniversary Trophy"
+            ],
+            "type": "string"
+          },
+          "name": {
+            "enum": [
+              "Lunar Crab",
+              "Life Leech Crab",
+              "Anniversary Crab",
+              "Hasty Crab",
+              "Tribal Crab",
+              "Cryo Crab",
+              "Scorched Crab",
+              "Gunboat Crab",
+              "Beastly Crab",
+              "Halloween Crab",
+              "Proto Crab",
+              "New Year Crab",
+              "Droid Turtle",
+              "Joker Crab"
+            ],
+            "type": "string"
+          },
+          "rankings": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/CrabRanking.jsonld-CRAB_EVENT_NORMALIZATION_CONTEXT"
+            }
+          }
+        }
+      },
+      "CrabRanking-CRAB_EVENT_NORMALIZATION_CONTEXT": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "position": {
+            "minimum": 0,
+            "maximum": 10,
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "stage": {
+            "minimum": 0,
+            "maximum": 10000,
+            "type": "integer"
+          },
+          "destroyed": {
+            "type": "string",
+            "nullable": true
+          }
+        }
+      },
+      "CrabRanking.jsonld-CRAB_EVENT_NORMALIZATION_CONTEXT": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "position": {
+            "minimum": 0,
+            "maximum": 10,
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "stage": {
+            "minimum": 0,
+            "maximum": 10000,
+            "type": "integer"
+          },
+          "destroyed": {
+            "type": "string",
+            "nullable": true
+          }
+        }
+      },
+      "Item-WARSHIP_RANK_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "name": {
+            "minLength": 1,
+            "maxLength": 100,
+            "type": "string"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "statFormat": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "enum": [
+              "character",
+              "ability",
+              "hero_ability",
+              "building",
+              "trap",
+              "bonus",
+              "hero",
+              "static",
+              "squad_leader",
+              "engraving"
+            ],
+            "type": "string"
+          },
+          "energy": {
+            "minimum": 0,
+            "maximum": 20,
+            "type": "integer",
+            "nullable": true
+          },
+          "energyIncrease": {
+            "minimum": 0,
+            "maximum": 30,
+            "type": "integer",
+            "nullable": true
+          },
+          "singleInstance": {
+            "type": "boolean"
+          },
+          "warshipItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/WarshipItem-WARSHIP_RANK_NORMALIZATION_COLLECTION"
+            }
+          }
+        }
+      },
+      "Item-WARSHIP_RANK_NORMALIZATION_ITEM": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "name": {
+            "minLength": 1,
+            "maxLength": 100,
+            "type": "string"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "statFormat": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "enum": [
+              "character",
+              "ability",
+              "hero_ability",
+              "building",
+              "trap",
+              "bonus",
+              "hero",
+              "static",
+              "squad_leader",
+              "engraving"
+            ],
+            "type": "string"
+          },
+          "energy": {
+            "minimum": 0,
+            "maximum": 20,
+            "type": "integer",
+            "nullable": true
+          },
+          "energyIncrease": {
+            "minimum": 0,
+            "maximum": 30,
+            "type": "integer",
+            "nullable": true
+          },
+          "singleInstance": {
+            "type": "boolean"
+          },
+          "warshipItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/WarshipItem-WARSHIP_RANK_NORMALIZATION_ITEM"
+            }
+          }
+        }
+      },
+      "Item.jsonld-WARSHIP_RANK_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "name": {
+            "minLength": 1,
+            "maxLength": 100,
+            "type": "string"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "statFormat": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "enum": [
+              "character",
+              "ability",
+              "hero_ability",
+              "building",
+              "trap",
+              "bonus",
+              "hero",
+              "static",
+              "squad_leader",
+              "engraving"
+            ],
+            "type": "string"
+          },
+          "energy": {
+            "minimum": 0,
+            "maximum": 20,
+            "type": "integer",
+            "nullable": true
+          },
+          "energyIncrease": {
+            "minimum": 0,
+            "maximum": 30,
+            "type": "integer",
+            "nullable": true
+          },
+          "singleInstance": {
+            "type": "boolean"
+          },
+          "warshipItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/WarshipItem.jsonld-WARSHIP_RANK_NORMALIZATION_COLLECTION"
+            }
+          }
+        }
+      },
+      "Item.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "name": {
+            "minLength": 1,
+            "maxLength": 100,
+            "type": "string"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "statFormat": {
+            "type": "string",
+            "nullable": true
+          },
+          "type": {
+            "enum": [
+              "character",
+              "ability",
+              "hero_ability",
+              "building",
+              "trap",
+              "bonus",
+              "hero",
+              "static",
+              "squad_leader",
+              "engraving"
+            ],
+            "type": "string"
+          },
+          "energy": {
+            "minimum": 0,
+            "maximum": 20,
+            "type": "integer",
+            "nullable": true
+          },
+          "energyIncrease": {
+            "minimum": 0,
+            "maximum": 30,
+            "type": "integer",
+            "nullable": true
+          },
+          "singleInstance": {
+            "type": "boolean"
+          },
+          "warshipItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/WarshipItem.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM"
+            }
+          }
+        }
+      },
+      "ItemStat-WARSHIP_RANK_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "level": {
+            "minimum": 0,
+            "exclusiveMinimum": true,
+            "type": "integer"
+          },
+          "strength": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "number",
+            "nullable": true
+          },
+          "damagePerShot": {
+            "type": "integer",
+            "nullable": true
+          },
+          "dodgeChance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "clipSize": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectAmount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackLength": {
+            "type": "integer",
+            "nullable": true
+          },
+          "laserDistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierRange": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierMineDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldPercentage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "startingEnergy": {
+            "type": "integer",
+            "nullable": true
+          },
+          "energyGain": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "secondaryValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageMultiplier": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damagePerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageLimit": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageResistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "health": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healthIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speed": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speedBoost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "duration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "shockDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "freezeDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "housingSpace": {
+            "minimum": 1,
+            "maximum": 100,
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldHealth": {
+            "type": "integer",
+            "nullable": true
+          },
+          "destructDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "heal": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healPerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "targetsAir": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "attackRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "reloadTime": {
+            "type": "integer",
+            "nullable": true
+          },
+          "capacity": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageType": {
+            "type": "string",
+            "nullable": true
+          },
+          "damageRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerDelay": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "beamExtension": {
+            "type": "integer",
+            "nullable": true
+          },
+          "itemId": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "ItemStat-WARSHIP_RANK_NORMALIZATION_ITEM": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "level": {
+            "minimum": 0,
+            "exclusiveMinimum": true,
+            "type": "integer"
+          },
+          "strength": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "number",
+            "nullable": true
+          },
+          "damagePerShot": {
+            "type": "integer",
+            "nullable": true
+          },
+          "dodgeChance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "clipSize": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectAmount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackLength": {
+            "type": "integer",
+            "nullable": true
+          },
+          "laserDistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierRange": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierMineDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldPercentage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "startingEnergy": {
+            "type": "integer",
+            "nullable": true
+          },
+          "energyGain": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "secondaryValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageMultiplier": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damagePerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageLimit": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageResistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "health": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healthIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speed": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speedBoost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "duration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "shockDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "freezeDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "housingSpace": {
+            "minimum": 1,
+            "maximum": 100,
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldHealth": {
+            "type": "integer",
+            "nullable": true
+          },
+          "destructDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "heal": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healPerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "targetsAir": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "attackRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "reloadTime": {
+            "type": "integer",
+            "nullable": true
+          },
+          "capacity": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageType": {
+            "type": "string",
+            "nullable": true
+          },
+          "damageRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerDelay": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "beamExtension": {
+            "type": "integer",
+            "nullable": true
+          },
+          "itemId": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "ItemStat-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "level": {
+            "minimum": 0,
+            "exclusiveMinimum": true,
+            "type": "integer"
+          },
+          "strength": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "number",
+            "nullable": true
+          },
+          "damagePerShot": {
+            "type": "integer",
+            "nullable": true
+          },
+          "dodgeChance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "clipSize": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectAmount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackLength": {
+            "type": "integer",
+            "nullable": true
+          },
+          "laserDistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierRange": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierMineDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldPercentage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "startingEnergy": {
+            "type": "integer",
+            "nullable": true
+          },
+          "energyGain": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "secondaryValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageMultiplier": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damagePerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageLimit": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageResistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "health": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healthIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speed": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speedBoost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "duration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "shockDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "freezeDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "housingSpace": {
+            "minimum": 1,
+            "maximum": 100,
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldHealth": {
+            "type": "integer",
+            "nullable": true
+          },
+          "destructDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "heal": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healPerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "targetsAir": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "attackRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "reloadTime": {
+            "type": "integer",
+            "nullable": true
+          },
+          "capacity": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageType": {
+            "type": "string",
+            "nullable": true
+          },
+          "damageRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerDelay": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "beamExtension": {
+            "type": "integer",
+            "nullable": true
+          },
+          "itemId": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "ItemStat-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION_ITEM_STAT_RAW": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "level": {
+            "minimum": 0,
+            "exclusiveMinimum": true,
+            "type": "integer"
+          },
+          "strength": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "number",
+            "nullable": true
+          },
+          "rawData": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "damagePerShot": {
+            "type": "integer",
+            "nullable": true
+          },
+          "dodgeChance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "clipSize": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectAmount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackLength": {
+            "type": "integer",
+            "nullable": true
+          },
+          "laserDistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierRange": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierMineDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldPercentage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "startingEnergy": {
+            "type": "integer",
+            "nullable": true
+          },
+          "energyGain": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "secondaryValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageMultiplier": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damagePerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageLimit": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageResistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "health": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healthIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speed": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speedBoost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "duration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "shockDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "freezeDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "housingSpace": {
+            "minimum": 1,
+            "maximum": 100,
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldHealth": {
+            "type": "integer",
+            "nullable": true
+          },
+          "destructDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "heal": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healPerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "targetsAir": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "attackRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "reloadTime": {
+            "type": "integer",
+            "nullable": true
+          },
+          "capacity": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageType": {
+            "type": "string",
+            "nullable": true
+          },
+          "damageRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerDelay": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "beamExtension": {
+            "type": "integer",
+            "nullable": true
+          },
+          "itemId": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "ItemStat.jsonld-WARSHIP_RANK_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "level": {
+            "minimum": 0,
+            "exclusiveMinimum": true,
+            "type": "integer"
+          },
+          "strength": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "number",
+            "nullable": true
+          },
+          "damagePerShot": {
+            "type": "integer",
+            "nullable": true
+          },
+          "dodgeChance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "clipSize": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectAmount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackLength": {
+            "type": "integer",
+            "nullable": true
+          },
+          "laserDistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierRange": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierMineDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldPercentage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "startingEnergy": {
+            "type": "integer",
+            "nullable": true
+          },
+          "energyGain": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "secondaryValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageMultiplier": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damagePerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageLimit": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageResistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "health": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healthIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speed": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speedBoost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "duration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "shockDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "freezeDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "housingSpace": {
+            "minimum": 1,
+            "maximum": 100,
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldHealth": {
+            "type": "integer",
+            "nullable": true
+          },
+          "destructDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "heal": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healPerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "targetsAir": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "attackRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "reloadTime": {
+            "type": "integer",
+            "nullable": true
+          },
+          "capacity": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageType": {
+            "type": "string",
+            "nullable": true
+          },
+          "damageRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerDelay": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "beamExtension": {
+            "type": "integer",
+            "nullable": true
+          },
+          "itemId": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "ItemStat.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "level": {
+            "minimum": 0,
+            "exclusiveMinimum": true,
+            "type": "integer"
+          },
+          "strength": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "number",
+            "nullable": true
+          },
+          "damagePerShot": {
+            "type": "integer",
+            "nullable": true
+          },
+          "dodgeChance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "clipSize": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectAmount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackLength": {
+            "type": "integer",
+            "nullable": true
+          },
+          "laserDistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierRange": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierMineDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldPercentage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "startingEnergy": {
+            "type": "integer",
+            "nullable": true
+          },
+          "energyGain": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "secondaryValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageMultiplier": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damagePerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageLimit": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageResistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "health": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healthIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speed": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speedBoost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "duration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "shockDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "freezeDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "housingSpace": {
+            "minimum": 1,
+            "maximum": 100,
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldHealth": {
+            "type": "integer",
+            "nullable": true
+          },
+          "destructDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "heal": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healPerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "targetsAir": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "attackRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "reloadTime": {
+            "type": "integer",
+            "nullable": true
+          },
+          "capacity": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageType": {
+            "type": "string",
+            "nullable": true
+          },
+          "damageRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerDelay": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "beamExtension": {
+            "type": "integer",
+            "nullable": true
+          },
+          "itemId": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "ItemStat.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "level": {
+            "minimum": 0,
+            "exclusiveMinimum": true,
+            "type": "integer"
+          },
+          "strength": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "number",
+            "nullable": true
+          },
+          "damagePerShot": {
+            "type": "integer",
+            "nullable": true
+          },
+          "dodgeChance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "clipSize": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectAmount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackLength": {
+            "type": "integer",
+            "nullable": true
+          },
+          "laserDistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierRange": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierMineDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldPercentage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "startingEnergy": {
+            "type": "integer",
+            "nullable": true
+          },
+          "energyGain": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "secondaryValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageMultiplier": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damagePerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageLimit": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageResistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "health": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healthIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speed": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speedBoost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "duration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "shockDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "freezeDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "housingSpace": {
+            "minimum": 1,
+            "maximum": 100,
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldHealth": {
+            "type": "integer",
+            "nullable": true
+          },
+          "destructDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "heal": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healPerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "targetsAir": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "attackRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "reloadTime": {
+            "type": "integer",
+            "nullable": true
+          },
+          "capacity": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageType": {
+            "type": "string",
+            "nullable": true
+          },
+          "damageRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerDelay": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "beamExtension": {
+            "type": "integer",
+            "nullable": true
+          },
+          "itemId": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "ItemStat.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM_WARSHIP_RANK_NORMALIZATION_COLLECTION_ITEM_STAT_RAW": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "level": {
+            "minimum": 0,
+            "exclusiveMinimum": true,
+            "type": "integer"
+          },
+          "strength": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "number",
+            "nullable": true
+          },
+          "rawData": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "damagePerShot": {
+            "type": "integer",
+            "nullable": true
+          },
+          "dodgeChance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "clipSize": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectAmount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "statusEffectDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackLength": {
+            "type": "integer",
+            "nullable": true
+          },
+          "laserDistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierRange": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "amplifierMineDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldPercentage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "startingEnergy": {
+            "type": "integer",
+            "nullable": true
+          },
+          "energyGain": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "secondaryValue": {
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageMultiplier": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damagePerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageLimit": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageResistance": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "burnDuration": {
+            "type": "integer",
+            "nullable": true
+          },
+          "shrapnelDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "health": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healthIncrease": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speed": {
+            "type": "integer",
+            "nullable": true
+          },
+          "speedBoost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "duration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "shockDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "freezeDuration": {
+            "minimum": 100,
+            "maximum": 120000,
+            "type": "integer",
+            "nullable": true
+          },
+          "housingSpace": {
+            "minimum": 1,
+            "maximum": 100,
+            "type": "integer",
+            "nullable": true
+          },
+          "shieldHealth": {
+            "type": "integer",
+            "nullable": true
+          },
+          "destructDamage": {
+            "type": "integer",
+            "nullable": true
+          },
+          "heal": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healPerSecond": {
+            "type": "integer",
+            "nullable": true
+          },
+          "targetsAir": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "attackRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMin": {
+            "type": "integer",
+            "nullable": true
+          },
+          "healRangeMax": {
+            "type": "integer",
+            "nullable": true
+          },
+          "attackRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "reloadTime": {
+            "type": "integer",
+            "nullable": true
+          },
+          "capacity": {
+            "type": "integer",
+            "nullable": true
+          },
+          "damageType": {
+            "type": "string",
+            "nullable": true
+          },
+          "damageRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "effectRadius": {
+            "type": "integer",
+            "nullable": true
+          },
+          "triggerDelay": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnRate": {
+            "type": "integer",
+            "nullable": true
+          },
+          "spawnCount": {
+            "type": "integer",
+            "nullable": true
+          },
+          "beamExtension": {
+            "type": "integer",
+            "nullable": true
+          },
+          "itemId": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "PlayerRanking-SEASON_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        }
+      },
+      "PlayerRanking-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "rank": {
+            "$ref": "#/components/schemas/WarshipRank-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS"
+          },
+          "position": {
+            "minimum": 0,
+            "maximum": 10,
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "stars": {
+            "minimum": 0,
+            "maximum": 119,
+            "type": "integer"
+          },
+          "winPercentage": {
+            "type": "string"
+          },
+          "battles": {
+            "type": "integer",
+            "nullable": true
+          },
+          "won": {
+            "type": "integer",
+            "nullable": true
+          },
+          "lost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "draw": {
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "PlayerRanking.jsonld-SEASON_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          }
+        }
+      },
+      "PlayerRanking.jsonld-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "rank": {
+            "$ref": "#/components/schemas/WarshipRank.jsonld-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS"
+          },
+          "position": {
+            "minimum": 0,
+            "maximum": 10,
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "stars": {
+            "minimum": 0,
+            "maximum": 119,
+            "type": "integer"
+          },
+          "winPercentage": {
+            "type": "string"
+          },
+          "battles": {
+            "type": "integer",
+            "nullable": true
+          },
+          "won": {
+            "type": "integer",
+            "nullable": true
+          },
+          "lost": {
+            "type": "integer",
+            "nullable": true
+          },
+          "draw": {
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "Season-SEASON_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "seasonNumber": {
+            "type": "integer"
+          },
+          "title": {
+            "minLength": 1,
+            "maxLength": 50,
+            "type": "string"
+          },
+          "starHoldPercent": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "integer"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "releaseDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "keyValues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tokenValues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "winner": {
+            "readOnly": true,
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PlayerRanking-SEASON_NORMALIZATION_COLLECTION"
+              }
+            ],
+            "nullable": true
+          },
+          "decks": {
+            "readOnly": true,
+            "type": "boolean"
+          },
+          "duration": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "Season-SEASON_NORMALIZATION_CONTEXT": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "seasonNumber": {
+            "type": "integer"
+          },
+          "title": {
+            "minLength": 1,
+            "maxLength": 50,
+            "type": "string"
+          },
+          "starHoldPercent": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "integer"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "releaseDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "keyValues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tokenValues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "techTreeHash": {
+            "minLength": 1,
+            "maxLength": 50000,
+            "type": "string"
+          },
+          "deckSetHash": {
+            "minLength": 1,
+            "maxLength": 50000,
+            "type": "string",
+            "nullable": true
+          },
+          "duration": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "Season-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "seasonNumber": {
+            "type": "integer"
+          },
+          "title": {
+            "minLength": 1,
+            "maxLength": 50,
+            "type": "string"
+          },
+          "starHoldPercent": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "integer"
+          },
+          "playerRankings": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PlayerRanking-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS"
+            }
+          },
+          "duration": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "Season.jsonld-SEASON_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "seasonNumber": {
+            "type": "integer"
+          },
+          "title": {
+            "minLength": 1,
+            "maxLength": 50,
+            "type": "string"
+          },
+          "starHoldPercent": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "integer"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "releaseDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "keyValues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tokenValues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "winner": {
+            "readOnly": true,
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/PlayerRanking.jsonld-SEASON_NORMALIZATION_COLLECTION"
+              }
+            ],
+            "nullable": true
+          },
+          "decks": {
+            "readOnly": true,
+            "type": "boolean"
+          },
+          "duration": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "Season.jsonld-SEASON_NORMALIZATION_CONTEXT": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "seasonNumber": {
+            "type": "integer"
+          },
+          "title": {
+            "minLength": 1,
+            "maxLength": 50,
+            "type": "string"
+          },
+          "starHoldPercent": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "integer"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "releaseDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "keyValues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tokenValues": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "techTreeHash": {
+            "minLength": 1,
+            "maxLength": 50000,
+            "type": "string"
+          },
+          "deckSetHash": {
+            "minLength": 1,
+            "maxLength": 50000,
+            "type": "string",
+            "nullable": true
+          },
+          "duration": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "Season.jsonld-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "seasonNumber": {
+            "type": "integer"
+          },
+          "title": {
+            "minLength": 1,
+            "maxLength": 50,
+            "type": "string"
+          },
+          "starHoldPercent": {
+            "minimum": 0,
+            "maximum": 100,
+            "type": "integer"
+          },
+          "playerRankings": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PlayerRanking.jsonld-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS"
+            }
+          },
+          "duration": {
+            "readOnly": true,
+            "type": "integer",
+            "nullable": true
+          }
+        }
+      },
+      "WarshipItem-WARSHIP_RANK_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "canister": {
+            "type": "boolean"
+          },
+          "upgradeCost": {
+            "minimum": 0,
+            "maximum": 2000000,
+            "type": "integer",
+            "nullable": true
+          },
+          "level": {
+            "minimum": 0,
+            "maximum": 30,
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer"
+          },
+          "tech": {
+            "type": "integer"
+          },
+          "stats": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/ItemStat-WARSHIP_RANK_NORMALIZATION_COLLECTION"
+              }
+            ],
+            "nullable": true
+          },
+          "children": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "iri-reference"
+            }
+          }
+        }
+      },
+      "WarshipItem-WARSHIP_RANK_NORMALIZATION_ITEM": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "canister": {
+            "type": "boolean"
+          },
+          "upgradeCost": {
+            "minimum": 0,
+            "maximum": 2000000,
+            "type": "integer",
+            "nullable": true
+          },
+          "level": {
+            "minimum": 0,
+            "maximum": 30,
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer"
+          },
+          "tech": {
+            "type": "integer"
+          },
+          "stats": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/ItemStat-WARSHIP_RANK_NORMALIZATION_ITEM"
+              }
+            ],
+            "nullable": true
+          },
+          "children": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "iri-reference"
+            }
+          }
+        }
+      },
+      "WarshipItem-none": {
+        "type": "object",
+        "description": "",
+        "deprecated": false
+      },
+      "WarshipItem.jsonld-WARSHIP_RANK_NORMALIZATION_COLLECTION": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "canister": {
+            "type": "boolean"
+          },
+          "upgradeCost": {
+            "minimum": 0,
+            "maximum": 2000000,
+            "type": "integer",
+            "nullable": true
+          },
+          "level": {
+            "minimum": 0,
+            "maximum": 30,
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer"
+          },
+          "tech": {
+            "type": "integer"
+          },
+          "stats": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/ItemStat.jsonld-WARSHIP_RANK_NORMALIZATION_COLLECTION"
+              }
+            ],
+            "nullable": true
+          },
+          "children": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "iri-reference"
+            }
+          }
+        }
+      },
+      "WarshipItem.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "id": {
+            "readOnly": true,
+            "type": "integer"
+          },
+          "canister": {
+            "type": "boolean"
+          },
+          "upgradeCost": {
+            "minimum": 0,
+            "maximum": 2000000,
+            "type": "integer",
+            "nullable": true
+          },
+          "level": {
+            "minimum": 0,
+            "maximum": 30,
+            "type": "integer",
+            "nullable": true
+          },
+          "count": {
+            "type": "integer"
+          },
+          "tech": {
+            "type": "integer"
+          },
+          "stats": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/ItemStat.jsonld-WARSHIP_RANK_NORMALIZATION_ITEM"
+              }
+            ],
+            "nullable": true
+          },
+          "children": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "iri-reference"
+            }
+          }
+        }
+      },
+      "WarshipItem.jsonld-none": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          }
+        }
+      },
+      "WarshipRank-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        }
+      },
+      "WarshipRank-WARSHIP_RANK_NORMALIZATION_CONTEXT": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "tier": {
+            "minimum": 0,
+            "maximum": 10,
+            "type": "integer"
+          },
+          "chestType": {
+            "enum": [
+              "wood",
+              "stone",
+              "iron",
+              "gold",
+              "diamond",
+              "legendary"
+            ],
+            "type": "string"
+          },
+          "starsPerRank": {
+            "minimum": 0,
+            "maximum": 250,
+            "type": "integer"
+          },
+          "RewardTickets": {
+            "minimum": 0,
+            "maximum": 2000,
+            "type": "integer"
+          },
+          "rewardDiamonds": {
+            "minimum": 0,
+            "maximum": 2000,
+            "type": "integer"
+          },
+          "rewardPowder": {
+            "minimum": 0,
+            "maximum": 2000,
+            "type": "integer"
+          }
+        }
+      },
+      "WarshipRank.jsonld-SEASON_NORMALIZATION_CONTEXT_PLAYER_RANKS": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          }
+        }
+      },
+      "WarshipRank.jsonld-WARSHIP_RANK_NORMALIZATION_CONTEXT": {
+        "type": "object",
+        "description": "",
+        "deprecated": false,
+        "properties": {
+          "@id": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@type": {
+            "readOnly": true,
+            "type": "string"
+          },
+          "@context": {
+            "readOnly": true,
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "@vocab": {
+                    "type": "string"
+                  },
+                  "hydra": {
+                    "type": "string",
+                    "enum": [
+                      "http://www.w3.org/ns/hydra/core#"
+                    ]
+                  }
+                },
+                "required": [
+                  "@vocab",
+                  "hydra"
+                ],
+                "additionalProperties": true
+              }
+            ]
+          },
+          "name": {
+            "type": "string"
+          },
+          "tier": {
+            "minimum": 0,
+            "maximum": 10,
+            "type": "integer"
+          },
+          "chestType": {
+            "enum": [
+              "wood",
+              "stone",
+              "iron",
+              "gold",
+              "diamond",
+              "legendary"
+            ],
+            "type": "string"
+          },
+          "starsPerRank": {
+            "minimum": 0,
+            "maximum": 250,
+            "type": "integer"
+          },
+          "RewardTickets": {
+            "minimum": 0,
+            "maximum": 2000,
+            "type": "integer"
+          },
+          "rewardDiamonds": {
+            "minimum": 0,
+            "maximum": 2000,
+            "type": "integer"
+          },
+          "rewardPowder": {
+            "minimum": 0,
+            "maximum": 2000,
+            "type": "integer"
+          }
+        }
+      }
+    },
+    "responses": {},
+    "parameters": {},
+    "examples": {},
+    "requestBodies": {},
+    "headers": {},
+    "securitySchemes": {}
+  },
+  "security": [],
+  "tags": []
+}

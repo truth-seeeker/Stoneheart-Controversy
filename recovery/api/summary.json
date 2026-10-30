@@ -1,0 +1,119 @@
+{
+  "requests": 6950,
+  "http200": 6079,
+  "entities": {
+    "items": 175,
+    "warship_items": 699,
+    "item_stats": 5577,
+    "warship_ranks": 35,
+    "seasons": 93,
+    "crab_events": 49
+  },
+  "fullRawStats": 5576,
+  "routes": [
+    {
+      "route": "/api/crab_events",
+      "tested": 1,
+      "statuses": {
+        "200": 1
+      }
+    },
+    {
+      "route": "/api/item_details/{name}",
+      "tested": 175,
+      "statuses": {
+        "200": 175
+      }
+    },
+    {
+      "route": "/api/item_stats",
+      "tested": 2,
+      "statuses": {
+        "timeout": 2
+      }
+    },
+    {
+      "route": "/api/item_stats/{id}",
+      "tested": 6142,
+      "statuses": {
+        "200": 5577,
+        "404": 565
+      }
+    },
+    {
+      "route": "/api/items",
+      "tested": 1,
+      "statuses": {
+        "200": 1
+      }
+    },
+    {
+      "route": "/api/items/{id}",
+      "tested": 450,
+      "statuses": {
+        "200": 175,
+        "404": 275
+      }
+    },
+    {
+      "route": "/api/seasons",
+      "tested": 1,
+      "statuses": {
+        "200": 1
+      }
+    },
+    {
+      "route": "/api/seasons/current",
+      "tested": 1,
+      "statuses": {
+        "200": 1
+      }
+    },
+    {
+      "route": "/api/seasons/leaderboard",
+      "tested": 1,
+      "statuses": {
+        "200": 1
+      }
+    },
+    {
+      "route": "/api/seasons/{seasonNumber}",
+      "tested": 93,
+      "statuses": {
+        "200": 93
+      }
+    },
+    {
+      "route": "/api/warship_items/{id}",
+      "tested": 1,
+      "statuses": {
+        "200": 1
+      }
+    },
+    {
+      "route": "/api/warship_ranks",
+      "tested": 1,
+      "statuses": {
+        "200": 1
+      }
+    },
+    {
+      "route": "/api/warship_ranks/{id}",
+      "tested": 35,
+      "statuses": {
+        "200": 35
+      }
+    }
+  ],
+  "rawSourceFiles": {
+    "spells.csv": 564,
+    "buildings.csv": 881,
+    "characters.csv": 2569,
+    "traps.csv": 64,
+    "hero_abilities.csv": 946
+  },
+  "statisticsIdRangeTested": [
+    1,
+    6142
+  ]
+}

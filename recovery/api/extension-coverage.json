@@ -1,0 +1,9 @@
+{
+  "start": 3327,
+  "lastSuccessfulId": 6078,
+  "lastTestedId": 6142,
+  "consecutive404": 64,
+  "serviceFailures": 0,
+  "stoppedOn": "consecutive_404",
+  "guaranteesNoHigherIds": false
+}

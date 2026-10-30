@@ -1,0 +1,1 @@
+{"id":2379,"level":4,"strength":25.0,"rawData":{"sourceName":"DefDecreaseBoatDmg","localOverrides":[],"warshipConfiguration":{"tech":20,"count":1,"level":4,"children":[],"stat_level":4,"stat_values":{"effect_value":250},"stat_context":"warship","upgrade_cost":1400000}},"effectValue":250,"itemId":156}

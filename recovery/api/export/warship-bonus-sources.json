@@ -1,0 +1,552 @@
+[
+  {
+    "statId": 915,
+    "itemId": 19,
+    "level": 1,
+    "raw": {
+      "Name": "SectorBoostBuildingDamage",
+      "Type": "Bonus",
+      "IconSWF": "",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UnlockLevel": "",
+      "UpgradeCost": "158000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingDamage",
+      "Type": "Bonus",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UpgradeCost": "158000"
+    }
+  },
+  {
+    "statId": 834,
+    "itemId": 19,
+    "level": 2,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UnlockLevel": "",
+      "UpgradeCost": "186000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingDamage",
+      "Type": "Bonus",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UpgradeCost": "186000"
+    }
+  },
+  {
+    "statId": 871,
+    "itemId": 19,
+    "level": 3,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UnlockLevel": "",
+      "UpgradeCost": "245500",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingDamage",
+      "Type": "Bonus",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UpgradeCost": "245500"
+    }
+  },
+  {
+    "statId": 877,
+    "itemId": 19,
+    "level": 4,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UnlockLevel": "",
+      "UpgradeCost": "300000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingDamage",
+      "Type": "Bonus",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UpgradeCost": "300000"
+    }
+  },
+  {
+    "statId": 883,
+    "itemId": 19,
+    "level": 5,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UnlockLevel": "",
+      "UpgradeCost": "",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingDamage",
+      "Type": "Bonus",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UpgradeCost": "300000"
+    }
+  },
+  {
+    "statId": 891,
+    "itemId": 20,
+    "level": 1,
+    "raw": {
+      "Name": "SectorBoostBuildingHP",
+      "Type": "Bonus",
+      "IconSWF": "",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UnlockLevel": "",
+      "UpgradeCost": "135000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingHP",
+      "Type": "Bonus",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UpgradeCost": "135000"
+    }
+  },
+  {
+    "statId": 898,
+    "itemId": 20,
+    "level": 2,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UnlockLevel": "",
+      "UpgradeCost": "161000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingHP",
+      "Type": "Bonus",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UpgradeCost": "161000"
+    }
+  },
+  {
+    "statId": 906,
+    "itemId": 20,
+    "level": 3,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UnlockLevel": "",
+      "UpgradeCost": "204500",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingHP",
+      "Type": "Bonus",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UpgradeCost": "204500"
+    }
+  },
+  {
+    "statId": 516,
+    "itemId": 20,
+    "level": 4,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UnlockLevel": "",
+      "UpgradeCost": "270000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingHP",
+      "Type": "Bonus",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UpgradeCost": "270000"
+    }
+  },
+  {
+    "statId": 524,
+    "itemId": 20,
+    "level": 5,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UnlockLevel": "",
+      "UpgradeCost": "",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostBuildingHP",
+      "Type": "Bonus",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UpgradeCost": "270000"
+    }
+  },
+  {
+    "statId": 547,
+    "itemId": 21,
+    "level": 1,
+    "raw": {
+      "Name": "SectorBoostGunshipEnergy",
+      "Type": "Bonus",
+      "IconSWF": "",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UnlockLevel": "",
+      "UpgradeCost": "180500",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostGunshipEnergy",
+      "Type": "Bonus",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UpgradeCost": "180500"
+    }
+  },
+  {
+    "statId": 554,
+    "itemId": 21,
+    "level": 2,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UnlockLevel": "",
+      "UpgradeCost": "223000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostGunshipEnergy",
+      "Type": "Bonus",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UpgradeCost": "223000"
+    }
+  },
+  {
+    "statId": 561,
+    "itemId": 21,
+    "level": 3,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UnlockLevel": "",
+      "UpgradeCost": "272500",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostGunshipEnergy",
+      "Type": "Bonus",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UpgradeCost": "272500"
+    }
+  },
+  {
+    "statId": 575,
+    "itemId": 21,
+    "level": 4,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UnlockLevel": "",
+      "UpgradeCost": "330000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostGunshipEnergy",
+      "Type": "Bonus",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UpgradeCost": "330000"
+    }
+  },
+  {
+    "statId": 590,
+    "itemId": 21,
+    "level": 5,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UnlockLevel": "",
+      "UpgradeCost": "",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostGunshipEnergy",
+      "Type": "Bonus",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UpgradeCost": "330000"
+    }
+  },
+  {
+    "statId": 597,
+    "itemId": 22,
+    "level": 1,
+    "raw": {
+      "Name": "SectorBoostTroopDamage",
+      "Type": "Bonus",
+      "IconSWF": "",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UnlockLevel": "",
+      "UpgradeCost": "158000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopDamage",
+      "Type": "Bonus",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UpgradeCost": "158000"
+    }
+  },
+  {
+    "statId": 626,
+    "itemId": 22,
+    "level": 2,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UnlockLevel": "",
+      "UpgradeCost": "186000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopDamage",
+      "Type": "Bonus",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UpgradeCost": "186000"
+    }
+  },
+  {
+    "statId": 632,
+    "itemId": 22,
+    "level": 3,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UnlockLevel": "",
+      "UpgradeCost": "245500",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopDamage",
+      "Type": "Bonus",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UpgradeCost": "245500"
+    }
+  },
+  {
+    "statId": 669,
+    "itemId": 22,
+    "level": 4,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UnlockLevel": "",
+      "UpgradeCost": "300000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopDamage",
+      "Type": "Bonus",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UpgradeCost": "300000"
+    }
+  },
+  {
+    "statId": 695,
+    "itemId": 22,
+    "level": 5,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UnlockLevel": "",
+      "UpgradeCost": "",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopDamage",
+      "Type": "Bonus",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UpgradeCost": "300000"
+    }
+  },
+  {
+    "statId": 707,
+    "itemId": 23,
+    "level": 1,
+    "raw": {
+      "Name": "SectorBoostTroopHP",
+      "Type": "Bonus",
+      "IconSWF": "",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UnlockLevel": "",
+      "UpgradeCost": "135000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopHP",
+      "Type": "Bonus",
+      "Strength": "5",
+      "UnlockCount": "100",
+      "UpgradeCost": "135000"
+    }
+  },
+  {
+    "statId": 732,
+    "itemId": 23,
+    "level": 2,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UnlockLevel": "",
+      "UpgradeCost": "161000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopHP",
+      "Type": "Bonus",
+      "Strength": "15",
+      "UnlockCount": "200",
+      "UpgradeCost": "161000"
+    }
+  },
+  {
+    "statId": 761,
+    "itemId": 23,
+    "level": 3,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UnlockLevel": "",
+      "UpgradeCost": "204500",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopHP",
+      "Type": "Bonus",
+      "Strength": "30",
+      "UnlockCount": "300",
+      "UpgradeCost": "204500"
+    }
+  },
+  {
+    "statId": 771,
+    "itemId": 23,
+    "level": 4,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UnlockLevel": "",
+      "UpgradeCost": "270000",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopHP",
+      "Type": "Bonus",
+      "Strength": "50",
+      "UnlockCount": "400",
+      "UpgradeCost": "270000"
+    }
+  },
+  {
+    "statId": 783,
+    "itemId": 23,
+    "level": 5,
+    "raw": {
+      "Name": "",
+      "Type": "",
+      "IconSWF": "",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UnlockLevel": "",
+      "UpgradeCost": "",
+      "IconExportName": ""
+    },
+    "effective": {
+      "Name": "SectorBoostTroopHP",
+      "Type": "Bonus",
+      "Strength": "75",
+      "UnlockCount": "500",
+      "UpgradeCost": "270000"
+    }
+  }
+]

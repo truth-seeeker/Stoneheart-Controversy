@@ -1,0 +1,1 @@
+{"@context":"\/api\/contexts\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Requested format \u0022application\/json\u0022 is not supported. Supported MIME types are \u0022application\/ld+json\u0022."}

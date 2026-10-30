@@ -1,0 +1,14 @@
+﻿route,tested,statuses
+/api/crab_events,1,{'200': 1}
+/api/item_details/{name},175,{'200': 175}
+/api/item_stats,2,{'timeout': 2}
+/api/item_stats/{id},6142,"{'200': 5577, '404': 565}"
+/api/items,1,{'200': 1}
+/api/items/{id},450,"{'200': 175, '404': 275}"
+/api/seasons,1,{'200': 1}
+/api/seasons/current,1,{'200': 1}
+/api/seasons/leaderboard,1,{'200': 1}
+/api/seasons/{seasonNumber},93,{'200': 93}
+/api/warship_items/{id},1,{'200': 1}
+/api/warship_ranks,1,{'200': 1}
+/api/warship_ranks/{id},35,{'200': 35}

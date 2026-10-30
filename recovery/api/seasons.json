@@ -1,0 +1,2696 @@
+[
+    {
+        "seasonNumber": 93,
+        "title": "Fair Trade",
+        "starHoldPercent": 40,
+        "startDate": "2026-10-26T00:00:00+00:00",
+        "endDate": "2026-11-16T00:00:00+00:00",
+        "releaseDate": "2026-10-23T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 92,
+        "title": "After Another Storm",
+        "starHoldPercent": 40,
+        "startDate": "2026-09-28T00:00:00+00:00",
+        "endDate": "2026-10-19T00:00:00+00:00",
+        "releaseDate": "2026-09-25T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "Legacy"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 91,
+        "title": "High Command",
+        "starHoldPercent": 40,
+        "startDate": "2026-08-24T00:00:00+00:00",
+        "endDate": "2026-09-14T00:00:00+00:00",
+        "releaseDate": "2026-08-21T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "Kudan\u2022\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 90,
+        "title": "Proto Sale",
+        "starHoldPercent": 40,
+        "startDate": "2026-07-27T00:00:00+00:00",
+        "endDate": "2026-08-17T00:00:00+00:00",
+        "releaseDate": "2026-07-24T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u661f\u661f\u548c\u53e5\u53f7"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 89,
+        "title": "Chain Of Command",
+        "starHoldPercent": 40,
+        "startDate": "2026-06-29T00:00:00+00:00",
+        "endDate": "2026-07-20T00:00:00+00:00",
+        "releaseDate": "2026-06-26T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u6d6e\u840d\u5bc4\u9752\u83b2\u2022\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 88,
+        "title": "Leech and Drain",
+        "starHoldPercent": 40,
+        "startDate": "2026-05-25T00:00:00+00:00",
+        "endDate": "2026-06-15T00:00:00+00:00",
+        "releaseDate": "2026-05-22T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u4f9d\u7136\u8303\u7279\u897f\u2022\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 87,
+        "title": "Gunboat Overload",
+        "starHoldPercent": 40,
+        "startDate": "2026-04-27T00:00:00+00:00",
+        "endDate": "2026-05-18T00:00:00+00:00",
+        "releaseDate": "2026-04-24T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "China\ud83c\udde8\ud83c\uddf3#1"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 86,
+        "title": "Overclocked",
+        "starHoldPercent": 40,
+        "startDate": "2026-03-30T00:00:00+00:00",
+        "endDate": "2026-04-20T00:00:00+00:00",
+        "releaseDate": "2026-03-27T14:30:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "Golden Dragon"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 85,
+        "title": "Endurance Initiative",
+        "starHoldPercent": 40,
+        "startDate": "2026-02-23T00:00:00+00:00",
+        "endDate": "2026-03-16T00:00:00+00:00",
+        "releaseDate": "2026-02-20T14:30:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u6478\u9c7c\u2728\u5fae\u7b11\u7684\u5f80\u4e8b\ud83d\ude0c\u4e0d\u613f\u91cd\u63d0"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 84,
+        "title": "Tech Lockdown",
+        "starHoldPercent": 40,
+        "startDate": "2026-01-26T00:00:00+00:00",
+        "endDate": "2026-02-16T00:00:00+00:00",
+        "releaseDate": "2026-01-21T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u65b9\u65b9\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 83,
+        "title": "Let Him Handle It",
+        "starHoldPercent": 40,
+        "startDate": "2025-12-29T00:00:00+00:00",
+        "endDate": "2026-01-19T00:00:00+00:00",
+        "releaseDate": "2025-12-26T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u7acb\u4e8e\u6d6e\u534e\u4e4b\u4e16\u594f\u54cd\u5929\u7c41\u4e4b\u97f3\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 82,
+        "title": "Extended Magic",
+        "starHoldPercent": 40,
+        "startDate": "2025-11-24T00:00:00+00:00",
+        "endDate": "2025-12-22T00:00:00+00:00",
+        "releaseDate": "2025-11-21T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "Heart of Stone"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 81,
+        "title": "Grenadiers Strike!",
+        "starHoldPercent": 40,
+        "startDate": "2025-10-27T00:00:00+00:00",
+        "endDate": "2025-11-17T00:00:00+00:00",
+        "releaseDate": "2025-10-24T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u5c0f\u8363"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 80,
+        "title": "Early Winter",
+        "starHoldPercent": 40,
+        "startDate": "2025-09-29T00:00:00+00:00",
+        "endDate": "2025-10-20T00:00:00+00:00",
+        "releaseDate": "2025-09-26T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\ud83c\udf52=t\ud83c\udf52"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 79,
+        "title": "Melons!",
+        "starHoldPercent": 0,
+        "startDate": "2025-09-01T00:00:00+00:00",
+        "endDate": "2025-09-22T00:00:00+00:00",
+        "releaseDate": "2025-08-29T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u559c\u6b22\u8bf7\u4f60\u54cd\u94c3\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 78,
+        "title": "Fortified Defense",
+        "starHoldPercent": 40,
+        "startDate": "2025-08-04T00:00:00+00:00",
+        "endDate": "2025-08-25T00:00:00+00:00",
+        "releaseDate": "2025-08-02T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u2728\u4f60\u5934\u53d1\u4e71\u4e86\u5594\u2728"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 77,
+        "title": "Rivals of the Reef",
+        "starHoldPercent": 40,
+        "startDate": "2025-07-14T00:00:00+00:00",
+        "endDate": "2025-07-28T00:00:00+00:00",
+        "releaseDate": "2025-07-12T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u2728\u4f60\u5934\u53d1\u4e71\u4e86\u5594\u2728"
+        },
+        "decks": true,
+        "duration": 14
+    },
+    {
+        "seasonNumber": 76,
+        "title": "Empty Chests",
+        "starHoldPercent": 20,
+        "startDate": "2025-06-23T00:00:00+00:00",
+        "endDate": "2025-07-07T00:00:00+00:00",
+        "releaseDate": "2025-06-21T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "winner": {
+            "name": "Stoneheart"
+        },
+        "decks": true,
+        "duration": 14
+    },
+    {
+        "seasonNumber": 75,
+        "title": "All In Place",
+        "starHoldPercent": 40,
+        "startDate": "2025-05-26T00:00:00+00:00",
+        "endDate": "2025-06-16T00:00:00+00:00",
+        "releaseDate": "2025-05-24T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u5c0f\u54c8\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 74,
+        "title": "No Stone Unturned",
+        "starHoldPercent": 40,
+        "startDate": "2025-04-28T00:00:00+00:00",
+        "endDate": "2025-05-19T00:00:00+00:00",
+        "releaseDate": "2025-04-26T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "\ud83d\udc51Angel\ud83d\udc51"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 73,
+        "title": "Can Chickens Fly?",
+        "starHoldPercent": 40,
+        "startDate": "2025-03-31T00:00:00+00:00",
+        "endDate": "2025-04-21T00:00:00+00:00",
+        "releaseDate": "2025-03-29T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "\u96e8\u540e\u5fae\u9633\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 72,
+        "title": "The Anniversary Cruise",
+        "starHoldPercent": 40,
+        "startDate": "2025-03-03T00:00:00+00:00",
+        "endDate": "2025-03-17T00:00:00+00:00",
+        "releaseDate": "2025-03-01T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "\u6296\u97f3\u641c:\u96e8\u540e\u5fae\u9633\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 14
+    },
+    {
+        "seasonNumber": 71,
+        "title": "The Dumpster Battle",
+        "starHoldPercent": 40,
+        "startDate": "2025-02-24T00:00:00+00:00",
+        "endDate": "2025-03-03T00:00:00+00:00",
+        "releaseDate": "2025-02-22T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "Rangers\ud83d\udc09"
+        },
+        "decks": true,
+        "duration": 7
+    },
+    {
+        "seasonNumber": 70,
+        "title": "ProtoKey",
+        "starHoldPercent": 40,
+        "startDate": "2025-01-27T00:00:00+00:00",
+        "endDate": "2025-02-17T00:00:00+00:00",
+        "releaseDate": "2025-01-24T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u738b\u6797"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 69,
+        "title": "Heavy Return",
+        "starHoldPercent": 40,
+        "startDate": "2024-12-30T00:00:00+00:00",
+        "endDate": "2025-01-20T00:00:00+00:00",
+        "releaseDate": "2024-12-27T04:08:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "Shiroko"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 68,
+        "title": "Extended Festivities",
+        "starHoldPercent": 40,
+        "startDate": "2024-11-25T00:00:00+00:00",
+        "endDate": "2024-12-23T00:00:00+00:00",
+        "releaseDate": "2024-11-22T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "\u6df1\u5733\u571f\u8c6a"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 67,
+        "title": "Heavy Weather",
+        "starHoldPercent": 40,
+        "startDate": "2024-10-28T00:00:00+00:00",
+        "endDate": "2024-11-18T00:00:00+00:00",
+        "releaseDate": "2024-10-25T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "TAKETSURU"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 66,
+        "title": "Rise of Rivalry",
+        "starHoldPercent": 40,
+        "startDate": "2024-09-30T00:00:00+00:00",
+        "endDate": "2024-10-21T00:00:00+00:00",
+        "releaseDate": "2024-09-27T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "\u85af\u6761\ud83c\udf5f"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 65,
+        "title": "Tides of Heroes",
+        "starHoldPercent": 40,
+        "startDate": "2024-09-02T00:00:00+00:00",
+        "endDate": "2024-09-23T00:00:00+00:00",
+        "releaseDate": "2024-08-30T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "GnailrM"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 64,
+        "title": "Naval Aviation",
+        "starHoldPercent": 40,
+        "startDate": "2024-08-05T00:00:00+00:00",
+        "endDate": "2024-08-26T00:00:00+00:00",
+        "releaseDate": "2024-08-02T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "Paul"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 63,
+        "title": "Extended Patrol",
+        "starHoldPercent": 40,
+        "startDate": "2024-07-01T00:00:00+00:00",
+        "endDate": "2024-07-29T00:00:00+00:00",
+        "releaseDate": "2024-06-28T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "235",
+            "260",
+            "290",
+            "325",
+            "360",
+            "400"
+        ],
+        "winner": {
+            "name": "glory"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 62,
+        "title": "Frozen Waters",
+        "starHoldPercent": 40,
+        "startDate": "2024-06-03T00:00:00+00:00",
+        "endDate": "2024-06-24T00:00:00+00:00",
+        "releaseDate": "2024-05-31T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "Autumn Leaf"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 61,
+        "title": "After the Storm",
+        "starHoldPercent": 40,
+        "startDate": "2024-05-06T00:00:00+00:00",
+        "endDate": "2024-05-27T00:00:00+00:00",
+        "releaseDate": "2024-05-04T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "\u6c64\u59c6\u548c\u6770\u745e\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 60,
+        "title": "April Fools!",
+        "starHoldPercent": 40,
+        "startDate": "2024-04-08T00:00:00+00:00",
+        "endDate": "2024-04-29T00:00:00+00:00",
+        "releaseDate": "2024-04-05T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "MrM"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 59,
+        "title": "W4: Season 36 Reloaded",
+        "starHoldPercent": 80,
+        "startDate": "2024-03-25T00:00:00+00:00",
+        "endDate": "2024-04-01T00:00:00+00:00",
+        "releaseDate": "2024-03-01T14:00:00+00:00",
+        "keyValues": [
+            "38",
+            "40",
+            "45",
+            "50",
+            "55",
+            "62"
+        ],
+        "tokenValues": [
+            "650",
+            "730",
+            "810",
+            "900",
+            "1000",
+            "1125"
+        ],
+        "winner": {
+            "name": "\u540e\u5c71\u9f8d\u982d\u2728"
+        },
+        "decks": true,
+        "duration": 7
+    },
+    {
+        "seasonNumber": 58,
+        "title": "W3: Season 31 Reloaded",
+        "starHoldPercent": 80,
+        "startDate": "2024-03-18T00:00:00+00:00",
+        "endDate": "2024-03-25T00:00:00+00:00",
+        "releaseDate": "2024-03-01T14:00:00+00:00",
+        "keyValues": [
+            "30",
+            "32",
+            "36",
+            "40",
+            "44",
+            "50"
+        ],
+        "tokenValues": [
+            "520",
+            "580",
+            "650",
+            "720",
+            "800",
+            "900"
+        ],
+        "winner": {
+            "name": "\u8fc5\u6377\u65a5\u5019\u2764\ufe0f\u63d0\u83ab"
+        },
+        "decks": true,
+        "duration": 7
+    },
+    {
+        "seasonNumber": 57,
+        "title": "W2: Season 25 Reloaded",
+        "starHoldPercent": 80,
+        "startDate": "2024-03-11T00:00:00+00:00",
+        "endDate": "2024-03-18T00:00:00+00:00",
+        "releaseDate": "2024-03-01T14:00:00+00:00",
+        "keyValues": [
+            "23",
+            "24",
+            "27",
+            "30",
+            "33",
+            "37"
+        ],
+        "tokenValues": [
+            "390",
+            "440",
+            "490",
+            "540",
+            "600",
+            "670"
+        ],
+        "winner": {
+            "name": "Corazon"
+        },
+        "decks": true,
+        "duration": 7
+    },
+    {
+        "seasonNumber": 56,
+        "title": "W1: Season 15 Reloaded",
+        "starHoldPercent": 40,
+        "startDate": "2024-03-04T00:00:00+00:00",
+        "endDate": "2024-03-11T00:00:00+00:00",
+        "releaseDate": "2024-03-01T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "Sun Chaser"
+        },
+        "decks": true,
+        "duration": 7
+    },
+    {
+        "seasonNumber": 55,
+        "title": "Brick leads the Charge!",
+        "starHoldPercent": 40,
+        "startDate": "2024-01-29T00:00:00+00:00",
+        "endDate": "2024-02-19T00:00:00+00:00",
+        "releaseDate": "2024-01-27T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "\u52c7\u95ef\u593a\u547d\u5c9b"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 54,
+        "title": "All Hands On Deck!",
+        "starHoldPercent": 40,
+        "startDate": "2024-01-01T00:00:00+00:00",
+        "endDate": "2024-01-22T00:00:00+00:00",
+        "releaseDate": "2023-12-30T14:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "22",
+            "25"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "400",
+            "450"
+        ],
+        "winner": {
+            "name": "Old Mother"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 53,
+        "title": "Extended Holiday",
+        "starHoldPercent": 40,
+        "startDate": "2023-11-27T00:00:00+00:00",
+        "endDate": "2023-12-25T00:00:00+00:00",
+        "releaseDate": "2023-11-25T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\ud83c\udde8\ud83c\uddf3\u6296y : \u6d77\u5c9b\u5947\u5175-\u706d\u4e16"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 52,
+        "title": "The Doctor's vacation",
+        "starHoldPercent": 40,
+        "startDate": "2023-10-30T00:00:00+00:00",
+        "endDate": "2023-11-20T00:00:00+00:00",
+        "releaseDate": "2023-10-22T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "MrM"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 51,
+        "title": "Oceanic Battleground",
+        "starHoldPercent": 0,
+        "startDate": "2023-09-25T00:00:00+00:00",
+        "endDate": "2023-10-16T00:00:00+00:00",
+        "releaseDate": "2023-09-23T17:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Noob Potato"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 50,
+        "title": "The Big Fifty!",
+        "starHoldPercent": 40,
+        "startDate": "2023-08-28T00:00:00+00:00",
+        "endDate": "2023-09-18T00:00:00+00:00",
+        "releaseDate": "2023-08-26T15:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Leviathan"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 49,
+        "title": "Storming the Seas",
+        "starHoldPercent": 40,
+        "startDate": "2023-07-31T00:00:00+00:00",
+        "endDate": "2023-08-21T00:00:00+00:00",
+        "releaseDate": "2023-07-29T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Dry The Sea\u2728"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 48,
+        "title": "Extended Cruise",
+        "starHoldPercent": 40,
+        "startDate": "2023-06-26T00:00:00+00:00",
+        "endDate": "2023-07-24T00:00:00+00:00",
+        "releaseDate": "2023-06-24T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Expect"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 47,
+        "title": "Ship-to-Ship showdown",
+        "starHoldPercent": 40,
+        "startDate": "2023-05-29T00:00:00+00:00",
+        "endDate": "2023-06-19T00:00:00+00:00",
+        "releaseDate": "2023-05-27T11:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Les Mis\u00e9rables"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 46,
+        "title": "Mayday, mayday!!",
+        "starHoldPercent": 40,
+        "startDate": "2023-05-01T00:00:00+00:00",
+        "endDate": "2023-05-22T00:00:00+00:00",
+        "releaseDate": "2023-04-29T13:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u68a6\u4e3f\u77ff\u6cc9\u6c34_"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 45,
+        "title": "Back to the roots",
+        "starHoldPercent": 40,
+        "startDate": "2023-03-27T00:00:00+00:00",
+        "endDate": "2023-04-24T00:00:00+00:00",
+        "releaseDate": "2023-03-25T14:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "230",
+            "250",
+            "280",
+            "340",
+            "430"
+        ],
+        "winner": {
+            "name": "\u68a6\u4e3f\u9752\u6885\u716e\u9152\u2764\ufe0f\u6234\u5148\u751f\u2728"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 44,
+        "title": "Heavy ship",
+        "starHoldPercent": 40,
+        "startDate": "2023-02-27T00:00:00+00:00",
+        "endDate": "2023-03-20T00:00:00+00:00",
+        "releaseDate": "2023-01-01T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Stoneheart"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 43,
+        "title": "Return of the Mech",
+        "starHoldPercent": 40,
+        "startDate": "2023-01-30T00:00:00+00:00",
+        "endDate": "2023-02-20T00:00:00+00:00",
+        "releaseDate": "2023-01-01T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Stoneheart"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 42,
+        "title": "Snow much fun",
+        "starHoldPercent": 40,
+        "startDate": "2023-01-02T00:00:00+00:00",
+        "endDate": "2023-01-23T00:00:00+00:00",
+        "releaseDate": "2023-01-01T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Lava Giant\ud83c\udf41"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 41,
+        "title": "Rough seas",
+        "starHoldPercent": 40,
+        "startDate": "2022-12-05T00:00:00+00:00",
+        "endDate": "2022-12-26T00:00:00+00:00",
+        "releaseDate": "2023-01-01T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u96e8\u540e\u5fae\u9633\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 40,
+        "title": "Shock party",
+        "starHoldPercent": 40,
+        "startDate": "2022-10-31T00:00:00+00:00",
+        "endDate": "2022-11-21T00:00:00+00:00",
+        "releaseDate": "2023-01-01T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "HM\u2600\ufe0f\u5e03\u5076"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 39,
+        "title": "Power up",
+        "starHoldPercent": 40,
+        "startDate": "2022-09-26T00:00:00+00:00",
+        "endDate": "2022-10-24T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "230",
+            "250",
+            "280",
+            "340",
+            "430"
+        ],
+        "winner": {
+            "name": "\u96e8\u540e\u5fae\u9633\u00b7\u5341\u5e74"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 38,
+        "title": "Abilities",
+        "starHoldPercent": 40,
+        "startDate": "2022-08-29T00:00:00+00:00",
+        "endDate": "2022-09-19T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Stoneheart"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 37,
+        "title": "In the trenches",
+        "starHoldPercent": 40,
+        "startDate": "2022-08-01T00:00:00+00:00",
+        "endDate": "2022-08-22T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u6c2a"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 36,
+        "title": "Bada boom",
+        "starHoldPercent": 40,
+        "startDate": "2022-06-27T00:00:00+00:00",
+        "endDate": "2022-07-25T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "230",
+            "250",
+            "280",
+            "340",
+            "430"
+        ],
+        "winner": {
+            "name": "\u5c0f\u4e5d\u8ff7\u59b9\u2b50\u809d\u5230\u51cc\u6668\u4e09\u70b9\u534a"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 35,
+        "title": "To the skies",
+        "starHoldPercent": 40,
+        "startDate": "2022-05-30T00:00:00+00:00",
+        "endDate": "2022-06-20T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u9b42\u4e36\u7ea2\u661f\u6751\u4e00\u7949\u7d2b\u6ce5\u574e\u7ec4"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 34,
+        "title": "March ahead",
+        "starHoldPercent": 40,
+        "startDate": "2022-05-02T00:00:00+00:00",
+        "endDate": "2022-05-23T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u9759\u6c34\u6d41\u6df1\u2602\ufe0f\u6ca7\u7b19\u8e0f\u6b4c\u2728"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 33,
+        "title": "Bite the bullet",
+        "starHoldPercent": 40,
+        "startDate": "2022-03-28T00:00:00+00:00",
+        "endDate": "2022-04-25T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "230",
+            "250",
+            "280",
+            "340",
+            "430"
+        ],
+        "winner": {
+            "name": "Super!"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 32,
+        "title": "Commanding for years",
+        "starHoldPercent": 40,
+        "startDate": "2022-02-28T00:00:00+00:00",
+        "endDate": "2022-03-21T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u90a3\u5c31\u97f3\u8baf\u5168\u65e0\u722c"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 31,
+        "title": "Commanders in control",
+        "starHoldPercent": 40,
+        "startDate": "2022-01-31T00:00:00+00:00",
+        "endDate": "2022-02-21T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u563b\u563b\u54c8\u54c8"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 30,
+        "title": "Freeze",
+        "starHoldPercent": 40,
+        "startDate": "2021-12-27T00:00:00+00:00",
+        "endDate": "2022-01-24T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "230",
+            "250",
+            "280",
+            "340",
+            "430"
+        ],
+        "winner": {
+            "name": "\u6e05\u6e90\u5999\u9053\u4e8c\u90ce\u663e\u5723\u771f\u541b\u2728\u6768\u8f7d"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 29,
+        "title": "Protos",
+        "starHoldPercent": 40,
+        "startDate": "2021-11-29T00:00:00+00:00",
+        "endDate": "2021-12-20T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u9b42\u4e36\u9b42\u7275\u68a6\u7ed5&\u4e8c\u90ce\u2764\ufe0f\u6768\u622c"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 28,
+        "title": "Tanks",
+        "starHoldPercent": 40,
+        "startDate": "2021-11-01T00:00:00+00:00",
+        "endDate": "2021-11-22T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "280",
+            "300",
+            "340",
+            "380",
+            "470",
+            "590"
+        ],
+        "winner": {
+            "name": "\u68a6\u4e36\u6728\u6728\u30bf\u4e3f\u60f3\u8981\u5927\u5956\u676f\u2728"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 27,
+        "title": "Heros",
+        "starHoldPercent": 40,
+        "startDate": "2021-09-27T00:00:00+00:00",
+        "endDate": "2021-10-25T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "230",
+            "250",
+            "280",
+            "340",
+            "430"
+        ],
+        "winner": {
+            "name": "\u5e7d\u7075\u65d7\u2694\ufe0f\u9b3c\u58a8\u2694\ufe0f"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 26,
+        "title": "Strike",
+        "starHoldPercent": 40,
+        "startDate": "2021-08-30T00:00:00+00:00",
+        "endDate": "2021-09-20T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u55b5\u2728\u4e0a\u6d77\u4ea4\u53cb\u4e36\u88e4\u88c6"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 25,
+        "title": "March ahead",
+        "starHoldPercent": 40,
+        "startDate": "2021-07-26T00:00:00+00:00",
+        "endDate": "2021-08-23T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "220",
+            "240",
+            "270",
+            "330",
+            "410"
+        ],
+        "winner": {
+            "name": "\u70df\u6c34\u5357\u90c1\uff5e\u4e50\u79cb\u521d\u84aa\u98de\u8bb8"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 24,
+        "title": "Grounded",
+        "starHoldPercent": 40,
+        "startDate": "2021-06-28T00:00:00+00:00",
+        "endDate": "2021-07-19T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u55b5\u2728\u5feb\u624b\u9759\u9759\u5416\u2614\u4e09\u4e09"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 23,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2021-05-31T00:00:00+00:00",
+        "endDate": "2021-06-21T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u516c\u5b50\u59d3\u5e8f"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 22,
+        "title": "Abilities",
+        "starHoldPercent": 40,
+        "startDate": "2021-04-26T00:00:00+00:00",
+        "endDate": "2021-05-24T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "220",
+            "250",
+            "270",
+            "300",
+            "380",
+            "470"
+        ],
+        "winner": {
+            "name": "\u6447\u6aac\u59d1\u51c9\u2764\ufe0f"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 21,
+        "title": "Protos",
+        "starHoldPercent": 40,
+        "startDate": "2021-03-29T00:00:00+00:00",
+        "endDate": "2021-04-19T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u6545\u77e5\u8db3\u4e0d\u8fb1\uff0c\u6b62\u4e0d\u6cbb\uff0c\u53ef\u4ee5\u957f\u4e45"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 20,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2021-03-01T00:00:00+00:00",
+        "endDate": "2021-03-22T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "13",
+            "14",
+            "15",
+            "17",
+            "21",
+            "26"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u624b\u5c11\u98de\u5eb7"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 19,
+        "title": "Wreck with Mech",
+        "starHoldPercent": 10,
+        "startDate": "2021-02-01T00:00:00+00:00",
+        "endDate": "2021-02-22T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "Kaktus_Youtube"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 18,
+        "title": "Freeze",
+        "starHoldPercent": 40,
+        "startDate": "2020-12-28T00:00:00+00:00",
+        "endDate": "2021-01-25T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "220",
+            "240",
+            "270",
+            "340",
+            "420"
+        ],
+        "winner": {
+            "name": "\u6765\u5f17\u53ca\u60f3\u7761"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 17,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2020-11-30T00:00:00+00:00",
+        "endDate": "2020-12-21T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "265",
+            "290",
+            "325",
+            "360",
+            "450",
+            "560"
+        ],
+        "winner": {
+            "name": "\u81ea\u663c\u89e3\u4e0d\u5f00\u7684\u7ed3\u9ed1\u591c\u6162\u6162\u8017\u2764\ufe0f\u56cd\u2661"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 16,
+        "title": "To the skies",
+        "starHoldPercent": 40,
+        "startDate": "2020-11-02T00:00:00+00:00",
+        "endDate": "2020-11-23T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "30"
+        ],
+        "tokenValues": [
+            "265",
+            "290",
+            "325",
+            "360",
+            "450",
+            "565"
+        ],
+        "winner": {
+            "name": "\u98de\u9f99"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 15,
+        "title": "Bombs away",
+        "starHoldPercent": 40,
+        "startDate": "2020-09-28T00:00:00+00:00",
+        "endDate": "2020-10-26T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "210",
+            "230",
+            "255",
+            "285",
+            "355",
+            "445"
+        ],
+        "winner": {
+            "name": "\u897f\u95e8\u5439\u5927\u70ae"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 14,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2020-08-31T00:00:00+00:00",
+        "endDate": "2020-09-21T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "13",
+            "14",
+            "15",
+            "17",
+            "21",
+            "25"
+        ],
+        "tokenValues": [
+            "250",
+            "290",
+            "325",
+            "355",
+            "450",
+            "550"
+        ],
+        "winner": {
+            "name": "Ares"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 13,
+        "title": "Protos",
+        "starHoldPercent": 40,
+        "startDate": "2020-08-03T00:00:00+00:00",
+        "endDate": "2020-08-24T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "32"
+        ],
+        "tokenValues": [
+            "260",
+            "290",
+            "325",
+            "355",
+            "450",
+            "550"
+        ],
+        "winner": {
+            "name": "\u5de6\u8fb9\u662f\u7231\u261c\u53f3\u8fb9\u662f\u6211\u7684\u65e0\u5948\u261e"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 12,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2020-06-29T00:00:00+00:00",
+        "endDate": "2020-07-20T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "205",
+            "230",
+            "250",
+            "280",
+            "250",
+            "440"
+        ],
+        "winner": {
+            "name": "\u864e\u7259\u6d1e\u67d0\u4eba \u25ce\u6d77\u2694\ufe0f\u738b\u25ce"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 11,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2020-06-01T00:00:00+00:00",
+        "endDate": "2020-06-22T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "15",
+            "16",
+            "18",
+            "20",
+            "25",
+            "32"
+        ],
+        "tokenValues": [
+            "285",
+            "320",
+            "350",
+            "400",
+            "500",
+            "620"
+        ],
+        "winner": {
+            "name": "\u4e0a\u6d77\u4ea4\u53cb\u4e36\u9b42\u7275\u68a6\u7ed5-\u6700\u6700\u5bb6\u6218\u9b42"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 10,
+        "title": "Seek and destroy",
+        "starHoldPercent": 40,
+        "startDate": "2020-04-27T00:00:00+00:00",
+        "endDate": "2020-05-25T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "17",
+            "21"
+        ],
+        "tokenValues": [
+            "200",
+            "220",
+            "245",
+            "270",
+            "340",
+            "425"
+        ],
+        "winner": {
+            "name": "Ares"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 9,
+        "title": "Take flight",
+        "starHoldPercent": 40,
+        "startDate": "2020-03-30T00:00:00+00:00",
+        "endDate": "2020-04-20T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "12",
+            "14",
+            "16",
+            "18",
+            "24",
+            "30"
+        ],
+        "tokenValues": [
+            "240",
+            "270",
+            "300",
+            "330",
+            "410",
+            "520"
+        ],
+        "winner": {
+            "name": "\u6613\u53ef"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 8,
+        "title": "Grounded",
+        "starHoldPercent": 40,
+        "startDate": "2020-03-02T00:00:00+00:00",
+        "endDate": "2020-03-23T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "12",
+            "14",
+            "16",
+            "18",
+            "24",
+            "30"
+        ],
+        "tokenValues": [
+            "240",
+            "270",
+            "300",
+            "330",
+            "410",
+            "520"
+        ],
+        "winner": {
+            "name": "\u6740\u624b\u2764\ufe0f\u8431\u5b9d"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 7,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2020-01-27T00:00:00+00:00",
+        "endDate": "2020-02-24T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "10",
+            "11",
+            "12",
+            "13",
+            "16",
+            "20"
+        ],
+        "tokenValues": [
+            "190",
+            "210",
+            "230",
+            "260",
+            "325",
+            "400"
+        ],
+        "winner": {
+            "name": "\u89e6\u624b\u623f\u53f712814223\u2764\ufe0f"
+        },
+        "decks": true,
+        "duration": 28
+    },
+    {
+        "seasonNumber": 6,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2019-12-30T00:00:00+00:00",
+        "endDate": "2020-01-20T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "12",
+            "14",
+            "16",
+            "18",
+            "24",
+            "30"
+        ],
+        "tokenValues": [
+            "240",
+            "270",
+            "300",
+            "330",
+            "410",
+            "520"
+        ],
+        "winner": {
+            "name": "\u2014\u53f6\u5b50\u2014"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 5,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2019-12-02T00:00:00+00:00",
+        "endDate": "2019-12-23T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "12",
+            "14",
+            "16",
+            "18",
+            "24",
+            "30"
+        ],
+        "tokenValues": [
+            "240",
+            "270",
+            "300",
+            "330",
+            "410",
+            "520"
+        ],
+        "winner": {
+            "name": "\u4e8c\u5341\u4e00_a'\u4e50"
+        },
+        "decks": true,
+        "duration": 21
+    },
+    {
+        "seasonNumber": 4,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2019-10-09T00:00:00+00:00",
+        "endDate": "2019-11-23T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "12",
+            "14",
+            "16",
+            "18",
+            "24",
+            "30"
+        ],
+        "tokenValues": [
+            "80",
+            "90",
+            "100",
+            "110",
+            "140",
+            "170"
+        ],
+        "winner": {
+            "name": "\u51e1\u4e8b\u4e0e\u5219\u7acb"
+        },
+        "decks": true,
+        "duration": 45
+    },
+    {
+        "seasonNumber": 3,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2019-06-26T00:00:00+00:00",
+        "endDate": "2019-09-22T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "5",
+            "6",
+            "8",
+            "10",
+            "12",
+            "15"
+        ],
+        "tokenValues": [
+            "30",
+            "40",
+            "50",
+            "60",
+            "80",
+            "100"
+        ],
+        "winner": {
+            "name": "QQ\u7fa477827596"
+        },
+        "decks": true,
+        "duration": 88
+    },
+    {
+        "seasonNumber": 2,
+        "title": "Untitled",
+        "starHoldPercent": 40,
+        "startDate": "2019-05-22T00:00:00+00:00",
+        "endDate": "2019-06-24T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "10",
+            "15",
+            "18",
+            "22",
+            "28",
+            "35"
+        ],
+        "tokenValues": [
+            "100",
+            "115",
+            "140",
+            "175",
+            "220",
+            "250"
+        ],
+        "winner": {
+            "name": "Whoopsy!!!"
+        },
+        "decks": true,
+        "duration": 33
+    },
+    {
+        "seasonNumber": 1,
+        "title": "Big bang",
+        "starHoldPercent": 0,
+        "startDate": "2019-04-15T00:00:00+00:00",
+        "endDate": "2019-05-20T00:00:00+00:00",
+        "releaseDate": "2023-03-21T00:00:00+00:00",
+        "keyValues": [
+            "20",
+            "25",
+            "30",
+            "35",
+            "40",
+            "50"
+        ],
+        "tokenValues": [
+            "130",
+            "140",
+            "160",
+            "175",
+            "220",
+            "275"
+        ],
+        "winner": {
+            "name": "sch160phren"
+        },
+        "decks": true,
+        "duration": 35
+    }
+]

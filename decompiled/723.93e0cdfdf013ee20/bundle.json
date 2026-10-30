@@ -1,0 +1,10 @@
+{
+  "type": "webpack",
+  "entryId": "",
+  "modules": [
+    {
+      "id": "9723",
+      "path": "./9723.js"
+    }
+  ]
+}

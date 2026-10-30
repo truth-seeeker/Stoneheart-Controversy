@@ -1,0 +1,1 @@
+{"id":2770,"level":2,"strength":8.0,"rawData":{"sourceName":"GainBoatDamage","localOverrides":[],"warshipConfiguration":{"tech":10,"count":1,"level":2,"children":[],"stat_level":2,"stat_values":{"effect_value":80},"stat_context":"warship","upgrade_cost":320000}},"effectValue":80,"itemId":149}
